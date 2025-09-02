@@ -1,0 +1,792 @@
+{
+  "encoding": "utf-8",
+  "version": "1.0",
+  "league": {
+    "auction_kind": "email",
+    "injuredReserve": "30",
+    "survivorPoolEndWeek": "17",
+    "victoryPointsBuckets": "2 1 0",
+    "divisions": {
+      "count": "8",
+      "division": [
+        {
+          "name": "East",
+          "conference": "00",
+          "id": "00"
+        },
+        {
+          "conference": "00",
+          "id": "01",
+          "name": "North"
+        },
+        {
+          "conference": "00",
+          "id": "02",
+          "name": "South"
+        },
+        {
+          "conference": "00",
+          "id": "03",
+          "name": "West"
+        },
+        {
+          "id": "04",
+          "conference": "01",
+          "name": "East"
+        },
+        {
+          "conference": "01",
+          "id": "05",
+          "name": "North"
+        },
+        {
+          "name": "South",
+          "id": "06",
+          "conference": "01"
+        },
+        {
+          "id": "07",
+          "conference": "01",
+          "name": "West"
+        }
+      ]
+    },
+    "includeIRWithSalary": "100",
+    "fantasyPoolType": "Pickem",
+    "draft_kind": "email",
+    "startWeek": "1",
+    "lockout": "No",
+    "fantasyPoolStartWeek": "1",
+    "playerLimitUnit": "CONFERENCE",
+    "bestLineup": "No",
+    "survivorPoolStartWeek": "1",
+    "mobileAlerts": "",
+    "history": {
+      "league": [
+        {
+          "url": "https://www46.myfantasyleague.com/2025/home/60206",
+          "year": "2025"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2016/home/60206",
+          "year": "2016"
+        },
+        {
+          "year": "2017",
+          "url": "http://www46.myfantasyleague.com/2017/home/60206"
+        },
+        {
+          "url": "http://www46.myfantasyleague.com/2018/home/60206",
+          "year": "2018"
+        },
+        {
+          "year": "2019",
+          "url": "https://www46.myfantasyleague.com/2019/home/60206"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2020/home/60206",
+          "year": "2020"
+        },
+        {
+          "year": "2021",
+          "url": "https://www46.myfantasyleague.com/2021/home/60206"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2022/home/60206",
+          "year": "2022"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2023/home/60206",
+          "year": "2023"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2024/home/60206",
+          "year": "2024"
+        }
+      ]
+    },
+    "victoryPointsEndWeek": "17",
+    "victoryPointsTie": "1",
+    "conferences": {
+      "count": "2",
+      "conference": [
+        {
+          "id": "00",
+          "name": "NFC"
+        },
+        {
+          "id": "01",
+          "name": "AFC"
+        }
+      ]
+    },
+    "starters": {
+      "position": [
+        {
+          "limit": "1",
+          "name": "QB"
+        },
+        {
+          "name": "RB",
+          "limit": "1-2"
+        },
+        {
+          "limit": "2-4",
+          "name": "WR"
+        },
+        {
+          "name": "TE",
+          "limit": "1-2"
+        },
+        {
+          "name": "PK",
+          "limit": "1"
+        },
+        {
+          "limit": "1",
+          "name": "PN"
+        },
+        {
+          "limit": "2-3",
+          "name": "DT"
+        },
+        {
+          "name": "DE",
+          "limit": "2-3"
+        },
+        {
+          "limit": "1-3",
+          "name": "LB"
+        },
+        {
+          "name": "CB",
+          "limit": "2-4"
+        },
+        {
+          "limit": "2-3",
+          "name": "S"
+        }
+      ],
+      "iop_starters": "7",
+      "count": "21",
+      "idp_starters": "12"
+    },
+    "bidIncrement": "0.10",
+    "loadRosters": "email_draft_email_auction",
+    "endWeek": "17",
+    "partialLineupAllowed": "YES",
+    "taxiSquad": "5",
+    "name": "Analytics Dynasty League",
+    "id": "60206",
+    "maxWaiverRounds": "8",
+    "draftPlayerPool": "Rookie",
+    "salaryCapAmount": "",
+    "h2h": "YES",
+    "draftTimer": "ONS",
+    "minBid": "1",
+    "rosterLimits": {
+      "position": [
+        {
+          "limit": "0-0",
+          "name": "QB"
+        },
+        {
+          "name": "RB",
+          "limit": "0-0"
+        },
+        {
+          "limit": "0-0",
+          "name": "WR"
+        },
+        {
+          "limit": "0-0",
+          "name": "TE"
+        },
+        {
+          "limit": "0-0",
+          "name": "PK"
+        },
+        {
+          "limit": "0-0",
+          "name": "PN"
+        },
+        {
+          "limit": "0-0",
+          "name": "DT"
+        },
+        {
+          "limit": "0-0",
+          "name": "DE"
+        },
+        {
+          "limit": "0-0",
+          "name": "LB"
+        },
+        {
+          "name": "CB",
+          "limit": "0-0"
+        },
+        {
+          "name": "S",
+          "limit": "0-0"
+        }
+      ]
+    },
+    "survivorPool": "Yes",
+    "fantasyPoolEndWeek": "17",
+    "lastRegularSeasonWeek": "12",
+    "draftTimerSusp": "01 08",
+    "usesContractYear": "1",
+    "standingsSort": "PCT,H2H,ALL_PLAY_PCT,PTS,",
+    "victoryPointsWin": "2",
+    "defaultTradeExpirationDays": "5",
+    "victoryPointsLoss": "0",
+    "currentWaiverType": "WAIVERS_FCFS",
+    "rostersPerPlayer": "1",
+    "franchises": {
+      "franchise": [
+        {
+          "id": "0001",
+          "waiverSortOrder": "11",
+          "future_draft_picks": "FP_0001_2026_4,FP_0001_2026_5,FP_0001_2027_2,FP_0001_2027_3,FP_0001_2027_5,FP_0011_2026_2,FP_0011_2026_4,FP_0004_2026_4,FP_0005_2026_5,FP_0008_2026_5,FP_0001_2026_1,FP_0006_2026_5,",
+          "name": " Dallas  Cowboys",
+          "abbrev": "DAL",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0001.jpg",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0001.png",
+          "email": "seth.coven@gmail.com",
+          "salaryCapAmount": "239.94",
+          "division": "00",
+          "cell2": "",
+          "owner_name": "Seth Coven",
+          "cell": "6178729504",
+          "lastVisit": "1756774084",
+          "country": "US"
+        },
+        {
+          "email": "russ.mataya@gmail.com",
+          "salaryCapAmount": "234.70",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0002.png",
+          "future_draft_picks": "FP_0002_2026_1,FP_0002_2026_2,FP_0009_2026_5,FP_0009_2026_2,FP_0002_2027_1,FP_0002_2027_2,FP_0002_2027_4,FP_0002_2027_5,FP_0009_2026_3,FP_0012_2026_4,FP_0009_2027_4,",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0002.jpg",
+          "abbrev": "NYG",
+          "name": "New York Giants",
+          "id": "0002",
+          "waiverSortOrder": "14",
+          "lastVisit": "1756747800",
+          "country": "US",
+          "owner_name": "  Russell  Mataya",
+          "division": "00"
+        },
+        {
+          "cell": "8104491850",
+          "country": "US",
+          "lastVisit": "1756776142",
+          "division": "00",
+          "owner_name": "Schuyler   Ferguson ",
+          "cell2": "",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0003.png",
+          "salaryCapAmount": "231.76",
+          "email": "schuyler.ferguson@gmail.com",
+          "waiverSortOrder": "12",
+          "id": "0003",
+          "future_draft_picks": "FP_0003_2026_1,FP_0003_2026_3,FP_0003_2026_5,FP_0003_2027_1,FP_0003_2027_2,FP_0003_2027_3,FP_0003_2027_4,FP_0003_2027_5,FP_0011_2026_3,",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0003.jpg",
+          "name": "Philadelphia   Eagles ",
+          "abbrev": "PHI"
+        },
+        {
+          "waiverSortOrder": "9",
+          "id": "0004",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_icon0004.png",
+          "name": "  Washington  Commanders",
+          "abbrev": "WAS",
+          "future_draft_picks": "FP_0004_2026_1,FP_0004_2026_2,FP_0004_2026_3,FP_0004_2026_5,FP_0004_2027_1,FP_0004_2027_2,FP_0004_2027_3,FP_0004_2027_4,FP_0004_2027_5,FP_0010_2026_2,FP_0001_2027_1,",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0004.png",
+          "salaryCapAmount": "245.66",
+          "email": "chasemarak@yahoo.com",
+          "division": "00",
+          "owner_name": "  Chase ",
+          "country": "US",
+          "lastVisit": "1756660964"
+        },
+        {
+          "email": "fili.mikey@gmail.com,wittecarson@gmail.com",
+          "salaryCapAmount": "242.15",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0005.png",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0005.jpg",
+          "name": "Chicago Bears",
+          "abbrev": "CHI",
+          "future_draft_picks": "FP_0005_2026_1,FP_0005_2026_3,FP_0005_2027_1,FP_0005_2027_2,FP_0005_2027_3,FP_0005_2027_4,FP_0009_2027_2,FP_0012_2026_2,FP_0016_2026_5,FP_0005_2026_4,FP_0015_2026_4,",
+          "id": "0005",
+          "waiverSortOrder": "16",
+          "lastVisit": "1756749682",
+          "country": "US",
+          "cell": "7347300578",
+          "cell2": "",
+          "owner_name": "Mike Filicicchia",
+          "division": "01"
+        },
+        {
+          "abbrev": "DET",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0006.jpg",
+          "name": "Detroit Lions",
+          "future_draft_picks": "FP_0006_2026_1,FP_0006_2026_2,FP_0006_2026_3,FP_0006_2026_4,FP_0006_2027_1,FP_0006_2027_2,FP_0006_2027_3,FP_0006_2027_4,FP_0006_2027_5,FP_0001_2026_2,",
+          "id": "0006",
+          "stadium": "  Ford  Field",
+          "waiverSortOrder": "4",
+          "email": "joe.omara@yahoo.com",
+          "salaryCapAmount": "244.28",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0006.png",
+          "state": "MI",
+          "owner_name": "Joe",
+          "division": "01",
+          "lastVisit": "1756776879",
+          "country": "US"
+        },
+        {
+          "owner_name": "Nick McLaren",
+          "division": "01",
+          "lastVisit": "1756789085",
+          "country": "US",
+          "future_draft_picks": "FP_0007_2026_1,FP_0007_2026_2,FP_0007_2026_3,FP_0007_2026_4,FP_0007_2026_5,FP_0009_2026_4,FP_0007_2027_1,FP_0007_2027_2,FP_0007_2027_3,FP_0007_2027_4,FP_0007_2027_5,",
+          "name": "  Green  Bay Packers",
+          "abbrev": "GBP",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0007.jpg",
+          "id": "0007",
+          "waiverSortOrder": "10",
+          "stadium": "Lombardi Field",
+          "email": "mclarenc@umich.edu",
+          "salaryCapAmount": "246.89",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0007.png"
+        },
+        {
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0008.png",
+          "state": "MN",
+          "salaryCapAmount": "242.50",
+          "email": "tino9477@gmail.com",
+          "waiverSortOrder": "8",
+          "address": "1250 1st CT. NE",
+          "id": "0008",
+          "abbrev": "MIN",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0008.jpg",
+          "name": "Minnesota Vikings",
+          "future_draft_picks": "FP_0008_2026_1,FP_0008_2026_2,FP_0008_2026_3,FP_0008_2026_4,FP_0008_2027_1,FP_0008_2027_2,FP_0008_2027_3,FP_0008_2027_4,FP_0008_2027_5,",
+          "phone": "5072714405",
+          "city": "Byron",
+          "country": "US",
+          "zip": "55920",
+          "lastVisit": "1756783997",
+          "division": "01",
+          "owner_name": "Joshua Valentino"
+        },
+        {
+          "id": "0009",
+          "sound": "http://soundbible.com/1517-Screaming-Hawk.html",
+          "waiverSortOrder": "3",
+          "future_draft_picks": "FP_0009_2026_1,FP_0009_2027_1,FP_0009_2027_3,FP_0001_2026_3,FP_0005_2027_5,FP_0014_2026_3,",
+          "name": "Atlanta Falcons",
+          "abbrev": "ATL",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0009.jpg",
+          "state": "TX",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0009.png",
+          "email": "patrick.v.coyle@gmail.com",
+          "salaryCapAmount": "232.40",
+          "division": "02",
+          "cell2": "",
+          "owner_name": "  Patrick  Coyle",
+          "city": "Wichita Falls",
+          "lastVisit": "1756743138",
+          "zip": "76308",
+          "country": "US"
+        },
+        {
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0010.png",
+          "email": "rlynch@alum.mit.edu",
+          "salaryCapAmount": "246.89",
+          "id": "0010",
+          "waiverSortOrder": "7",
+          "name": "Carolina Panthers",
+          "abbrev": "CAR",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0010.jpg",
+          "future_draft_picks": "FP_0010_2026_1,FP_0010_2026_3,FP_0010_2026_4,FP_0010_2027_1,FP_0010_2027_2,FP_0010_2027_5,",
+          "cell": "8476930667",
+          "lastVisit": "1756784100",
+          "country": "US",
+          "division": "02",
+          "cell2": "",
+          "owner_name": "Ryan Lynch"
+        },
+        {
+          "email": "amitttamar@aim.com",
+          "salaryCapAmount": "246.89",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0011.png",
+          "state": "LA",
+          "name": "New Orleans Saints",
+          "abbrev": "NOS",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0011.jpg",
+          "future_draft_picks": "FP_0002_2026_4,FP_0003_2026_2,FP_0003_2026_4,FP_0002_2026_5,FP_0011_2027_1,FP_0011_2027_2,FP_0011_2027_3,FP_0011_2027_4,FP_0011_2027_5,FP_0001_2027_4,FP_0010_2026_5,FP_0010_2027_3,FP_0010_2027_4,FP_0013_2027_1,FP_0002_2027_3,FP_0009_2027_5,",
+          "id": "0011",
+          "stadium": "Mercedes-Benz Superdome",
+          "waiverSortOrder": "2",
+          "zip": "70343",
+          "lastVisit": "1756757188",
+          "twitterUsername": "@spacelordmotha",
+          "country": "US",
+          "city": "Bourg",
+          "cell": "9853609057",
+          "owner_name": "Amit Tamar",
+          "division": "02"
+        },
+        {
+          "future_draft_picks": "FP_0012_2026_1,FP_0012_2026_3,FP_0012_2026_5,FP_0012_2027_1,FP_0012_2027_2,FP_0012_2027_3,FP_0012_2027_4,FP_0012_2027_5,FP_0016_2027_5,",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0012.jpg",
+          "name": "Tampa Bay Buccaneers",
+          "abbrev": "TBB",
+          "waiverSortOrder": "15",
+          "id": "0012",
+          "salaryCapAmount": "227.43",
+          "email": "j.p.fiteni@gmail.com",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0012.png",
+          "owner_name": "J.P. Fiteni",
+          "division": "02",
+          "country": "US",
+          "lastVisit": "1756732787"
+        },
+        {
+          "division": "03",
+          "cell2": "6163343308",
+          "owner_name": "Gideon D'Assandro",
+          "cell": "6163343308",
+          "lastVisit": "1756745664",
+          "country": "US",
+          "id": "0013",
+          "waiverSortOrder": "5",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0013.jpg",
+          "abbrev": "ARI",
+          "name": "Arizona Cardinals",
+          "future_draft_picks": "FP_0013_2026_1,FP_0013_2026_2,FP_0013_2026_3,FP_0013_2026_4,FP_0013_2026_5,FP_0013_2027_2,FP_0013_2027_3,FP_0013_2027_4,FP_0013_2027_5,FP_0011_2026_1,",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0013.png",
+          "email": "gdassandro@gmail.com",
+          "salaryCapAmount": "231.02"
+        },
+        {
+          "stadium": "SoFi Stadium",
+          "waiverSortOrder": "13",
+          "id": "0014",
+          "sound": "http://www.thesoundarchive.com/play-wav-files.asp?sound=starwars/chewy_roar.wav",
+          "name": "Los Angeles Rams",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2021/22686_franchise_icon0016.png",
+          "abbrev": "LAR",
+          "future_draft_picks": "FP_0014_2026_1,FP_0014_2026_2,FP_0014_2026_4,FP_0014_2026_5,FP_0014_2027_1,FP_0014_2027_2,FP_0014_2027_3,FP_0014_2027_4,FP_0014_2027_5,",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0016.png",
+          "salaryCapAmount": "240.81",
+          "email": "cgbarense@gmail.com",
+          "division": "03",
+          "owner_name": "  Chandler  Barense",
+          "country": "US",
+          "lastVisit": "1756784087"
+        },
+        {
+          "abbrev": "SFO",
+          "name": "San Francisco 49ers",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0014.jpg",
+          "future_draft_picks": "FP_0015_2026_1,FP_0015_2026_2,FP_0015_2026_3,FP_0015_2026_5,FP_0015_2027_1,FP_0015_2027_2,FP_0015_2027_3,FP_0015_2027_4,FP_0015_2027_5,FP_0011_2026_5,",
+          "id": "0015",
+          "waiverSortOrder": "6",
+          "email": "jrduiven@gmail.com",
+          "salaryCapAmount": "246.89",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0014.png",
+          "state": "MI",
+          "owner_name": "Jack Duiven",
+          "division": "03",
+          "lastVisit": "1756743443",
+          "country": "US",
+          "city": "Ann Arbor"
+        },
+        {
+          "country": "US",
+          "lastVisit": "1756789056",
+          "division": "03",
+          "owner_name": "Paul Stone",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0015.png",
+          "salaryCapAmount": "242.07",
+          "email": "paul@stone.org",
+          "stadium": "Lumen Field",
+          "waiverSortOrder": "1",
+          "id": "0016",
+          "abbrev": "SEA",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0015.jpg",
+          "name": "Seattle Seahawks",
+          "future_draft_picks": "FP_0016_2026_1,FP_0016_2026_2,FP_0016_2026_3,FP_0016_2026_4,FP_0016_2027_1,FP_0016_2027_2,FP_0016_2027_3,FP_0016_2027_4,FP_0005_2026_2,FP_0002_2026_3,"
+        },
+        {
+          "future_draft_picks": "FP_0017_2026_1,FP_0017_2026_2,FP_0017_2026_3,FP_0017_2026_4,FP_0017_2026_5,FP_0030_2026_5,FP_0017_2027_1,FP_0017_2027_2,FP_0017_2027_3,FP_0017_2027_4,FP_0017_2027_5,FP_0020_2027_3,",
+          "use_advanced_editor": "Yes",
+          "abbrev": "BUF",
+          "name": "Buffalo Bills",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0017.jpg",
+          "time_zone": "ET",
+          "id": "0017",
+          "waiverSortOrder": "28",
+          "email": "nvitolano@outlook.com",
+          "salaryCapAmount": "243.38",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0017.png",
+          "play_audio": "Yes",
+          "username": "themetrohs",
+          "cell2": "",
+          "owner_name": "Nick Vitolano",
+          "division": "04",
+          "lastVisit": "1756789091",
+          "mail_event": "DRAFT,LINEUP,LREMINDER,MSG_BOARD,ONTHECLOCK,POLL,RESULT,TBAIT,",
+          "country": "US",
+          "cell": "6312766190"
+        },
+        {
+          "email": "zacharyhall2017@gmail.com",
+          "salaryCapAmount": "246.80",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0018.png",
+          "future_draft_picks": "FP_0018_2026_1,FP_0018_2026_3,FP_0018_2026_4,FP_0018_2027_1,FP_0018_2027_2,FP_0018_2027_3,FP_0018_2027_4,FP_0018_2027_5,",
+          "name": "Miami Dolphins",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0018.jpg",
+          "abbrev": "MIA",
+          "id": "0018",
+          "waiverSortOrder": "27",
+          "lastVisit": "1756775515",
+          "country": "US",
+          "phone": "504-722-4745",
+          "owner_name": "Zachary   Hall ",
+          "division": "04"
+        },
+        {
+          "lastVisit": "1756775923",
+          "division": "04",
+          "owner_name": "Matthew Jo",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0019.png",
+          "email": "matthewjo01@gmail.com",
+          "salaryCapAmount": "233.37",
+          "id": "0019",
+          "waiverSortOrder": "19",
+          "future_draft_picks": "FP_0019_2026_1,FP_0019_2026_2,FP_0019_2026_4,FP_0019_2027_1,FP_0019_2027_2,FP_0019_2027_3,FP_0019_2027_4,FP_0019_2027_5,FP_0021_2027_5,FP_0021_2026_4,",
+          "name": "New England Patriots",
+          "abbrev": "NEP",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0019.jpg"
+        },
+        {
+          "name": "New York Jets",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0020.jpg",
+          "abbrev": "NYJ",
+          "future_draft_picks": "FP_0020_2026_1,FP_0020_2026_2,FP_0020_2026_3,FP_0020_2027_1,FP_0020_2027_2,",
+          "waiverSortOrder": "20",
+          "id": "0020",
+          "sound": "https://www45.myfantasyleague.com/fflnetdynamic2017/19611_franchise_sound0009.mp3",
+          "salaryCapAmount": "226.97",
+          "email": "clohr9@gmx.de, mertenmax11@gmail.com, mhandschuhmacher66@gmail.com",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0020.png",
+          "owner_name": "Christian Lohr, Max Merten, Marvin Handschuhmacher",
+          "division": "04",
+          "country": "US",
+          "lastVisit": "1756772312"
+        },
+        {
+          "waiverSortOrder": "17",
+          "id": "0021",
+          "sound": "http://soundbible.com/422-Raven-Sound-Clip.html",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0021.jpg",
+          "name": "Baltimore Ravens",
+          "abbrev": "BAL",
+          "future_draft_picks": "FP_0021_2026_1,FP_0021_2026_2,FP_0021_2026_3,FP_0021_2027_1,FP_0021_2027_2,FP_0021_2027_3,FP_0018_2026_2,FP_0020_2026_5,FP_0020_2027_5,",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0021.png",
+          "salaryCapAmount": "246.89",
+          "email": "jyshah119@gmail.com",
+          "division": "05",
+          "owner_name": "Jon Shah",
+          "country": "US",
+          "lastVisit": "1756769963"
+        },
+        {
+          "lastVisit": "1756782671",
+          "country": "US",
+          "owner_name": "  James  Martin",
+          "division": "05",
+          "email": "jamesmartin44@gmail.com",
+          "salaryCapAmount": "246.89",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0022.png",
+          "future_draft_picks": "FP_0022_2026_1,FP_0022_2026_2,FP_0022_2026_3,FP_0022_2026_4,FP_0022_2026_5,FP_0022_2027_1,FP_0022_2027_2,FP_0022_2027_3,FP_0022_2027_4,FP_0022_2027_5,",
+          "name": "Cincinnati Bengals",
+          "abbrev": "CIN",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0022.jpg",
+          "id": "0022",
+          "waiverSortOrder": "22"
+        },
+        {
+          "salaryCapAmount": "227.85",
+          "email": "pschill97@icloud.com",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0023.png",
+          "future_draft_picks": "FP_0023_2026_1,FP_0023_2026_2,FP_0023_2026_4,FP_0030_2026_3,FP_0030_2026_4,FP_0023_2027_1,FP_0023_2027_2,FP_0023_2027_3,FP_0023_2027_4,FP_0023_2027_5,FP_0031_2026_3,FP_0023_2026_5,",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0023.jpg",
+          "abbrev": "CLE",
+          "name": "Cleveland Browns",
+          "waiverSortOrder": "26",
+          "id": "0023",
+          "country": "US",
+          "lastVisit": "1756494519",
+          "owner_name": "Philip Schill",
+          "division": "05"
+        },
+        {
+          "abbrev": "PIT",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0024.jpg",
+          "name": "Pittsburgh Steelers",
+          "future_draft_picks": "FP_0024_2026_1,FP_0024_2026_2,FP_0024_2026_3,FP_0024_2026_4,FP_0024_2026_5,FP_0024_2027_1,FP_0024_2027_2,FP_0024_2027_3,FP_0024_2027_4,FP_0024_2027_5,",
+          "sound": "http://www.steelergridiron.com/fanzone/audio/29_Unknown%20-%20Steelers%20Nation.mp3",
+          "id": "0024",
+          "waiverSortOrder": "23",
+          "email": "alexhfeazelle@gmail.com, juwanhollins@gmail.com",
+          "salaryCapAmount": "228.54",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0024.png",
+          "owner_name": "Alex Feazelle, Juwan   Hollins ",
+          "division": "05",
+          "lastVisit": "1756679005"
+        },
+        {
+          "sound": "https://youtu.be/tKnG06-oYcg?t=1s",
+          "id": "0025",
+          "waiverSortOrder": "29",
+          "stadium": "Mexico",
+          "future_draft_picks": "FP_0025_2026_1,FP_0025_2026_2,FP_0025_2026_3,FP_0025_2026_4,FP_0025_2026_5,FP_0025_2027_1,FP_0025_2027_2,FP_0025_2027_3,FP_0025_2027_4,FP_0025_2027_5,",
+          "name": "  Houston  Texans",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0025.jpg",
+          "abbrev": "HOU",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0025.png",
+          "email": "xylarboden@gmail.com,trh14310@gmail.com",
+          "salaryCapAmount": "226.92",
+          "division": "06",
+          "cell2": "631-275-7475",
+          "owner_name": "Eugene Mok,   Thomas  Haslip",
+          "cell": "201-739-4571",
+          "lastVisit": "1756764302",
+          "country": "US"
+        },
+        {
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0026.png",
+          "salaryCapAmount": "236.54",
+          "email": "andrewrmast@gmail.com",
+          "waiverSortOrder": "31",
+          "id": "0026",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0026.jpg",
+          "name": "Indianapolis Colts",
+          "abbrev": "IND",
+          "future_draft_picks": "FP_0026_2026_1,FP_0026_2026_2,FP_0026_2026_3,FP_0026_2026_4,FP_0026_2026_5,FP_0026_2027_1,FP_0026_2027_2,FP_0026_2027_3,FP_0026_2027_5,FP_0030_2027_5,",
+          "country": "US",
+          "lastVisit": "1756745701",
+          "division": "06",
+          "owner_name": "Andrew Mast"
+        },
+        {
+          "lastVisit": "1756780897",
+          "country": "US",
+          "owner_name": "Douglass Duffy",
+          "division": "06",
+          "email": "douglassduffy@gmail.com",
+          "salaryCapAmount": "243.70",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0027.png",
+          "name": "Jacksonville Jaguars",
+          "abbrev": "JAC",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0027.jpg",
+          "future_draft_picks": "FP_0027_2026_1,FP_0027_2026_2,FP_0027_2026_3,FP_0027_2026_4,FP_0027_2026_5,FP_0027_2027_1,FP_0027_2027_2,FP_0027_2027_3,FP_0027_2027_4,FP_0027_2027_5,",
+          "id": "0027",
+          "waiverSortOrder": "21"
+        },
+        {
+          "cell": "5172858786",
+          "lastVisit": "1756760954",
+          "twitterUsername": "tishield",
+          "country": "US",
+          "division": "06",
+          "owner_name": "Tim Shields",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0028.png",
+          "email": "tishield@gmail.com",
+          "salaryCapAmount": "234.06",
+          "id": "0028",
+          "waiverSortOrder": "24",
+          "future_draft_picks": "FP_0028_2026_1,FP_0028_2026_2,FP_0028_2026_3,FP_0028_2026_4,FP_0028_2026_5,FP_0028_2027_1,FP_0028_2027_2,FP_0028_2027_3,FP_0028_2027_4,FP_0028_2027_5,",
+          "abbrev": "TEN",
+          "name": "Tennessee Titans",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0028.jpg"
+        },
+        {
+          "abbrev": "DEN",
+          "name": "Denver Broncos",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0029.jpg",
+          "future_draft_picks": "FP_0029_2026_1,FP_0029_2026_2,FP_0029_2026_3,FP_0029_2026_4,FP_0029_2026_5,FP_0021_2026_5,FP_0029_2027_1,FP_0029_2027_2,FP_0029_2027_4,FP_0031_2026_5,FP_0021_2027_4,FP_0019_2026_5,FP_0018_2026_5,",
+          "id": "0029",
+          "waiverSortOrder": "18",
+          "email": "mv.baker@gmail.com",
+          "salaryCapAmount": "242.48",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0029.png",
+          "cell2": "",
+          "owner_name": "Marc   Baker ",
+          "division": "07",
+          "lastVisit": "1756774914",
+          "country": "CA",
+          "phone": "2894390868",
+          "cell": "2894390868"
+        },
+        {
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0030.png",
+          "salaryCapAmount": "235.43",
+          "email": "wittecarson@gmail.com",
+          "waiverSortOrder": "32",
+          "id": "0030",
+          "future_draft_picks": "FP_0030_2026_1,FP_0030_2026_2,FP_0023_2026_3,FP_0030_2027_1,FP_0030_2027_2,FP_0030_2027_3,FP_0030_2027_4,FP_0019_2026_3,FP_0029_2027_5,FP_0029_2027_3,FP_0026_2027_4,FP_0020_2027_4,FP_0031_2027_5,",
+          "name": "Kansas City Chiefs",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0030.jpg",
+          "abbrev": "KCC",
+          "phone": "6167804841",
+          "country": "US",
+          "lastVisit": "1756771686",
+          "division": "07",
+          "owner_name": "Carson Witte"
+        },
+        {
+          "owner_name": "Jonathan   Bell ",
+          "division": "07",
+          "lastVisit": "1756487388",
+          "country": "US",
+          "future_draft_picks": "FP_0031_2026_1,FP_0031_2026_2,FP_0031_2026_4,FP_0031_2027_1,FP_0031_2027_2,FP_0031_2027_3,FP_0031_2027_4,",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0031.jpg",
+          "name": "Las Vegas Raiders",
+          "abbrev": "LVR",
+          "id": "0031",
+          "waiverSortOrder": "25",
+          "email": "jonbell31@gmail.com",
+          "salaryCapAmount": "228.55",
+          "state": "OH",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0031.png"
+        },
+        {
+          "country": "US",
+          "lastVisit": "1756780392",
+          "division": "07",
+          "owner_name": "  Thomas ",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2022/22686_franchise_logo0032.png",
+          "salaryCapAmount": "246.06",
+          "email": "thco@yahoo.com",
+          "waiverSortOrder": "30",
+          "id": "0032",
+          "name": "Los Angeles Chargers",
+          "abbrev": "LAC",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2014/37677_franchise_icon0032.jpg",
+          "future_draft_picks": "FP_0032_2026_1,FP_0032_2026_2,FP_0032_2026_3,FP_0032_2026_4,FP_0032_2026_5,FP_0032_2027_1,FP_0032_2027_2,FP_0032_2027_3,FP_0032_2027_4,FP_0032_2027_5,FP_0020_2026_4,"
+        }
+      ],
+      "count": "32"
+    },
+    "usesSalaries": "1",
+    "draftLimitHours": "4:00",
+    "victoryPointsStartWeek": "1",
+    "rosterSize": "45",
+    "precision": "1",
+    "baseURL": "https://www46.myfantasyleague.com"
+  }
+}

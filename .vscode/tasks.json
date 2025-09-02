@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run transactions ingest",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"ingest/transactions.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$python"
+			],
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,1560 @@
+{
+  "version": "1.0",
+  "draftResults": {
+    "draftUnit": [
+      {
+        "static_url": "https://www46.myfantasyleague.com/fflnetdynamic2025/60206_CONFERENCE00_draft_results.xml",
+        "draftPick": [
+          {
+            "franchise": "0016",
+            "round": "01",
+            "comments": "[Pick made from Pre-Draft List] A product of a small college nobody has ever heard of. We were unable to find any tape of him. However, as a fellow former military brat, we thought we'd give this plucky young upstart a chance.",
+            "timestamp": "1745928024",
+            "pick": "01",
+            "player": "17042"
+          },
+          {
+            "player": "17044",
+            "timestamp": "1745931873",
+            "pick": "02",
+            "franchise": "0011",
+            "round": "01",
+            "comments": "Good luck 🤞🍀"
+          },
+          {
+            "player": "17074",
+            "pick": "03",
+            "timestamp": "1745932338",
+            "comments": "[Pick traded from Atlanta Falcons.] ",
+            "round": "01",
+            "franchise": "0005"
+          },
+          {
+            "franchise": "0006",
+            "round": "01",
+            "comments": "",
+            "timestamp": "1745934769",
+            "pick": "04",
+            "player": "17071"
+          },
+          {
+            "comments": "",
+            "round": "01",
+            "franchise": "0013",
+            "pick": "05",
+            "timestamp": "1745960824",
+            "player": "17030"
+          },
+          {
+            "comments": "It hurts...it hurts 😢",
+            "franchise": "0015",
+            "round": "01",
+            "pick": "06",
+            "timestamp": "1745965847",
+            "player": "17043"
+          },
+          {
+            "pick": "07",
+            "timestamp": "1745966374",
+            "comments": "",
+            "franchise": "0010",
+            "round": "01",
+            "player": "17051"
+          },
+          {
+            "pick": "08",
+            "timestamp": "1745976334",
+            "comments": "[Pick traded from Minnesota Vikings.\nPick traded from Atlanta Falcons.] ",
+            "round": "01",
+            "franchise": "0005",
+            "player": "17104"
+          },
+          {
+            "comments": "[Pick traded from  Washington  Commanders.] ",
+            "franchise": "0014",
+            "round": "01",
+            "pick": "09",
+            "timestamp": "1746022185",
+            "player": "17112"
+          },
+          {
+            "timestamp": "1746024570",
+            "pick": "10",
+            "round": "01",
+            "franchise": "0004",
+            "comments": "[Pick traded from   Green  Bay Packers.] ",
+            "player": "17102"
+          },
+          {
+            "player": "17048",
+            "timestamp": "1746032598",
+            "pick": "11",
+            "round": "01",
+            "franchise": "0011",
+            "comments": "[Pick traded from   Dallas  Cowboys.] Run wild! "
+          },
+          {
+            "player": "17083",
+            "comments": "[Pick traded from Philadelphia   Eagles .] ",
+            "round": "01",
+            "franchise": "0009",
+            "pick": "12",
+            "timestamp": "1746033616"
+          },
+          {
+            "comments": "[Pick traded from Los Angeles Rams.\nPick traded from   Washington  Commanders.] ",
+            "round": "01",
+            "franchise": "0010",
+            "pick": "13",
+            "timestamp": "1746044450",
+            "player": "17075"
+          },
+          {
+            "round": "01",
+            "franchise": "0003",
+            "comments": "[Pick traded from New York Giants.\nPick traded from Atlanta Falcons.] ",
+            "timestamp": "1746044939",
+            "pick": "14",
+            "player": "17081"
+          },
+          {
+            "comments": "",
+            "franchise": "0012",
+            "round": "01",
+            "pick": "15",
+            "timestamp": "1746058227",
+            "player": "17068"
+          },
+          {
+            "player": "17121",
+            "comments": "[Pick traded from Chicago Bears.] ",
+            "franchise": "0004",
+            "round": "01",
+            "pick": "16",
+            "timestamp": "1746103220"
+          },
+          {
+            "timestamp": "1746116182",
+            "pick": "01",
+            "round": "02",
+            "franchise": "0016",
+            "comments": "Run after catch",
+            "player": "17070"
+          },
+          {
+            "pick": "02",
+            "timestamp": "1746119505",
+            "comments": "[Pick traded from New Orleans Saints.\nPick traded from   Dallas  Cowboys.] Coz Kc-Carson picking him ;)",
+            "round": "02",
+            "franchise": "0011",
+            "player": "17032"
+          },
+          {
+            "player": "17072",
+            "pick": "03",
+            "timestamp": "1746120490",
+            "comments": "[Pick traded from Atlanta Falcons.] ",
+            "franchise": "0001",
+            "round": "02"
+          },
+          {
+            "player": "17078",
+            "timestamp": "1746133938",
+            "pick": "04",
+            "round": "02",
+            "franchise": "0004",
+            "comments": "[Pick traded from Detroit Lions.] "
+          },
+          {
+            "player": "17123",
+            "round": "02",
+            "franchise": "0013",
+            "comments": "",
+            "timestamp": "1746148826",
+            "pick": "05"
+          },
+          {
+            "player": "17147",
+            "comments": "",
+            "franchise": "0015",
+            "round": "02",
+            "pick": "06",
+            "timestamp": "1746150883"
+          },
+          {
+            "player": "17134",
+            "timestamp": "1746151047",
+            "pick": "07",
+            "round": "02",
+            "franchise": "0006",
+            "comments": "[Pick traded from Carolina Panthers.\nPick traded from   Washington  Commanders.] "
+          },
+          {
+            "player": "17137",
+            "comments": "[Pick traded from Minnesota Vikings.\nPick traded from Philadelphia   Eagles .] ",
+            "round": "02",
+            "franchise": "0007",
+            "pick": "08",
+            "timestamp": "1746151433"
+          },
+          {
+            "pick": "09",
+            "timestamp": "1746154402",
+            "comments": "[Pick traded from   Washington  Commanders.\nPick traded from Atlanta Falcons.] ",
+            "franchise": "0005",
+            "round": "02",
+            "player": "17045"
+          },
+          {
+            "pick": "10",
+            "timestamp": "1746154717",
+            "comments": "[Pick traded from   Green  Bay Packers.] ",
+            "franchise": "0003",
+            "round": "02",
+            "player": "17052"
+          },
+          {
+            "comments": "[Pick traded from   Dallas  Cowboys.\nPick traded from   Washington  Commanders.] ",
+            "round": "02",
+            "franchise": "0006",
+            "pick": "11",
+            "timestamp": "1746155017",
+            "player": "17107"
+          },
+          {
+            "player": "17122",
+            "franchise": "0009",
+            "round": "02",
+            "comments": "[Pick traded from Philadelphia   Eagles .\nPick traded from New Orleans Saints.\nPick traded from   Dallas  Cowboys.] ",
+            "timestamp": "1746183794",
+            "pick": "12"
+          },
+          {
+            "player": "17106",
+            "round": "02",
+            "franchise": "0014",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "timestamp": "1746183794",
+            "pick": "13"
+          },
+          {
+            "round": "02",
+            "franchise": "0004",
+            "comments": "[Pick traded from New York Giants.\nPick traded from   Dallas  Cowboys.\nPick traded from Detroit Lions.] ",
+            "timestamp": "1746205814",
+            "pick": "14",
+            "player": "17113"
+          },
+          {
+            "comments": "[Pick traded from Tampa Bay Buccaneers.\nPick traded from   Green  Bay Packers.] ",
+            "round": "02",
+            "franchise": "0003",
+            "pick": "15",
+            "timestamp": "1746206372",
+            "player": "17144"
+          },
+          {
+            "comments": "[Pick traded from Chicago Bears.\nPick traded from   Dallas  Cowboys.] ",
+            "round": "02",
+            "franchise": "0009",
+            "pick": "16",
+            "timestamp": "1746206961",
+            "player": "17120"
+          },
+          {
+            "player": "17136",
+            "comments": "",
+            "franchise": "0016",
+            "round": "03",
+            "pick": "01",
+            "timestamp": "1746212090"
+          },
+          {
+            "comments": "[Pick traded from New Orleans Saints.] ",
+            "franchise": "0010",
+            "round": "03",
+            "pick": "02",
+            "timestamp": "1746213045",
+            "player": "17103"
+          },
+          {
+            "player": "17069",
+            "pick": "03",
+            "timestamp": "1746219851",
+            "comments": "[Pick traded from Atlanta Falcons.\nPick traded from Chicago Bears.] ",
+            "franchise": "0012",
+            "round": "03"
+          },
+          {
+            "player": "17080",
+            "comments": "[Pick traded from Detroit Lions.\nPick traded from Seattle Seahawks.\nPick made from Pre-Draft List] ",
+            "round": "03",
+            "franchise": "0009",
+            "pick": "04",
+            "timestamp": "1746219851"
+          },
+          {
+            "player": "17115",
+            "pick": "05",
+            "timestamp": "1746220571",
+            "comments": "[Pick traded from Arizona Cardinals.\nPick traded from Atlanta Falcons.] ",
+            "franchise": "0001",
+            "round": "03"
+          },
+          {
+            "pick": "06",
+            "timestamp": "1746220571",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "round": "03",
+            "franchise": "0015",
+            "player": "17132"
+          },
+          {
+            "franchise": "0007",
+            "round": "03",
+            "comments": "[Pick traded from Carolina Panthers.\nPick traded from Atlanta Falcons.\nPick traded from Philadelphia   Eagles .] ",
+            "timestamp": "1746222185",
+            "pick": "07",
+            "player": "17135"
+          },
+          {
+            "round": "03",
+            "franchise": "0009",
+            "comments": "[Pick traded from Minnesota Vikings.\nPick traded from New Orleans Saints.\nPick traded from   Dallas  Cowboys.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746222185",
+            "pick": "08",
+            "player": "17108"
+          },
+          {
+            "player": "17039",
+            "timestamp": "1746223504",
+            "pick": "09",
+            "franchise": "0005",
+            "round": "03",
+            "comments": "[Pick traded from   Washington  Commanders.] "
+          },
+          {
+            "pick": "10",
+            "timestamp": "1746226945",
+            "comments": "[Pick traded from   Green  Bay Packers.] ",
+            "round": "03",
+            "franchise": "0009",
+            "player": "17157"
+          },
+          {
+            "comments": "[Pick traded from   Dallas  Cowboys.\nPick traded from Philadelphia   Eagles .] ",
+            "round": "03",
+            "franchise": "0009",
+            "pick": "11",
+            "timestamp": "1746227716",
+            "player": "17126"
+          },
+          {
+            "player": "17125",
+            "round": "03",
+            "franchise": "0003",
+            "comments": "[Pick traded from Philadelphia   Eagles .\nPick traded from Atlanta Falcons.] ",
+            "timestamp": "1746230339",
+            "pick": "12"
+          },
+          {
+            "franchise": "0001",
+            "round": "03",
+            "comments": "[Pick traded from Los Angeles Rams.\nPick traded from   Washington  Commanders.] ",
+            "timestamp": "1746234276",
+            "pick": "13",
+            "player": "17131"
+          },
+          {
+            "round": "03",
+            "franchise": "0002",
+            "comments": "",
+            "timestamp": "1746234490",
+            "pick": "14",
+            "player": "17138"
+          },
+          {
+            "player": "17114",
+            "timestamp": "1746234490",
+            "pick": "15",
+            "round": "03",
+            "franchise": "0011",
+            "comments": "[Pick traded from Tampa Bay Buccaneers.\nPick traded from   Dallas  Cowboys.\nPick made from Pre-Draft List] "
+          },
+          {
+            "player": "17086",
+            "franchise": "0009",
+            "round": "03",
+            "comments": "[Pick traded from Chicago Bears.\nPick traded from Los Angeles Rams.\nPick traded from   Washington  Commanders.] ",
+            "timestamp": "1746241422",
+            "pick": "16"
+          },
+          {
+            "player": "17033",
+            "timestamp": "1746241422",
+            "pick": "17",
+            "franchise": "0002",
+            "round": "03",
+            "comments": "[Pick added by commissioner.\nPick made from Pre-Draft List] "
+          },
+          {
+            "pick": "18",
+            "timestamp": "1746242385",
+            "comments": "[Pick added by commissioner.\nPick traded from Carolina Panthers.\nPick traded from   Washington  Commanders.\nPick traded from Los Angeles Rams.] ",
+            "round": "03",
+            "franchise": "0004",
+            "player": "17047"
+          },
+          {
+            "pick": "19",
+            "timestamp": "1746242827",
+            "comments": "[Pick added by commissioner.\nPick traded from New York Giants.\nPick traded from Atlanta Falcons.\nPick traded from   Washington  Commanders.] ",
+            "round": "03",
+            "franchise": "0014",
+            "player": "17073"
+          },
+          {
+            "player": "17053",
+            "franchise": "0011",
+            "round": "03",
+            "comments": "[Pick added by commissioner.\nPick traded from San Francisco 49ers.] Woody Woodpecker :) ",
+            "timestamp": "1746280731",
+            "pick": "20"
+          },
+          {
+            "comments": "[Pick added by commissioner.\nPick traded from Seattle Seahawks.] ",
+            "round": "03",
+            "franchise": "0005",
+            "pick": "21",
+            "timestamp": "1746284711",
+            "player": "17082"
+          },
+          {
+            "franchise": "0003",
+            "round": "04",
+            "comments": "[Pick traded from Seattle Seahawks.\nPick traded from Atlanta Falcons.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746284711",
+            "pick": "01",
+            "player": "17128"
+          },
+          {
+            "pick": "02",
+            "timestamp": "1746287348",
+            "comments": "[Pick traded from New Orleans Saints.\nPick traded from   Washington  Commanders.] Had to do it",
+            "franchise": "0001",
+            "round": "04",
+            "player": "17031"
+          },
+          {
+            "pick": "03",
+            "timestamp": "1746287421",
+            "comments": "[Pick traded from Atlanta Falcons.] ",
+            "round": "04",
+            "franchise": "0007",
+            "player": "17159"
+          },
+          {
+            "player": "17148",
+            "pick": "04",
+            "timestamp": "1746288043",
+            "comments": "[Pick traded from Detroit Lions.\nPick traded from Atlanta Falcons.] ",
+            "franchise": "0001",
+            "round": "04"
+          },
+          {
+            "franchise": "0013",
+            "round": "04",
+            "comments": "",
+            "timestamp": "1746290009",
+            "pick": "05",
+            "player": "17055"
+          },
+          {
+            "player": "17141",
+            "timestamp": "1746290009",
+            "pick": "06",
+            "franchise": "0015",
+            "round": "04",
+            "comments": "[Pick made from Pre-Draft List] "
+          },
+          {
+            "pick": "07",
+            "timestamp": "1746290009",
+            "comments": "[Pick traded from Carolina Panthers.\nPick traded from Chicago Bears.\nPick made from Pre-Draft List] ",
+            "franchise": "0016",
+            "round": "04",
+            "player": "17034"
+          },
+          {
+            "pick": "08",
+            "timestamp": "1746290009",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "round": "04",
+            "franchise": "0008",
+            "player": "17046"
+          },
+          {
+            "player": "17153",
+            "round": "04",
+            "franchise": "0005",
+            "comments": "[Pick traded from   Washington  Commanders.\nPick traded from   Dallas  Cowboys.] ",
+            "timestamp": "1746293093",
+            "pick": "09"
+          },
+          {
+            "comments": "",
+            "franchise": "0007",
+            "round": "04",
+            "pick": "10",
+            "timestamp": "1746293180",
+            "player": "17098"
+          },
+          {
+            "timestamp": "1746293180",
+            "pick": "11",
+            "franchise": "0013",
+            "round": "04",
+            "comments": "[Pick traded from   Dallas  Cowboys.\nPick made from Pre-Draft List] ",
+            "player": "17212"
+          },
+          {
+            "franchise": "0015",
+            "round": "04",
+            "comments": "[Pick traded from Philadelphia   Eagles .\nPick traded from New Orleans Saints.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746293180",
+            "pick": "12",
+            "player": "17139"
+          },
+          {
+            "pick": "13",
+            "timestamp": "1746295601",
+            "comments": "",
+            "franchise": "0014",
+            "round": "04",
+            "player": "17119"
+          },
+          {
+            "pick": "14",
+            "timestamp": "1746297580",
+            "comments": "[Pick traded from New York Giants.] ",
+            "round": "04",
+            "franchise": "0006",
+            "player": "17146"
+          },
+          {
+            "player": "17096",
+            "pick": "15",
+            "timestamp": "1746297580",
+            "comments": "[Pick traded from Tampa Bay Buccaneers.\nPick traded from Atlanta Falcons.\nPick made from Pre-Draft List] Versatile",
+            "franchise": "0016",
+            "round": "04"
+          },
+          {
+            "player": "17149",
+            "timestamp": "1746299113",
+            "pick": "16",
+            "round": "04",
+            "franchise": "0003",
+            "comments": "[Pick traded from Chicago Bears.] "
+          },
+          {
+            "pick": "17",
+            "timestamp": "1746299113",
+            "comments": "[Pick added by commissioner.\nPick traded from New Orleans Saints.\nPick traded from   Dallas  Cowboys.\nPick traded from   Washington  Commanders.\nPick made from Pre-Draft List] ",
+            "franchise": "0009",
+            "round": "04",
+            "player": "17060"
+          },
+          {
+            "player": "17063",
+            "timestamp": "1746299113",
+            "pick": "18",
+            "franchise": "0009",
+            "round": "04",
+            "comments": "[Pick added by commissioner.\nPick traded from Seattle Seahawks.\nPick traded from   Dallas  Cowboys.\nPick made from Pre-Draft List] "
+          },
+          {
+            "player": "17037",
+            "pick": "19",
+            "timestamp": "1746310904",
+            "comments": "[Pick added by commissioner.\nPick traded from New York Giants.\nPick traded from Atlanta Falcons.] ",
+            "round": "04",
+            "franchise": "0004"
+          },
+          {
+            "pick": "01",
+            "timestamp": "1746312119",
+            "comments": "[Pick traded from Seattle Seahawks.\nPick traded from Chicago Bears.\nPick traded from   Dallas  Cowboys.] Steal of the draft",
+            "franchise": "0008",
+            "round": "05",
+            "player": "17151"
+          },
+          {
+            "player": "17064",
+            "comments": "[Pick traded from New Orleans Saints.] ",
+            "round": "05",
+            "franchise": "0006",
+            "pick": "02",
+            "timestamp": "1746317062"
+          },
+          {
+            "comments": "[Pick traded from Atlanta Falcons.\nPick traded from   Washington  Commanders.\nPick traded from   Dallas  Cowboys.\nPick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0009",
+            "pick": "03",
+            "timestamp": "1746317062",
+            "player": "17084"
+          },
+          {
+            "pick": "04",
+            "timestamp": "1746317151",
+            "comments": "",
+            "round": "05",
+            "franchise": "0006",
+            "player": "17036"
+          },
+          {
+            "player": "17127",
+            "comments": "[Pick traded from Arizona Cardinals.] ",
+            "round": "05",
+            "franchise": "0014",
+            "pick": "05",
+            "timestamp": "1746320449"
+          },
+          {
+            "timestamp": "1746320449",
+            "pick": "06",
+            "round": "05",
+            "franchise": "0015",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "player": "17226"
+          },
+          {
+            "franchise": "0002",
+            "round": "05",
+            "comments": "[Pick traded from Carolina Panthers.\nPick traded from Seattle Seahawks.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746324021",
+            "pick": "07",
+            "player": "17056"
+          },
+          {
+            "timestamp": "1746325733",
+            "pick": "08",
+            "franchise": "0001",
+            "round": "05",
+            "comments": "[Pick traded from Minnesota Vikings.] ",
+            "player": "17097"
+          },
+          {
+            "player": "17059",
+            "timestamp": "1746327157",
+            "pick": "09",
+            "round": "05",
+            "franchise": "0006",
+            "comments": "[Pick traded from   Washington  Commanders.] "
+          },
+          {
+            "pick": "10",
+            "timestamp": "1746327993",
+            "comments": "",
+            "round": "05",
+            "franchise": "0007",
+            "player": "17099"
+          },
+          {
+            "timestamp": "1746328805",
+            "pick": "11",
+            "franchise": "0016",
+            "round": "05",
+            "comments": "[Pick traded from   Dallas  Cowboys.] Tougher than a $2 steak",
+            "player": "17077"
+          },
+          {
+            "timestamp": "1746329063",
+            "pick": "12",
+            "round": "05",
+            "franchise": "0013",
+            "comments": "[Pick traded from Philadelphia   Eagles .\nPick traded from   Washington  Commanders.\nPick traded from Los Angeles Rams.] ",
+            "player": "17150"
+          },
+          {
+            "player": "17058",
+            "round": "05",
+            "franchise": "0012",
+            "comments": "[Pick traded from Los Angeles Rams.\nPick traded from Chicago Bears.] ",
+            "timestamp": "1746358654",
+            "pick": "13"
+          },
+          {
+            "player": "17171",
+            "timestamp": "1746363899",
+            "pick": "14",
+            "franchise": "0003",
+            "round": "05",
+            "comments": "[Pick traded from New York Giants.] "
+          },
+          {
+            "player": "17049",
+            "timestamp": "1746364993",
+            "pick": "15",
+            "round": "05",
+            "franchise": "0012",
+            "comments": ""
+          },
+          {
+            "pick": "16",
+            "timestamp": "1746364993",
+            "comments": "[Pick traded from Chicago Bears.\nPick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0014",
+            "player": "17145"
+          },
+          {
+            "player": "17087",
+            "timestamp": "1746364993",
+            "pick": "17",
+            "franchise": "0016",
+            "round": "05",
+            "comments": "[Pick added by commissioner.\nPick traded from New York Giants.\nPick made from Pre-Draft List] "
+          },
+          {
+            "player": "0000",
+            "pick": "18",
+            "timestamp": "1746379822",
+            "comments": "[Pick added by commissioner.\nPick traded from Atlanta Falcons.\nTimer expired: Pick skipped] ",
+            "franchise": "0004",
+            "round": "05"
+          },
+          {
+            "comments": "[Pick added by commissioner.\nPick traded from Atlanta Falcons.\nPick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0001",
+            "pick": "19",
+            "timestamp": "1746379822",
+            "player": "17160"
+          },
+          {
+            "timestamp": "1746379822",
+            "pick": "20",
+            "franchise": "0010",
+            "round": "05",
+            "comments": "[Pick added by commissioner.\nPick traded from New Orleans Saints.\nPick made from Pre-Draft List] ",
+            "player": "17154"
+          },
+          {
+            "round": "05",
+            "franchise": "0009",
+            "comments": "[Pick added by commissioner.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746379822",
+            "pick": "21",
+            "player": "17155"
+          },
+          {
+            "timestamp": "1746379822",
+            "pick": "22",
+            "round": "05",
+            "franchise": "0009",
+            "comments": "[Pick added by commissioner.\nPick made from Pre-Draft List] ",
+            "player": "17219"
+          },
+          {
+            "pick": "23",
+            "timestamp": "1746379822",
+            "comments": "[Pick added by commissioner.\nPick traded from Detroit Lions.\nPick traded from   Washington  Commanders.\nPick traded from Los Angeles Rams.\nPick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0013",
+            "player": "17179"
+          },
+          {
+            "pick": "24",
+            "timestamp": "1746379871",
+            "comments": "[Pick added by commissioner.] ",
+            "round": "05",
+            "franchise": "0007",
+            "player": "17238"
+          }
+        ],
+        "unit": "CONFERENCE00",
+        "draftType": "SAME",
+        "round1DraftOrder": "0016,0011,0005,0006,0013,0015,0010,0005,0014,0004,0011,0009,0010,0003,0012,0004,"
+      },
+      {
+        "draftType": "SAME",
+        "round1DraftOrder": "0017,0021,0029,0020,0021,0022,0024,0028,0031,0027,0018,0017,0025,0032,0026,0030,",
+        "draftPick": [
+          {
+            "franchise": "0017",
+            "round": "01",
+            "comments": "[Pick traded from Baltimore Ravens.] ",
+            "timestamp": "1745936978",
+            "pick": "01",
+            "player": "17042"
+          },
+          {
+            "player": "17074",
+            "timestamp": "1745948769",
+            "pick": "02",
+            "round": "01",
+            "franchise": "0021",
+            "comments": "[Pick traded from Denver Broncos.] "
+          },
+          {
+            "player": "17071",
+            "franchise": "0029",
+            "round": "01",
+            "comments": "[Pick traded from New England Patriots.\nPick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.] ",
+            "timestamp": "1745950895",
+            "pick": "03"
+          },
+          {
+            "timestamp": "1745960546",
+            "pick": "04",
+            "round": "01",
+            "franchise": "0020",
+            "comments": "Open for   Prescott  talks 🌝",
+            "player": "17030"
+          },
+          {
+            "player": "17044",
+            "timestamp": "1745964739",
+            "pick": "05",
+            "franchise": "0021",
+            "round": "01",
+            "comments": "[Pick traded from Jacksonville Jaguars.] "
+          },
+          {
+            "player": "17051",
+            "pick": "06",
+            "timestamp": "1745970013",
+            "comments": "",
+            "round": "01",
+            "franchise": "0022"
+          },
+          {
+            "timestamp": "1745970322",
+            "pick": "07",
+            "franchise": "0024",
+            "round": "01",
+            "comments": "",
+            "player": "17043"
+          },
+          {
+            "timestamp": "1745978599",
+            "pick": "08",
+            "round": "01",
+            "franchise": "0028",
+            "comments": "",
+            "player": "17104"
+          },
+          {
+            "player": "17112",
+            "round": "01",
+            "franchise": "0031",
+            "comments": "",
+            "timestamp": "1745978769",
+            "pick": "09"
+          },
+          {
+            "timestamp": "1745981638",
+            "pick": "10",
+            "round": "01",
+            "franchise": "0027",
+            "comments": "[Pick traded from Cleveland Browns.\nPick traded from Baltimore Ravens.] ",
+            "player": "17075"
+          },
+          {
+            "player": "17102",
+            "timestamp": "1745981844",
+            "pick": "11",
+            "franchise": "0018",
+            "round": "01",
+            "comments": ""
+          },
+          {
+            "timestamp": "1746019363",
+            "pick": "12",
+            "round": "01",
+            "franchise": "0017",
+            "comments": "",
+            "player": "17081"
+          },
+          {
+            "pick": "13",
+            "timestamp": "1746022250",
+            "comments": "",
+            "round": "01",
+            "franchise": "0025",
+            "player": "17121"
+          },
+          {
+            "player": "17083",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "franchise": "0032",
+            "round": "01",
+            "pick": "14",
+            "timestamp": "1746022250"
+          },
+          {
+            "franchise": "0026",
+            "round": "01",
+            "comments": "",
+            "timestamp": "1746032999",
+            "pick": "15",
+            "player": "17070"
+          },
+          {
+            "comments": "In Payton We Trust",
+            "round": "01",
+            "franchise": "0030",
+            "pick": "16",
+            "timestamp": "1746039063",
+            "player": "17068"
+          },
+          {
+            "player": "17048",
+            "timestamp": "1746039771",
+            "pick": "01",
+            "round": "02",
+            "franchise": "0021",
+            "comments": ""
+          },
+          {
+            "timestamp": "1746047799",
+            "pick": "02",
+            "franchise": "0030",
+            "round": "02",
+            "comments": "[Pick traded from Denver Broncos.\nPick traded from Baltimore Ravens.\nPick traded from Cleveland Browns.] Plz be Bo Nix ",
+            "player": "17032"
+          },
+          {
+            "comments": "[Pick traded from New England Patriots.\nPick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.] ",
+            "round": "02",
+            "franchise": "0027",
+            "pick": "03",
+            "timestamp": "1746050814",
+            "player": "17039"
+          },
+          {
+            "franchise": "0020",
+            "round": "02",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "timestamp": "1746050814",
+            "pick": "04",
+            "player": "17072"
+          },
+          {
+            "player": "17078",
+            "timestamp": "1746050985",
+            "pick": "05",
+            "franchise": "0027",
+            "round": "02",
+            "comments": ""
+          },
+          {
+            "player": "17123",
+            "round": "02",
+            "franchise": "0022",
+            "comments": "",
+            "timestamp": "1746054489",
+            "pick": "06"
+          },
+          {
+            "pick": "07",
+            "timestamp": "1746055165",
+            "comments": "[Pick traded from Pittsburgh Steelers.\nPick traded from Baltimore Ravens.] ",
+            "franchise": "0029",
+            "round": "02",
+            "player": "17113"
+          },
+          {
+            "player": "17106",
+            "timestamp": "1746056072",
+            "pick": "08",
+            "franchise": "0023",
+            "round": "02",
+            "comments": "[Pick traded from Tennessee Titans.\nPick traded from Kansas City Chiefs.] "
+          },
+          {
+            "comments": "",
+            "franchise": "0031",
+            "round": "02",
+            "pick": "09",
+            "timestamp": "1746058305",
+            "player": "17115"
+          },
+          {
+            "player": "17147",
+            "timestamp": "1746064988",
+            "pick": "10",
+            "franchise": "0028",
+            "round": "02",
+            "comments": "[Pick traded from Cleveland Browns.\nPick traded from Kansas City Chiefs.] "
+          },
+          {
+            "timestamp": "1746066511",
+            "pick": "11",
+            "round": "02",
+            "franchise": "0024",
+            "comments": "[Pick traded from Miami Dolphins.\nPick traded from Baltimore Ravens.] ",
+            "player": "17122"
+          },
+          {
+            "pick": "12",
+            "timestamp": "1746098209",
+            "comments": "[Pick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.] ",
+            "round": "02",
+            "franchise": "0018",
+            "player": "17132"
+          },
+          {
+            "player": "17045",
+            "pick": "13",
+            "timestamp": "1746105043",
+            "comments": "",
+            "franchise": "0025",
+            "round": "02"
+          },
+          {
+            "franchise": "0032",
+            "round": "02",
+            "comments": "",
+            "timestamp": "1746112724",
+            "pick": "14",
+            "player": "17137"
+          },
+          {
+            "franchise": "0023",
+            "round": "02",
+            "comments": "[Pick traded from Indianapolis Colts.\nPick traded from Baltimore Ravens.] ",
+            "timestamp": "1746113064",
+            "pick": "15",
+            "player": "17047"
+          },
+          {
+            "comments": "Plz be good :)",
+            "franchise": "0030",
+            "round": "02",
+            "pick": "16",
+            "timestamp": "1746114470",
+            "player": "17144"
+          },
+          {
+            "player": "17114",
+            "pick": "01",
+            "timestamp": "1746119067",
+            "comments": "[Pick traded from Baltimore Ravens.\nPick traded from Denver Broncos.] ",
+            "round": "03",
+            "franchise": "0021"
+          },
+          {
+            "comments": "[Pick traded from Denver Broncos.] ",
+            "franchise": "0032",
+            "round": "03",
+            "pick": "02",
+            "timestamp": "1746121630",
+            "player": "17052"
+          },
+          {
+            "comments": "[Pick made from Pre-Draft List] if his name don’t start with “wil” I don’t want him in my receiver room",
+            "round": "03",
+            "franchise": "0019",
+            "pick": "03",
+            "timestamp": "1746121630",
+            "player": "17134"
+          },
+          {
+            "player": "17136",
+            "pick": "04",
+            "timestamp": "1746121852",
+            "comments": "[Pick traded from New York Jets.] Ed   Oliver  lite?",
+            "franchise": "0030",
+            "round": "03"
+          },
+          {
+            "player": "17138",
+            "timestamp": "1746124098",
+            "pick": "05",
+            "franchise": "0027",
+            "round": "03",
+            "comments": ""
+          },
+          {
+            "timestamp": "1746126321",
+            "pick": "06",
+            "round": "03",
+            "franchise": "0022",
+            "comments": "",
+            "player": "17120"
+          },
+          {
+            "franchise": "0024",
+            "round": "03",
+            "comments": "",
+            "timestamp": "1746126797",
+            "pick": "07",
+            "player": "17135"
+          },
+          {
+            "timestamp": "1746126797",
+            "pick": "08",
+            "round": "03",
+            "franchise": "0030",
+            "comments": "[Pick traded from Tennessee Titans.\nPick made from Pre-Draft List] ",
+            "player": "17080"
+          },
+          {
+            "player": "17108",
+            "pick": "09",
+            "timestamp": "1746131550",
+            "comments": "[Pick traded from Las Vegas Raiders.] ",
+            "round": "03",
+            "franchise": "0017"
+          },
+          {
+            "timestamp": "1746131550",
+            "pick": "10",
+            "round": "03",
+            "franchise": "0030",
+            "comments": "[Pick traded from Cleveland Browns.\nPick made from Pre-Draft List] Draft crush secured :)",
+            "player": "17103"
+          },
+          {
+            "player": "17125",
+            "round": "03",
+            "franchise": "0018",
+            "comments": "",
+            "timestamp": "1746132752",
+            "pick": "11"
+          },
+          {
+            "comments": "[Pick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.] ",
+            "round": "03",
+            "franchise": "0017",
+            "pick": "12",
+            "timestamp": "1746139178",
+            "player": "17126"
+          },
+          {
+            "player": "17033",
+            "timestamp": "1746146261",
+            "pick": "13",
+            "franchise": "0025",
+            "round": "03",
+            "comments": ""
+          },
+          {
+            "comments": "[Pick made from Pre-Draft List] ",
+            "franchise": "0032",
+            "round": "03",
+            "pick": "14",
+            "timestamp": "1746146261",
+            "player": "17131"
+          },
+          {
+            "player": "17107",
+            "timestamp": "1746146714",
+            "pick": "15",
+            "round": "03",
+            "franchise": "0021",
+            "comments": "[Pick traded from Indianapolis Colts.\nPick traded from Denver Broncos.] "
+          },
+          {
+            "comments": "[Pick traded from Kansas City Chiefs.\nPick traded from New England Patriots.] yes NFC, this is probably way too early.  i don't care.",
+            "round": "03",
+            "franchise": "0021",
+            "pick": "16",
+            "timestamp": "1746150974",
+            "player": "17031"
+          },
+          {
+            "player": "17118",
+            "timestamp": "1746151695",
+            "pick": "17",
+            "franchise": "0018",
+            "round": "03",
+            "comments": "[Pick added by commissioner.] "
+          },
+          {
+            "player": "17069",
+            "timestamp": "1746154718",
+            "pick": "18",
+            "round": "03",
+            "franchise": "0029",
+            "comments": "[Pick added by commissioner.] Javonte Williams ? Miles Sanders ?  Really?"
+          },
+          {
+            "pick": "19",
+            "timestamp": "1746187977",
+            "comments": "[Pick added by commissioner.\nPick traded from Denver Broncos.] ",
+            "round": "03",
+            "franchise": "0023",
+            "player": "17149"
+          },
+          {
+            "franchise": "0027",
+            "round": "03",
+            "comments": "[Pick added by commissioner.] ",
+            "timestamp": "1746199679",
+            "pick": "20",
+            "player": "17086"
+          },
+          {
+            "timestamp": "1746199679",
+            "pick": "21",
+            "round": "03",
+            "franchise": "0030",
+            "comments": "[Pick added by commissioner.\nPick traded from Kansas City Chiefs.\nPick traded from Cleveland Browns.\nPick made from Pre-Draft List] ",
+            "player": "17128"
+          },
+          {
+            "timestamp": "1746200396",
+            "pick": "22",
+            "round": "03",
+            "franchise": "0023",
+            "comments": "[Pick added by commissioner.\nPick traded from Kansas City Chiefs.] ",
+            "player": "17151"
+          },
+          {
+            "player": "17073",
+            "comments": "[Pick added by commissioner.\nPick traded from Kansas City Chiefs.] Token Canadian",
+            "franchise": "0029",
+            "round": "03",
+            "pick": "23",
+            "timestamp": "1746204539"
+          },
+          {
+            "player": "17148",
+            "timestamp": "1746204785",
+            "pick": "01",
+            "franchise": "0019",
+            "round": "04",
+            "comments": "[Pick traded from Baltimore Ravens.\nPick traded from Denver Broncos.] "
+          },
+          {
+            "round": "04",
+            "franchise": "0020",
+            "comments": "[Pick traded from Denver Broncos.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746204785",
+            "pick": "02",
+            "player": "17056"
+          },
+          {
+            "comments": "",
+            "franchise": "0019",
+            "round": "04",
+            "pick": "03",
+            "timestamp": "1746204858",
+            "player": "17153"
+          },
+          {
+            "round": "04",
+            "franchise": "0017",
+            "comments": "[Pick traded from New York Jets.] ",
+            "timestamp": "1746208107",
+            "pick": "04",
+            "player": "17055"
+          },
+          {
+            "player": "17127",
+            "timestamp": "1746211061",
+            "pick": "05",
+            "round": "04",
+            "franchise": "0027",
+            "comments": ""
+          },
+          {
+            "player": "17098",
+            "round": "04",
+            "franchise": "0022",
+            "comments": "",
+            "timestamp": "1746211704",
+            "pick": "06"
+          },
+          {
+            "comments": "",
+            "round": "04",
+            "franchise": "0024",
+            "pick": "07",
+            "timestamp": "1746212321",
+            "player": "17141"
+          },
+          {
+            "comments": "",
+            "franchise": "0028",
+            "round": "04",
+            "pick": "08",
+            "timestamp": "1746213209",
+            "player": "17157"
+          },
+          {
+            "player": "17053",
+            "franchise": "0025",
+            "round": "04",
+            "comments": "[Pick traded from Las Vegas Raiders.] ",
+            "timestamp": "1746217178",
+            "pick": "09"
+          },
+          {
+            "timestamp": "1746220866",
+            "pick": "10",
+            "franchise": "0023",
+            "round": "04",
+            "comments": "[Pick traded from Cleveland Browns.\nPick traded from Kansas City Chiefs.] ",
+            "player": "17159"
+          },
+          {
+            "player": "17119",
+            "pick": "11",
+            "timestamp": "1746220866",
+            "comments": "[Pick traded from Miami Dolphins.\nPick traded from Baltimore Ravens.\nPick traded from New England Patriots.\nPick made from Pre-Draft List] ",
+            "round": "04",
+            "franchise": "0030"
+          },
+          {
+            "player": "17082",
+            "comments": "[Pick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.\nPick traded from Denver Broncos.] ",
+            "franchise": "0021",
+            "round": "04",
+            "pick": "12",
+            "timestamp": "1746221390"
+          },
+          {
+            "player": "17036",
+            "pick": "13",
+            "timestamp": "1746222405",
+            "comments": "",
+            "round": "04",
+            "franchise": "0025"
+          },
+          {
+            "player": "17049",
+            "comments": "",
+            "franchise": "0032",
+            "round": "04",
+            "pick": "14",
+            "timestamp": "1746224370"
+          },
+          {
+            "player": "17046",
+            "pick": "15",
+            "timestamp": "1746230829",
+            "comments": "",
+            "round": "04",
+            "franchise": "0026"
+          },
+          {
+            "player": "17212",
+            "timestamp": "1746235924",
+            "pick": "16",
+            "franchise": "0026",
+            "round": "04",
+            "comments": "[Pick traded from Kansas City Chiefs.] "
+          },
+          {
+            "round": "04",
+            "franchise": "0026",
+            "comments": "[Pick added by commissioner.] 0-4",
+            "timestamp": "1746243277",
+            "pick": "17",
+            "player": "17146"
+          },
+          {
+            "timestamp": "1746272119",
+            "pick": "18",
+            "round": "04",
+            "franchise": "0026",
+            "comments": "[Pick added by commissioner.] ",
+            "player": "17117"
+          },
+          {
+            "comments": "[Pick added by commissioner.] ",
+            "round": "04",
+            "franchise": "0027",
+            "pick": "19",
+            "timestamp": "1746280031",
+            "player": "17037"
+          },
+          {
+            "timestamp": "1746280031",
+            "pick": "01",
+            "franchise": "0029",
+            "round": "05",
+            "comments": "[Pick traded from Baltimore Ravens.\nPick made from Pre-Draft List] ",
+            "player": "17241"
+          },
+          {
+            "round": "05",
+            "franchise": "0029",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "timestamp": "1746280031",
+            "pick": "02",
+            "player": "17222"
+          },
+          {
+            "round": "05",
+            "franchise": "0019",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "timestamp": "1746280031",
+            "pick": "03",
+            "player": "17171"
+          },
+          {
+            "player": "17034",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "franchise": "0020",
+            "round": "05",
+            "pick": "04",
+            "timestamp": "1746280031"
+          },
+          {
+            "player": "17145",
+            "franchise": "0027",
+            "round": "05",
+            "comments": "[Timer expired: Pick skipped\nReplacement pick made by Commissioner.] ",
+            "timestamp": "1746296985",
+            "pick": "05"
+          },
+          {
+            "player": "17178",
+            "comments": "[Pick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0022",
+            "pick": "06",
+            "timestamp": "1746295218"
+          },
+          {
+            "player": "17105",
+            "timestamp": "1746295886",
+            "pick": "07",
+            "round": "05",
+            "franchise": "0024",
+            "comments": ""
+          },
+          {
+            "pick": "08",
+            "timestamp": "1746299140",
+            "comments": "",
+            "franchise": "0028",
+            "round": "05",
+            "player": "17150"
+          },
+          {
+            "comments": "[Pick traded from Las Vegas Raiders.] ",
+            "round": "05",
+            "franchise": "0017",
+            "pick": "09",
+            "timestamp": "1746305782",
+            "player": "17139"
+          },
+          {
+            "player": "17154",
+            "franchise": "0030",
+            "round": "05",
+            "comments": "[Pick traded from Cleveland Browns.\nPick traded from Baltimore Ravens.\nPick traded from Denver Broncos.] ",
+            "timestamp": "1746308548",
+            "pick": "10"
+          },
+          {
+            "player": "17064",
+            "comments": "",
+            "franchise": "0018",
+            "round": "05",
+            "pick": "11",
+            "timestamp": "1746308790"
+          },
+          {
+            "round": "05",
+            "franchise": "0029",
+            "comments": "[Pick traded from Buffalo Bills.\nPick traded from Baltimore Ravens.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746308790",
+            "pick": "12",
+            "player": "17096"
+          },
+          {
+            "player": "17060",
+            "pick": "13",
+            "timestamp": "1746312501",
+            "comments": "[Pick traded from   Houston Texans.\nPick traded from Baltimore Ravens.\nPick traded from Denver Broncos.] ",
+            "franchise": "0018",
+            "round": "05"
+          },
+          {
+            "pick": "14",
+            "timestamp": "1746312707",
+            "comments": "[Pick traded from Los Angeles Chargers.\nPick traded from Baltimore Ravens.] ",
+            "franchise": "0029",
+            "round": "05",
+            "player": "17066"
+          },
+          {
+            "franchise": "0029",
+            "round": "05",
+            "comments": "[Pick traded from Indianapolis Colts.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746312707",
+            "pick": "15",
+            "player": "17172"
+          },
+          {
+            "player": "17142",
+            "comments": "[Pick traded from Kansas City Chiefs.] ",
+            "franchise": "0028",
+            "round": "05",
+            "pick": "16",
+            "timestamp": "1746315429"
+          },
+          {
+            "player": "17152",
+            "pick": "17",
+            "timestamp": "1746315429",
+            "comments": "[Pick added by commissioner.\nPick traded from Denver Broncos.\nPick traded from Baltimore Ravens.\nPick made from Pre-Draft List] ",
+            "round": "05",
+            "franchise": "0027"
+          },
+          {
+            "player": "17124",
+            "timestamp": "1746316961",
+            "pick": "18",
+            "round": "05",
+            "franchise": "0023",
+            "comments": "[Pick added by commissioner.\nPick traded from Denver Broncos.\nPick traded from Kansas City Chiefs.] "
+          },
+          {
+            "player": "17182",
+            "timestamp": "1746327074",
+            "pick": "19",
+            "franchise": "0027",
+            "round": "05",
+            "comments": "[Pick added by commissioner.] "
+          },
+          {
+            "player": "17185",
+            "pick": "20",
+            "timestamp": "1746360753",
+            "comments": "[Pick added by commissioner.\nPick traded from Kansas City Chiefs.] ",
+            "franchise": "0023",
+            "round": "05"
+          },
+          {
+            "franchise": "0031",
+            "round": "05",
+            "comments": "[Pick added by commissioner.] ",
+            "timestamp": "1746371217",
+            "pick": "21",
+            "player": "17167"
+          },
+          {
+            "player": "17076",
+            "franchise": "0029",
+            "round": "05",
+            "comments": "[Pick added by commissioner.\nPick traded from Baltimore Ravens.\nPick made from Pre-Draft List] ",
+            "timestamp": "1746371217",
+            "pick": "22"
+          }
+        ],
+        "unit": "CONFERENCE01",
+        "static_url": "https://www46.myfantasyleague.com/fflnetdynamic2025/60206_CONFERENCE01_draft_results.xml"
+      }
+    ]
+  },
+  "encoding": "utf-8"
+}

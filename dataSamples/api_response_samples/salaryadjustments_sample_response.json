@@ -1,0 +1,569 @@
+Loading League Data from My Playbook
+{
+  "encoding": "utf-8",
+  "version": "1.0",
+  "salaryAdjustments": {
+    "salaryAdjustment": [
+      {
+        "amount": "0.51",
+        "description": "Kendrick Bourne - 2 yrs at $1.7 mil dropped 11/14/24",
+        "franchise_id": "0001",
+        "timestamp": "1739556692",
+        "id": "259"
+      },
+      {
+        "franchise_id": "0004",
+        "timestamp": "1739556741",
+        "id": "260",
+        "amount": "1.55",
+        "description": "K. Murray 2024 B/R"
+      },
+      {
+        "franchise_id": "0004",
+        "id": "261",
+        "timestamp": "1739556762",
+        "description": "Rasul Douglas - 2 yrs at $2.95 mil dropped 12/17/24",
+        "amount": "0.89"
+      },
+      {
+        "amount": "0.79",
+        "description": "B. Burns 2024 B/R",
+        "timestamp": "1739556799",
+        "id": "262",
+        "franchise_id": "0003"
+      },
+      {
+        "timestamp": "1739556902",
+        "id": "263",
+        "franchise_id": "0007",
+        "amount": "0.90",
+        "description": "Jamal Adams - 2 yrs at $3.01 mil dropped 10/17/24"
+      },
+      {
+        "amount": "2.54",
+        "description": "D. Carr 2024 B/R",
+        "franchise_id": "0008",
+        "timestamp": "1739556943",
+        "id": "264"
+      },
+      {
+        "description": "Dante Stills - 3 yrs at $1.75 mil dropped 9/17/24",
+        "amount": "1.05",
+        "id": "265",
+        "timestamp": "1739556967",
+        "franchise_id": "0008"
+      },
+      {
+        "description": "Michael Hoecht - 3 yrs at $3.6 mil dropped 10/2/24",
+        "amount": "2.16",
+        "id": "266",
+        "timestamp": "1739556996",
+        "franchise_id": "0008"
+      },
+      {
+        "id": "267",
+        "timestamp": "1739557024",
+        "franchise_id": "0008",
+        "description": "Jake Camarda - 3 yrs at $1.83 mil dropped 10/29/24",
+        "amount": "1.10"
+      },
+      {
+        "description": "Deebo Samuel - 3 yrs at $26.94 mil dropped 12/17/24",
+        "amount": "16.16",
+        "id": "268",
+        "timestamp": "1739557049",
+        "franchise_id": "0008"
+      },
+      {
+        "amount": "4.31",
+        "description": "Skyy Moore - 2 yrs at $3.92 mil dropped 9/29/24 FG 2022 1.09",
+        "timestamp": "1739557135",
+        "id": "269",
+        "franchise_id": "0009"
+      },
+      {
+        "id": "270",
+        "timestamp": "1739557159",
+        "franchise_id": "0009",
+        "description": "Chad Muma - 2 yrs at $1.91 mil dropped 10/23/24",
+        "amount": "0.57"
+      },
+      {
+        "description": "Hendon Hooker - 3 yrs at $1.69 mil dropped 9/1/24",
+        "amount": "1.01",
+        "id": "271",
+        "timestamp": "1739557198",
+        "franchise_id": "0010"
+      },
+      {
+        "amount": "1.32",
+        "description": "Darrick Forest - 2 yrs at $4.4 mil dropped 9/1/24",
+        "timestamp": "1739557219",
+        "id": "272",
+        "franchise_id": "0010"
+      },
+      {
+        "amount": "0.84",
+        "description": "Luke Schoonmaker - 3 yrs at $1.4 mil dropped 9/4/24",
+        "timestamp": "1739557241",
+        "id": "273",
+        "franchise_id": "0010"
+      },
+      {
+        "timestamp": "1739557265",
+        "id": "274",
+        "franchise_id": "0010",
+        "amount": "0.46",
+        "description": "John Metchie III - 2 yrs at $1.52 mil dropped 9/6/24"
+      },
+      {
+        "amount": "0.56",
+        "description": "Damone Clark - 2 yrs at $1.86 mil dropped 10/9/24",
+        "timestamp": "1739557317",
+        "id": "275",
+        "franchise_id": "0011"
+      },
+      {
+        "franchise_id": "0012",
+        "timestamp": "1739557360",
+        "id": "276",
+        "amount": "1.52",
+        "description": "Parris Campbell - 2 yrs at $5.05 mil dropped 9/2/24"
+      },
+      {
+        "timestamp": "1739557380",
+        "id": "277",
+        "franchise_id": "0012",
+        "amount": "0.62",
+        "description": "James Bradberry - 2 yrs at $2.05 mil dropped 9/2/24"
+      },
+      {
+        "franchise_id": "0013",
+        "id": "278",
+        "timestamp": "1739557416",
+        "description": "H. Landry 2024 B/R",
+        "amount": "4.02"
+      },
+      {
+        "timestamp": "1739557458",
+        "id": "279",
+        "franchise_id": "0016",
+        "amount": "3.60",
+        "description": "C. Ridley 2024 B/R"
+      },
+      {
+        "amount": "0.70",
+        "description": "Marcus Williams - 2 yrs at $2.34 mill dropped 12/18/24",
+        "timestamp": "1739557494",
+        "id": "280",
+        "franchise_id": "0016"
+      },
+      {
+        "amount": "4.19",
+        "description": "T. McLaurin 2024 B/R",
+        "timestamp": "1739557572",
+        "id": "281",
+        "franchise_id": "0017"
+      },
+      {
+        "franchise_id": "0018",
+        "timestamp": "1739557617",
+        "id": "282",
+        "amount": "1.38",
+        "description": "T.J. Watt 2024 B/R"
+      },
+      {
+        "franchise_id": "0019",
+        "id": "283",
+        "timestamp": "1739557653",
+        "description": "Jordan Whitehead - 3 yrs at $6.24 dropped 11/26/24",
+        "amount": "3.74"
+      },
+      {
+        "id": "284",
+        "timestamp": "1739557708",
+        "franchise_id": "0021",
+        "description": "Deshaun Watson - 2 yrs at $11.4 mil dropped 10/12/24",
+        "amount": "3.42"
+      },
+      {
+        "description": "D. Watson 2024 B/R",
+        "amount": "2.56",
+        "franchise_id": "0029",
+        "id": "285",
+        "timestamp": "1739557800"
+      },
+      {
+        "description": "Javon Hargrave - 2 yrs at $7.6 mil dropped 9/27/24",
+        "amount": "2.28",
+        "id": "286",
+        "timestamp": "1739557837",
+        "franchise_id": "0030"
+      },
+      {
+        "timestamp": "1739557854",
+        "id": "287",
+        "franchise_id": "0030",
+        "amount": "0.51",
+        "description": "Arik Armstead - 2 yrs at $1.7 mil dropped 10/10/24"
+      },
+      {
+        "franchise_id": "0031",
+        "timestamp": "1739557894",
+        "id": "288",
+        "amount": "0.51",
+        "description": "Daniel Carlson - 2 yrs at $1.7 mil dropped 11/5/24"
+      },
+      {
+        "description": "T. Higgins 2024 B/R",
+        "amount": "1.46",
+        "franchise_id": "0032",
+        "id": "289",
+        "timestamp": "1739557926"
+      },
+      {
+        "franchise_id": "0029",
+        "id": "290",
+        "timestamp": "1744828507",
+        "description": "DEN sends KC $11.31 cash trade 4/16",
+        "amount": "11.31"
+      },
+      {
+        "amount": "-11.31",
+        "description": "DEN sends KC $11.31 cash trade 4/16",
+        "timestamp": "1744828507",
+        "id": "291",
+        "franchise_id": "0030"
+      },
+      {
+        "franchise_id": "0018",
+        "id": "292",
+        "timestamp": "1745427477",
+        "description": "L. Wilson - B/R - 4/22/25",
+        "amount": "1.75"
+      },
+      {
+        "description": "N. Madubuike - B/R 4/22/25",
+        "amount": "3.82",
+        "id": "293",
+        "timestamp": "1745427477",
+        "franchise_id": "0019"
+      },
+      {
+        "id": "294",
+        "timestamp": "1745427477",
+        "franchise_id": "0021",
+        "description": "B. Aiyuk - B/R - 4/22/25",
+        "amount": "0.80"
+      },
+      {
+        "franchise_id": "0023",
+        "timestamp": "1745427477",
+        "id": "295",
+        "amount": "16.07",
+        "description": "T. Etienne - B/R - 4/22/25"
+      },
+      {
+        "amount": "1.15",
+        "description": "J. Owusu-Koramoah - B/R - 4/22/25",
+        "timestamp": "1745427477",
+        "id": "296",
+        "franchise_id": "0030"
+      },
+      {
+        "id": "297",
+        "timestamp": "1745939084",
+        "franchise_id": "0017",
+        "description": "D. Hopkins - B/R - 4/24/25",
+        "amount": "3.61"
+      },
+      {
+        "amount": "3.22",
+        "description": "D. Long - B/R - 4/22/25",
+        "franchise_id": "0020",
+        "timestamp": "1745939126",
+        "id": "298"
+      },
+      {
+        "id": "299",
+        "timestamp": "1745939278",
+        "franchise_id": "0027",
+        "description": "S. Diggs - B/R - 4/24/25",
+        "amount": "15.56"
+      },
+      {
+        "franchise_id": "0031",
+        "timestamp": "1745939375",
+        "id": "301",
+        "amount": "1.98",
+        "description": "C. Holcomb - B/R - 4/24/25"
+      },
+      {
+        "amount": "4.28",
+        "description": "T. Tagovailoa - B/R - 4/24/25",
+        "franchise_id": "0032",
+        "timestamp": "1745939375",
+        "id": "302"
+      },
+      {
+        "franchise_id": "0001",
+        "id": "303",
+        "timestamp": "1745939561",
+        "description": "A. Cooper - B/R - 4/24/25",
+        "amount": "5.26"
+      },
+      {
+        "description": "J. Owusu-Koramoah - B/R - 4/24/25",
+        "amount": "0.63",
+        "id": "304",
+        "timestamp": "1745939941",
+        "franchise_id": "0008"
+      },
+      {
+        "amount": "3.24",
+        "description": "N. Madubuike - B/R - 4/24/25",
+        "franchise_id": "0009",
+        "timestamp": "1745940073",
+        "id": "305"
+      },
+      {
+        "timestamp": "1745940148",
+        "id": "306",
+        "franchise_id": "0010",
+        "amount": "1.78",
+        "description": "G. Jarrett - B/R - 4/24/25"
+      },
+      {
+        "amount": "6.95",
+        "description": "T. Tagovailoa - B/R - 4/24/25",
+        "franchise_id": "0016",
+        "timestamp": "1745940229",
+        "id": "307"
+      },
+      {
+        "franchise_id": "0028",
+        "id": "308",
+        "timestamp": "1745955865",
+        "description": "N. Collins - B/R - 4/24/25",
+        "amount": "17"
+      },
+      {
+        "id": "309",
+        "timestamp": "1749145748",
+        "franchise_id": "0004",
+        "description": "ATL sends $7.5 to WAS - cash trade 5/2/25",
+        "amount": "-7.50"
+      },
+      {
+        "timestamp": "1749145748",
+        "id": "310",
+        "franchise_id": "0009",
+        "amount": "7.50",
+        "description": "ATL sends $7.5 to WAS - cash trade 5/2/25"
+      },
+      {
+        "franchise_id": "0030",
+        "id": "311",
+        "timestamp": "1750088934",
+        "description": "H. Hooker - 2 yrs at $1.98 dropped 6/14/25 J1T",
+        "amount": "1.19"
+      },
+      {
+        "description": "A. Washington - 2 yrs at $1.86 mil dropped 6/14/25 J1T",
+        "amount": "1.12",
+        "id": "312",
+        "timestamp": "1750088989",
+        "franchise_id": "0030"
+      },
+      {
+        "timestamp": "1750264831",
+        "id": "313",
+        "franchise_id": "0031",
+        "amount": "2.00",
+        "description": "P. Smith - 1 yr at $3.34 mil dropped 6/17/25"
+      },
+      {
+        "description": "SEA sends $9.31 to CHI - cash trade 6/18/25",
+        "amount": "-9.31",
+        "id": "314",
+        "timestamp": "1750302465",
+        "franchise_id": "0005"
+      },
+      {
+        "description": "SEA sends $9.31 to CHI - cash trade 6/18/25",
+        "amount": "9.31",
+        "id": "315",
+        "timestamp": "1750302465",
+        "franchise_id": "0016"
+      },
+      {
+        "franchise_id": "0016",
+        "timestamp": "1750530965",
+        "id": "316",
+        "amount": "4.34",
+        "description": "G. Davis - 3 yrs at $3.62 mil dropped 6/19/25"
+      },
+      {
+        "description": "G. Davis - 1 yr at $5.2 mil dropped 6/19/25",
+        "amount": "3.12",
+        "id": "317",
+        "timestamp": "1750530965",
+        "franchise_id": "0026"
+      },
+      {
+        "description": "B. Jordan - 5 yrs at $3.28 mil dropped 6/19/25",
+        "amount": "5.90",
+        "franchise_id": "0016",
+        "id": "318",
+        "timestamp": "1750531032"
+      },
+      {
+        "description": "K. Enagbare - 2 yrs at $2.96 mil dropped 6/19/25",
+        "amount": "2.66",
+        "id": "319",
+        "timestamp": "1750531071",
+        "franchise_id": "0016"
+      },
+      {
+        "timestamp": "1751229521",
+        "id": "320",
+        "franchise_id": "0002",
+        "amount": "-2",
+        "description": "SEA sends $2m to NYG - cash trade 6/29/25"
+      },
+      {
+        "id": "321",
+        "timestamp": "1751229521",
+        "franchise_id": "0016",
+        "description": "SEA sends $2m to NYG - cash trade 6/29/25",
+        "amount": "2"
+      },
+      {
+        "description": "NOS sends $9.3 mil to NYG - trade 8/23/25",
+        "amount": "-9.30",
+        "id": "322",
+        "timestamp": "1756231397",
+        "franchise_id": "0002"
+      },
+      {
+        "franchise_id": "0011",
+        "timestamp": "1756231397",
+        "id": "323",
+        "amount": "9.30",
+        "description": "NOS sends $9.3 mil to NYG - trade 8/23/25"
+      },
+      {
+        "franchise_id": "0006",
+        "id": "324",
+        "timestamp": "1756233217",
+        "description": "Jalin Hyatt - 2 yrs at $1.50 mil dropped 8/23/25",
+        "amount": "0.90"
+      },
+      {
+        "id": "325",
+        "timestamp": "1756233217",
+        "franchise_id": "0011",
+        "description": "Eric Kendricks - 1 yr at $1.90 mil dropped 8/24/25",
+        "amount": "1.14"
+      },
+      {
+        "franchise_id": "0016",
+        "timestamp": "1756233217",
+        "id": "326",
+        "amount": "1.12",
+        "description": "Jack Jones - 1 yr at $1.87 mil dropped 8/17/2025"
+      },
+      {
+        "timestamp": "1756233268",
+        "id": "327",
+        "franchise_id": "0016",
+        "amount": "1.63",
+        "description": "Jadeveon Clowney - 1 yr at $2.72 mil dropped 8/17/25"
+      },
+      {
+        "description": "Will Levis - 2 yrs at $1.98 mil dropped 8/17/25",
+        "amount": "1.19",
+        "franchise_id": "0016",
+        "id": "328",
+        "timestamp": "1756233318"
+      },
+      {
+        "amount": "5.18",
+        "description": "Treylon Burks - 1 yr at $5.18 mil FG (2022 1.07) dropped 8/17/25",
+        "timestamp": "1756233410",
+        "id": "329",
+        "franchise_id": "0016"
+      },
+      {
+        "amount": "2.80",
+        "description": "ATL sends $2.80 mil to NOS - trade 8/31/25",
+        "timestamp": "1756694098",
+        "id": "330",
+        "franchise_id": "0009"
+      },
+      {
+        "amount": "-2.80",
+        "description": "ATL sends $2.80 mil to NOS - trade 8/31/25",
+        "franchise_id": "0011",
+        "timestamp": "1756694098",
+        "id": "331"
+      },
+      {
+        "description": "Jabrill Peppers - 1 yr at $3mil dropped 8/29/25",
+        "amount": "1.80",
+        "franchise_id": "0004",
+        "id": "332",
+        "timestamp": "1756698799"
+      },
+      {
+        "franchise_id": "0008",
+        "id": "333",
+        "timestamp": "1756698799",
+        "description": "Cameron McGrone - 1 yr at $1.9 mil dropped 8/27/25",
+        "amount": "1.14"
+      },
+      {
+        "franchise_id": "0009",
+        "id": "334",
+        "timestamp": "1756698799",
+        "description": "Roschon Johnson - 2 yrs at $1.56 mil - 2023 2.14 dropped 8/28/25",
+        "amount": "0.94"
+      },
+      {
+        "franchise_id": "0014",
+        "id": "335",
+        "timestamp": "1756698799",
+        "description": "Diontae Johnson - 1 yr at $11.78 mil dropped 8/27/25",
+        "amount": "7.07"
+      },
+      {
+        "franchise_id": "0016",
+        "id": "336",
+        "timestamp": "1756698799",
+        "description": "Jordan Fuller - 1 yr at $4.2 mil dropped 8/27/25",
+        "amount": "2.52"
+      },
+      {
+        "franchise_id": "0008",
+        "id": "337",
+        "timestamp": "1756699003",
+        "description": "Kyzir White - 2 yrs at $3.59 mil dropped 8/27/25",
+        "amount": "2.15"
+      },
+      {
+        "description": "Josey Jewell - 1 yr at $5 mil dropped 8/28/25",
+        "amount": "3",
+        "franchise_id": "0009",
+        "id": "338",
+        "timestamp": "1756699003"
+      },
+      {
+        "id": "339",
+        "timestamp": "1756699003",
+        "franchise_id": "0016",
+        "description": "Ventrell Miller - 2 yrs at $2.99 mil dropped 8/27/25",
+        "amount": "1.79"
+      }
+    ]
+  }
+}

@@ -56,6 +56,28 @@ def _download_sheet_csv(sheet_id: str, sheet_tab: str, timeout: int = 30) -> byt
     return resp.content
 
 
+def _get_sheet_title(sheet_id: str, timeout: int = 30) -> str:
+    """Fetch the human-readable Google Sheet name by scraping the HTML <title>.
+
+    Falls back to the sheet_id when the title cannot be determined.
+    """
+    try:
+        url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/edit"
+        resp = requests.get(url, timeout=timeout)
+        resp.raise_for_status()
+        html = resp.text
+        m = re.search(r"<title>(.*?)</title>", html, flags=re.IGNORECASE | re.DOTALL)
+        if m:
+            title = m.group(1).strip()
+            # Typically: "<Sheet Name> - Google Sheets"
+            if title.lower().endswith(" - google sheets"):
+                title = title[: -len(" - Google Sheets")]
+            return title.strip()
+    except Exception:
+        pass
+    return sheet_id
+
+
 def _clean_salary(val: Any) -> Optional[float]:
     if val is None:
         return None
@@ -219,10 +241,12 @@ def ingest_contract_admin(sheet_id: str = SHEET_ID, sheet_tab: str = SHEET_TAB) 
     df_raw = pd.read_csv(pd.io.common.BytesIO(csv_bytes), header=None, dtype=str, keep_default_na=False)
 
     parsed = parse_contract_admin_layout(df_raw)
-    # Attach as-of timestamp column for traceability
+    # Attach metadata columns
     now = datetime.now()
     parsed = parsed.copy()
     parsed["asof"] = now.strftime("%Y-%m-%d %H:%M")
+    parsed["source_doc"] = _get_sheet_title(sheet_id)
+    parsed["tab name"] = sheet_tab
 
     out_dir = os.path.join(_repo_root(), "data", "salaries", "contractAdmin")
     _ensure_dir(out_dir)

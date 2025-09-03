@@ -1,0 +1,2384 @@
+position,player,conference,salary,asof
+Rank,1,"MAHOMES, PATRICK KCC QB",,2025-09-03 13:44
+RB Player,"Henry, Derrick BAL RB",AFC,27.84,2025-09-03 13:44
+WR Player,"Evans, Mike TBB WR",NFC,42.24,2025-09-03 13:44
+TE Player,"Kelce, Travis KCC TE",AFC,30.25,2025-09-03 13:44
+PK/PN Player,"Dickson, Michael SEA PN",AFC,4.3,2025-09-03 13:44
+PK Player,"Boswell, Chris PIT PK",AFC,3.0,2025-09-03 13:44
+PN Player,"Dickson, Michael SEA PN",AFC,4.3,2025-09-03 13:44
+DT Player,"Brown, Derrick CAR DT",NFC,21.51,2025-09-03 13:44
+DE Player,"Bosa, Nick SFO DE",AFC,24.61,2025-09-03 13:44
+LB Player,"Luvu, Frankie WAS LB",AFC,20.1,2025-09-03 13:44
+CB Player,"Taylor, Alontae NOS CB",NFC,6.3,2025-09-03 13:44
+S Player,"Winfield, Antoine TBB S",NFC,14.03,2025-09-03 13:44
+Rank,2,"HURTS, JALEN PHI QB",,2025-09-03 13:44
+RB Player,"Henry, Derrick BAL RB",NFC,26.48,2025-09-03 13:44
+WR Player,"Collins, Nico HOU WR",NFC,42.24,2025-09-03 13:44
+TE Player,"Kittle, George SFO TE",NFC,24.75,2025-09-03 13:44
+PK/PN Player,"Cole, A.J. LVR PN",AFC,3.63,2025-09-03 13:44
+PK Player,"Butker, Harrison KCC PK",AFC,2.3,2025-09-03 13:44
+PN Player,"Cole, A.J. LVR PN",AFC,3.63,2025-09-03 13:44
+DT Player,"Buckner, DeForest IND DT",NFC,19.75,2025-09-03 13:44
+DE Player,"Watt, T.J. PIT DE",NFC,24.41,2025-09-03 13:44
+LB Player,"Oluokun, Foyesade JAC LB",NFC,14.52,2025-09-03 13:44
+CB Player,"Adebo, Paulson NYG CB",AFC,5.84,2025-09-03 13:44
+S Player,"Winfield, Antoine TBB S",AFC,9.12,2025-09-03 13:44
+Rank,3,"MAHOMES, PATRICK KCC QB",,2025-09-03 13:44
+RB Player,"Barkley, Saquon PHI RB",AFC,26.48,2025-09-03 13:44
+WR Player,"Chase, Ja'Marr CIN WR",NFC,42.24,2025-09-03 13:44
+TE Player,"Kittle, George SFO TE",AFC,18.15,2025-09-03 13:44
+PK/PN Player,"Boswell, Chris PIT PK",AFC,3.0,2025-09-03 13:44
+PK Player,"Dicker, Cameron LAC PK",AFC,2.3,2025-09-03 13:44
+PN Player,"Sanchez, Rigoberto IND PN",AFC,2.17,2025-09-03 13:44
+DT Player,"Wilkins, Christian LVR DT",AFC,19.21,2025-09-03 13:44
+DE Player,"Crosby, Maxx LVR DE",NFC,24.24,2025-09-03 13:44
+LB Player,"Smith, Roquan BAL LB",AFC,12.97,2025-09-03 13:44
+CB Player,"Taylor, Alontae NOS CB",AFC,5.46,2025-09-03 13:44
+S Player,"Hufanga, Talanoa DEN S",AFC,8.88,2025-09-03 13:44
+Rank,4,"PRESCOTT, DAK DAL QB",,2025-09-03 13:44
+RB Player,"McCaffrey, Christian SFO RB",NFC,25.0,2025-09-03 13:44
+WR Player,"Jefferson, Justin MIN WR",NFC,41.25,2025-09-03 13:44
+TE Player,"Hockenson, T.J. MIN TE",AFC,16.82,2025-09-03 13:44
+PK/PN Player,"Butker, Harrison KCC PK",AFC,2.3,2025-09-03 13:44
+PK Player,"Boswell, Chris PIT PK",NFC,1.9,2025-09-03 13:44
+PN Player,"Cooke, Logan JAC PN",AFC,1.9,2025-09-03 13:44
+DT Player,"Brown, Derrick CAR DT",AFC,17.72,2025-09-03 13:44
+DE Player,"Crosby, Maxx LVR DE",AFC,22.99,2025-09-03 13:44
+LB Player,"Baun, Zack PHI LB",AFC,11.22,2025-09-03 13:44
+CB Player,"Stingley Jr., Derek HOU CB",NFC,5.35,2025-09-03 13:44
+S Player,"Bates, Jessie ATL S",NFC,8.87,2025-09-03 13:44
+Rank,5,"JACKSON, LAMAR BAL QB",,2025-09-03 13:44
+RB Player,"Jacobs, Josh GBP RB",NFC,18.81,2025-09-03 13:44
+WR Player,"Hill, Tyreek MIA WR",AFC,40.76,2025-09-03 13:44
+TE Player,"Hockenson, T.J. MIN TE",NFC,13.6,2025-09-03 13:44
+PK/PN Player,"Dicker, Cameron LAC PK",AFC,2.3,2025-09-03 13:44
+PK Player,"Dicker, Cameron LAC PK",NFC,1.86,2025-09-03 13:44
+PN Player,"Stonehouse, Ryan MIA PN",NFC,1.87,2025-09-03 13:44
+DT Player,"Wilkins, Christian LVR DT",NFC,16.34,2025-09-03 13:44
+DE Player,"Hunter, Danielle HOU DE",AFC,20.59,2025-09-03 13:44
+LB Player,"Cashman, Blake MIN LB",NFC,10.0,2025-09-03 13:44
+CB Player,"Bland, DaRon DAL CB",AFC,5.35,2025-09-03 13:44
+S Player,"Moehrig, Trevon CAR S",NFC,8.7,2025-09-03 13:44
+Rank,6,"PURDY, BROCK SFO QB",,2025-09-03 13:44
+RB Player,"Harris, Najee LAC RB",NFC,18.0,2025-09-03 13:44
+WR Player,"Jefferson, Justin MIN WR",AFC,39.2,2025-09-03 13:44
+TE Player,"Andrews, Mark BAL TE",NFC,12.5,2025-09-03 13:44
+PK/PN Player,"Sanchez, Rigoberto IND PN",AFC,2.17,2025-09-03 13:44
+PK Player,"Aubrey, Brandon DAL PK",NFC,1.81,2025-09-03 13:44
+PN Player,"Cole, A.J. LVR PN",NFC,1.86,2025-09-03 13:44
+DT Player,"Buckner, DeForest IND DT",AFC,15.96,2025-09-03 13:44
+DE Player,"Watt, T.J. PIT DE",AFC,20.57,2025-09-03 13:44
+LB Player,"Franklin, Zaire IND LB",NFC,10.0,2025-09-03 13:44
+CB Player,"Taylor-Britt, Cam CIN CB",AFC,5.35,2025-09-03 13:44
+S Player,"Love, Julian SEA S",AFC,8.68,2025-09-03 13:44
+Rank,7,"PURDY, BROCK SFO QB",,2025-09-03 13:44
+RB Player,"Conner, James ARI RB",NFC,17.71,2025-09-03 13:44
+WR Player,"Lamb, CeeDee DAL WR",NFC,37.73,2025-09-03 13:44
+TE Player,"Engram, Evan DEN TE",NFC,10.45,2025-09-03 13:44
+PK/PN Player,"Cooke, Logan JAC PN",AFC,1.9,2025-09-03 13:44
+PK Player,"Tucker, Justin FA PK",NFC,1.81,2025-09-03 13:44
+PN Player,"Bojorquez, Corey CLE PN",AFC,1.86,2025-09-03 13:44
+DT Player,"Barmore, Christian NEP DT",AFC,15.29,2025-09-03 13:44
+DE Player,"Bosa, Nick SFO DE",NFC,19.36,2025-09-03 13:44
+LB Player,"Edwards, T.J. CHI LB",AFC,9.66,2025-09-03 13:44
+CB Player,"Stingley Jr., Derek HOU CB",AFC,5.35,2025-09-03 13:44
+S Player,"Joseph, Kerby DET S",AFC,7.46,2025-09-03 13:44
+Rank,8,"PRESCOTT, DAK DAL QB",,2025-09-03 13:44
+RB Player,"Taylor, Jonathan IND RB",NFC,17.6,2025-09-03 13:44
+WR Player,"St. Brown, Amon-Ra DET WR",NFC,34.24,2025-09-03 13:44
+TE Player,"Kelce, Travis KCC TE",NFC,9.2,2025-09-03 13:44
+PK/PN Player,"Boswell, Chris PIT PK",NFC,1.9,2025-09-03 13:44
+PK Player,"Aubrey, Brandon DAL PK",AFC,1.81,2025-09-03 13:44
+PN Player,"Dickson, Michael SEA PN",NFC,1.8,2025-09-03 13:44
+DT Player,"Sieler, Zach MIA DT",NFC,15.0,2025-09-03 13:44
+DE Player,"Greenard, Jonathan MIN DE",AFC,18.77,2025-09-03 13:44
+LB Player,"Smith, Roquan BAL LB",NFC,9.0,2025-09-03 13:44
+CB Player,"Bland, DaRon DAL CB",NFC,4.8,2025-09-03 13:44
+S Player,"Love, Julian SEA S",NFC,7.22,2025-09-03 13:44
+Rank,9,"MURRAY, KYLER ARI QB",,2025-09-03 13:44
+RB Player,"Taylor, Jonathan IND RB",AFC,16.97,2025-09-03 13:44
+WR Player,"McLaurin, Terry WAS WR",NFC,34.11,2025-09-03 13:44
+TE Player,"Pitts, Kyle ATL TE",AFC,9.15,2025-09-03 13:44
+PK/PN Player,"Stonehouse, Ryan MIA PN",NFC,1.87,2025-09-03 13:44
+PK Player,"Fairbairn, Ka'imi HOU PK",AFC,1.81,2025-09-03 13:44
+PN Player,"Scott, J.K. LAC PN",NFC,1.8,2025-09-03 13:44
+DT Player,"Williams, Leonard SEA DT",AFC,15.0,2025-09-03 13:44
+DE Player,"Garrett, Myles CLE DE",NFC,17.82,2025-09-03 13:44
+LB Player,"Milano, Matt BUF LB",AFC,8.89,2025-09-03 13:44
+CB Player,"Green, Renardo SFO CB",AFC,4.37,2025-09-03 13:44
+S Player,"Gardner-Johnson, Chauncey HOU S",NFC,7.22,2025-09-03 13:44
+Rank,10,"ALLEN, JOSH BUF QB",,2025-09-03 13:44
+RB Player,"Mixon, Joe HOU RB",AFC,16.76,2025-09-03 13:44
+WR Player,"St. Brown, Amon-Ra DET WR",AFC,33.68,2025-09-03 13:44
+TE Player,"Njoku, David CLE TE",NFC,8.9,2025-09-03 13:44
+PK/PN Player,"Cole, A.J. LVR PN",NFC,1.86,2025-09-03 13:44
+PK Player,"Lutz, Wil DEN PK",NFC,1.8,2025-09-03 13:44
+PN Player,"Stonehouse, Ryan MIA PN",AFC,1.8,2025-09-03 13:44
+DT Player,"Stewart, Grover IND DT",AFC,14.92,2025-09-03 13:44
+DE Player,"Hines-Allen, Josh JAC DE",NFC,14.95,2025-09-03 13:44
+LB Player,"Franklin, Zaire IND LB",AFC,8.55,2025-09-03 13:44
+CB Player,"Moore, Kenny IND CB",NFC,4.3,2025-09-03 13:44
+S Player,"Metellus, Josh MIN S",NFC,7.18,2025-09-03 13:44
+Rank,11,"BURROW, JOE CIN QB",,2025-09-03 13:44
+RB Player,"Conner, James ARI RB",AFC,16.25,2025-09-03 13:44
+WR Player,"Brown, A.J. PHI WR",NFC,33.28,2025-09-03 13:44
+TE Player,"Pitts, Kyle ATL TE",NFC,8.54,2025-09-03 13:44
+PK/PN Player,"Bojorquez, Corey CLE PN",AFC,1.86,2025-09-03 13:44
+PK Player,"McLaughlin, Chase TBB PK",NFC,1.8,2025-09-03 13:44
+PN Player,"Cooke, Logan JAC PN",NFC,1.1,2025-09-03 13:44
+DT Player,"Sieler, Zach MIA DT",AFC,14.75,2025-09-03 13:44
+DE Player,"Hines-Allen, Josh JAC DE",AFC,13.31,2025-09-03 13:44
+LB Player,"Queen, Patrick PIT LB",AFC,8.33,2025-09-03 13:44
+CB Player,"Humphrey, Marlon BAL CB",AFC,4.3,2025-09-03 13:44
+S Player,"Elliott, DeShon PIT S",NFC,7.0,2025-09-03 13:44
+Rank,12,"ALLEN, JOSH BUF QB",,2025-09-03 13:44
+RB Player,"Montgomery, David DET RB",AFC,15.48,2025-09-03 13:44
+WR Player,"Hill, Tyreek MIA WR",NFC,28.5,2025-09-03 13:44
+TE Player,"Goedert, Dallas PHI TE",NFC,8.0,2025-09-03 13:44
+PK/PN Player,"Dicker, Cameron LAC PK",NFC,1.86,2025-09-03 13:44
+PK Player,"Fairbairn, Ka'imi HOU PK",NFC,1.8,2025-09-03 13:44
+PN Player,"Stout, Jordan BAL PN",NFC,1.1,2025-09-03 13:44
+DT Player,"Simmons, Jeffery TEN DT",AFC,14.71,2025-09-03 13:44
+DE Player,"Garrett, Myles CLE DE",AFC,12.49,2025-09-03 13:44
+LB Player,"Wilson, Logan CIN LB",NFC,7.93,2025-09-03 13:44
+CB Player,"Lenoir, Deommodore SFO CB",NFC,4.0,2025-09-03 13:44
+S Player,"Baker, Budda ARI S",AFC,6.7,2025-09-03 13:44
+Rank,13,"GOFF, JARED DET QB",,2025-09-03 13:44
+RB Player,"Mixon, Joe HOU RB",NFC,15.22,2025-09-03 13:44
+WR Player,"Adams, Davante LAR WR",NFC,27.23,2025-09-03 13:44
+TE Player,"Andrews, Mark BAL TE",AFC,7.79,2025-09-03 13:44
+PK/PN Player,"Aubrey, Brandon DAL PK",NFC,1.81,2025-09-03 13:44
+PK Player,"Myers, Jason SEA PK",AFC,1.8,2025-09-03 13:44
+PN Player,"Dixon, Riley TBB PN",AFC,1.1,2025-09-03 13:44
+DT Player,"Allen, Zach DEN DT",NFC,14.69,2025-09-03 13:44
+DE Player,"Rousseau, Gregory BUF DE",NFC,11.52,2025-09-03 13:44
+LB Player,"Queen, Patrick PIT LB",NFC,7.93,2025-09-03 13:44
+CB Player,"Johnson, Taron BUF CB",NFC,3.87,2025-09-03 13:44
+S Player,"Holland, Jevon NYG S",NFC,6.64,2025-09-03 13:44
+Rank,14,"BURROW, JOE CIN QB",,2025-09-03 13:44
+RB Player,"Kamara, Alvin NOS RB",NFC,15.2,2025-09-03 13:44
+WR Player,"Godwin, Chris TBB WR",NFC,26.62,2025-09-03 13:44
+TE Player,"Schultz, Dalton HOU TE",NFC,7.44,2025-09-03 13:44
+PK/PN Player,"Tucker, Justin FA PK",NFC,1.81,2025-09-03 13:44
+PK Player,"McLaughlin, Chase TBB PK",AFC,1.8,2025-09-03 13:44
+PN Player,"Townsend, Tommy HOU PN",AFC,1.1,2025-09-03 13:44
+DT Player,"Lawrence, Dexter NYG DT",NFC,14.4,2025-09-03 13:44
+DE Player,"Burns, Brian NYG DE",NFC,10.89,2025-09-03 13:44
+LB Player,"Brooks, Jordyn MIA LB",AFC,7.78,2025-09-03 13:44
+CB Player,"Jones, Jaylon IND CB",AFC,3.71,2025-09-03 13:44
+S Player,"James, Derwin LAC S",AFC,6.47,2025-09-03 13:44
+Rank,15,"HURTS, JALEN PHI QB",,2025-09-03 13:44
+RB Player,"Jones, Aaron MIN RB",AFC,14.84,2025-09-03 13:44
+WR Player,"Smith, DeVonta PHI WR",AFC,26.21,2025-09-03 13:44
+TE Player,"Otton, Cade TBB TE",AFC,6.68,2025-09-03 13:44
+PK/PN Player,"Aubrey, Brandon DAL PK",AFC,1.81,2025-09-03 13:44
+PK Player,"Carlson, Daniel LVR PK",AFC,1.8,2025-09-03 13:44
+PN Player,"Bojorquez, Corey CLE PN",NFC,1.09,2025-09-03 13:44
+DT Player,"Robinson, A'Shawn CAR DT",AFC,13.46,2025-09-03 13:44
+DE Player,"Phillips, Jaelan MIA DE",AFC,10.81,2025-09-03 13:44
+LB Player,"Singleton, Alex DEN LB",NFC,7.59,2025-09-03 13:44
+CB Player,"Hobbs, Nate GBP CB",NFC,3.63,2025-09-03 13:44
+S Player,"Dugger, Kyle NEP S",AFC,6.44,2025-09-03 13:44
+Rank,16,"JACKSON, LAMAR BAL QB",,2025-09-03 13:44
+RB Player,"Barkley, Saquon PHI RB",NFC,14.37,2025-09-03 13:44
+WR Player,"Waddle, Jaylen MIA WR",AFC,26.21,2025-09-03 13:44
+TE Player,"Higbee, Tyler LAR TE",NFC,6.53,2025-09-03 13:44
+PK/PN Player,"Fairbairn, Ka'imi HOU PK",AFC,1.81,2025-09-03 13:44
+PK Player,"Sanders, Jason MIA PK",NFC,1.1,2025-09-03 13:44
+PN Player,"Stout, Jordan BAL PN",AFC,1.09,2025-09-03 13:44
+DT Player,"Williams, Quinnen NYJ DT",NFC,12.78,2025-09-03 13:44
+DE Player,"Parsons, Micah DAL DE",AFC,10.07,2025-09-03 13:44
+LB Player,"Singleton, Alex DEN LB",AFC,7.59,2025-09-03 13:44
+CB Player,"Murphy, Byron MIN CB",NFC,3.5,2025-09-03 13:44
+S Player,"Moehrig, Trevon CAR S",AFC,6.29,2025-09-03 13:44
+Rank,17,"MURRAY, KYLER ARI QB",,2025-09-03 13:44
+RB Player,"McCaffrey, Christian SFO RB",AFC,14.25,2025-09-03 13:44
+WR Player,"Collins, Nico HOU WR",AFC,25.25,2025-09-03 13:44
+TE Player,"Bowers, Brock LVR TE",AFC,6.38,2025-09-03 13:44
+PK/PN Player,"Dickson, Michael SEA PN",NFC,1.8,2025-09-03 13:44
+PK Player,"Bates, Jake DET PK",NFC,1.1,2025-09-03 13:44
+PN Player,"Baringer, Bryce NEP PN",AFC,1.06,2025-09-03 13:44
+DT Player,"Allen, Zach DEN DT",AFC,12.67,2025-09-03 13:44
+DE Player,"Landry, Harold NEP DE",NFC,9.9,2025-09-03 13:44
+LB Player,"Warner, Fred SFO LB",NFC,7.41,2025-09-03 13:44
+CB Player,"Gordon, Kyler CHI CB",AFC,3.41,2025-09-03 13:44
+S Player,"Gardner-Johnson, Chauncey HOU S",AFC,6.14,2025-09-03 13:44
+Rank,18,"MAYFIELD, BAKER TBB QB",,2025-09-03 13:44
+RB Player,"Jacobs, Josh GBP RB",AFC,12.97,2025-09-03 13:44
+WR Player,"Jeudy, Jerry CLE WR",AFC,24.48,2025-09-03 13:44
+TE Player,"Kmet, Cole CHI TE",AFC,6.38,2025-09-03 13:44
+PK/PN Player,"Scott, J.K. LAC PN",NFC,1.8,2025-09-03 13:44
+PK Player,"Carlson, Daniel LVR PK",NFC,1.1,2025-09-03 13:44
+PN Player,"Baringer, Bryce NEP PN",NFC,1.04,2025-09-03 13:44
+DT Player,"Allen, Jonathan MIN DT",NFC,12.6,2025-09-03 13:44
+DE Player,"Hunter, Danielle HOU DE",NFC,9.5,2025-09-03 13:44
+LB Player,"Thompson, Shaq BUF LB",NFC,7.33,2025-09-03 13:44
+CB Player,"Emerson, Martin CLE CB",AFC,3.41,2025-09-03 13:44
+S Player,"Bates, Jessie ATL S",AFC,6.13,2025-09-03 13:44
+Rank,19,"GOFF, JARED DET QB",,2025-09-03 13:44
+RB Player,"Etienne, Travis JAC RB",AFC,12.6,2025-09-03 13:44
+WR Player,"Diggs, Stefon NEP WR",NFC,22.77,2025-09-03 13:44
+TE Player,"Henry, Hunter NEP TE",NFC,6.35,2025-09-03 13:44
+PK/PN Player,"Stonehouse, Ryan MIA PN",AFC,1.8,2025-09-03 13:44
+PK Player,"Moody, Jake SFO PK",NFC,1.1,2025-09-03 13:44
+PN Player,"Evans, Ethan LAR PN",AFC,1.04,2025-09-03 13:44
+DT Player,"Barmore, Christian NEP DT",NFC,12.45,2025-09-03 13:44
+DE Player,"Chubb, Bradley MIA DE",NFC,9.2,2025-09-03 13:44
+LB Player,"Bolton, Nick KCC LB",AFC,7.3,2025-09-03 13:44
+CB Player,"Nixon, Keisean GBP CB",AFC,3.26,2025-09-03 13:44
+S Player,"Byard, Kevin CHI S",AFC,6.1,2025-09-03 13:44
+Rank,20,"TAGOVAILOA, TUA MIA QB",,2025-09-03 13:44
+RB Player,"Swift, D'Andre CHI RB",NFC,11.88,2025-09-03 13:44
+WR Player,"Godwin, Chris TBB WR",AFC,22.63,2025-09-03 13:44
+TE Player,"Njoku, David CLE TE",AFC,6.0,2025-09-03 13:44
+PK/PN Player,"Lutz, Wil DEN PK",NFC,1.8,2025-09-03 13:44
+PK Player,"Sanders, Jason MIA PK",AFC,1.1,2025-09-03 13:44
+PN Player,"Taylor, Tory CHI PN",NFC,1.03,2025-09-03 13:44
+DT Player,"Heyward, Cameron PIT DT",NFC,12.35,2025-09-03 13:44
+DE Player,"Granderson, Carl NOS DE",NFC,9.12,2025-09-03 13:44
+LB Player,"Okereke, Bobby NYG LB",AFC,7.29,2025-09-03 13:44
+CB Player,"McDuffie, Trent KCC CB",NFC,3.19,2025-09-03 13:44
+S Player,"Simmons, Justin FA S",AFC,5.96,2025-09-03 13:44
+Rank,21,"LAWRENCE, TREVOR JAC QB",,2025-09-03 13:44
+RB Player,"Hall, Breece NYJ RB",NFC,11.66,2025-09-03 13:44
+WR Player,"Lamb, CeeDee DAL WR",AFC,22.41,2025-09-03 13:44
+TE Player,"Goedert, Dallas PHI TE",AFC,5.94,2025-09-03 13:44
+PK/PN Player,"McLaughlin, Chase TBB PK",NFC,1.8,2025-09-03 13:44
+PK Player,"Bates, Jake DET PK",AFC,1.1,2025-09-03 13:44
+PN Player,"Mann, Braden PHI PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Heyward, Cameron PIT DT",AFC,11.8,2025-09-03 13:44
+DE Player,"Parsons, Micah DAL DE",NFC,9.02,2025-09-03 13:44
+LB Player,"Warner, Fred SFO LB",AFC,7.2,2025-09-03 13:44
+CB Player,"Still, Tarheeb LAC CB",NFC,3.04,2025-09-03 13:44
+S Player,"Hooker, Amani TEN S",NFC,5.8,2025-09-03 13:44
+Rank,22,"COUSINS, KIRK ATL QB",,2025-09-03 13:44
+RB Player,"Hall, Breece NYJ RB",AFC,11.66,2025-09-03 13:44
+WR Player,"Adams, Davante LAR WR",AFC,21.78,2025-09-03 13:44
+TE Player,"Engram, Evan DEN TE",AFC,5.89,2025-09-03 13:44
+PK/PN Player,"Fairbairn, Ka'imi HOU PK",NFC,1.8,2025-09-03 13:44
+PK Player,"Lutz, Wil DEN PK",AFC,1.1,2025-09-03 13:44
+PN Player,"Wright, Ryan MIN PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Williams, Leonard SEA DT",NFC,11.5,2025-09-03 13:44
+DE Player,"Phillips, Jaelan MIA DE",NFC,8.55,2025-09-03 13:44
+LB Player,"Brooks, Jordyn MIA LB",NFC,6.96,2025-09-03 13:44
+CB Player,"Horn, Jaycee CAR CB",NFC,3.0,2025-09-03 13:44
+S Player,"Bynum, Camryn IND S",NFC,5.7,2025-09-03 13:44
+Rank,23,"HERBERT, JUSTIN LAC QB",,2025-09-03 13:44
+RB Player,"Montgomery, David DET RB",NFC,11.5,2025-09-03 13:44
+WR Player,"Brown, A.J. PHI WR",AFC,21.02,2025-09-03 13:44
+TE Player,"Freiermuth, Pat PIT TE",AFC,5.7,2025-09-03 13:44
+PK/PN Player,"Myers, Jason SEA PK",AFC,1.8,2025-09-03 13:44
+PK Player,"Moody, Jake SFO PK",AFC,1.09,2025-09-03 13:44
+PN Player,"Morstead, Thomas SFO PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Williams, Quinnen NYJ DT",AFC,11.5,2025-09-03 13:44
+DE Player,"Cooper, Jonathon DEN DE",AFC,8.42,2025-09-03 13:44
+LB Player,"Bolton, Nick KCC LB",NFC,6.75,2025-09-03 13:44
+CB Player,"Horn, Jaycee CAR CB",AFC,2.85,2025-09-03 13:44
+S Player,"Hufanga, Talanoa DEN S",NFC,5.38,2025-09-03 13:44
+Rank,24,"HERBERT, JUSTIN LAC QB",,2025-09-03 13:44
+RB Player,"Chubb, Nick HOU RB",AFC,11.08,2025-09-03 13:44
+WR Player,"Aiyuk, Brandon SFO WR",NFC,20.57,2025-09-03 13:44
+TE Player,"McBride, Trey ARI TE",NFC,5.35,2025-09-03 13:44
+PK/PN Player,"McLaughlin, Chase TBB PK",AFC,1.8,2025-09-03 13:44
+PK Player,"Ryland, Chad ARI PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Fox, Jack DET PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Lawrence, Dexter NYG DT",AFC,11.19,2025-09-03 13:44
+DE Player,"Gary, Rashan GBP DE",AFC,8.09,2025-09-03 13:44
+LB Player,"Jones, Ernest SEA LB",AFC,6.75,2025-09-03 13:44
+CB Player,"Moore, Kenny IND CB",AFC,2.79,2025-09-03 13:44
+S Player,"Joseph, Kerby DET S",NFC,5.35,2025-09-03 13:44
+Rank,25,"TAGOVAILOA, TUA MIA QB",,2025-09-03 13:44
+RB Player,"Jones, Aaron MIN RB",NFC,10.5,2025-09-03 13:44
+WR Player,"Sutton, Courtland DEN WR",NFC,20.33,2025-09-03 13:44
+TE Player,"McBride, Trey ARI TE",AFC,5.35,2025-09-03 13:44
+PK/PN Player,"Carlson, Daniel LVR PK",AFC,1.8,2025-09-03 13:44
+PK Player,"Santos, Cairo CHI PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Dixon, Riley TBB PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Jones, Chris KCC DT",AFC,11.11,2025-09-03 13:44
+DE Player,"Sweat, Montez CHI DE",AFC,7.98,2025-09-03 13:44
+LB Player,"Pratt, Germaine LVR LB",NFC,6.6,2025-09-03 13:44
+CB Player,"Ward, Charvarius IND CB",NFC,2.6,2025-09-03 13:44
+S Player,"McKinney, Xavier GBP S",AFC,5.35,2025-09-03 13:44
+Rank,26,"LAWRENCE, TREVOR JAC QB",,2025-09-03 13:44
+RB Player,"Robinson, Bijan ATL RB",AFC,9.94,2025-09-03 13:44
+WR Player,"Moore, D.J. CHI WR",NFC,20.24,2025-09-03 13:44
+TE Player,"Kmet, Cole CHI TE",NFC,5.23,2025-09-03 13:44
+PK/PN Player,"Cooke, Logan JAC PN",NFC,1.1,2025-09-03 13:44
+PK Player,"McPherson, Evan CIN PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Hayball, Matthew NOS PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Simmons, Jeffery TEN DT",NFC,10.99,2025-09-03 13:44
+DE Player,"Sweat, Montez CHI DE",NFC,7.67,2025-09-03 13:44
+LB Player,"David, Lavonte TBB LB",AFC,6.4,2025-09-03 13:44
+CB Player,"Campbell, Tyson JAC CB",AFC,2.5,2025-09-03 13:44
+S Player,"Metellus, Josh MIN S",AFC,5.35,2025-09-03 13:44
+Rank,27,"SMITH, GENO LVR QB",,2025-09-03 13:44
+RB Player,"Jeanty, Ashton LVR RB",NFC,9.82,2025-09-03 13:44
+WR Player,"Chase, Ja'Marr CIN WR",AFC,18.74,2025-09-03 13:44
+TE Player,"Higbee, Tyler LAR TE",AFC,5.1,2025-09-03 13:44
+PK/PN Player,"Stout, Jordan BAL PN",NFC,1.1,2025-09-03 13:44
+PK Player,"Elliott, Jake PHI PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Anger, Bryan DAL PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Madubuike, Nnamdi BAL DT",NFC,9.5,2025-09-03 13:44
+DE Player,"Burns, Brian NYG DE",AFC,7.67,2025-09-03 13:44
+LB Player,"Oluokun, Foyesade JAC LB",AFC,6.3,2025-09-03 13:44
+CB Player,"Johnson, Taron BUF CB",AFC,2.41,2025-09-03 13:44
+S Player,"Jones, Brandon DEN S",AFC,5.35,2025-09-03 13:44
+Rank,28,"STAFFORD, MATTHEW LAR QB",,2025-09-03 13:44
+RB Player,"Jeanty, Ashton LVR RB",AFC,9.82,2025-09-03 13:44
+WR Player,"Smith, DeVonta PHI WR",NFC,18.66,2025-09-03 13:44
+TE Player,"Smith, Jonnu PIT TE",AFC,4.56,2025-09-03 13:44
+PK/PN Player,"Dixon, Riley TBB PN",AFC,1.1,2025-09-03 13:44
+PK Player,"Gay, Matt WAS PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Townsend, Tommy HOU PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Onyemata, David ATL DT",NFC,7.62,2025-09-03 13:44
+DE Player,"Van Ginkel, Andrew MIN DE",NFC,7.5,2025-09-03 13:44
+LB Player,"Owusu-Koramoah, Jeremiah CLE LB",NFC,5.95,2025-09-03 13:44
+CB Player,"Humphrey, Marlon BAL CB",NFC,2.32,2025-09-03 13:44
+S Player,"Fitzpatrick, Minkah MIA S",AFC,5.23,2025-09-03 13:44
+Rank,29,"LOVE, JORDAN GBP QB",,2025-09-03 13:44
+RB Player,"Stevenson, Rhamondre NEP RB",NFC,9.56,2025-09-03 13:44
+WR Player,"Aiyuk, Brandon SFO WR",AFC,17.58,2025-09-03 13:44
+TE Player,"Okonkwo, Chigoziem TEN TE",NFC,4.51,2025-09-03 13:44
+PK/PN Player,"Townsend, Tommy HOU PN",AFC,1.1,2025-09-03 13:44
+PK Player,"Gano, Graham NYG PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Araiza, Matt KCC PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Robinson, A'Shawn CAR DT",NFC,7.6,2025-09-03 13:44
+DE Player,"Highsmith, Alex PIT DE",AFC,7.27,2025-09-03 13:44
+LB Player,"Okereke, Bobby NYG LB",NFC,5.89,2025-09-03 13:44
+CB Player,"Davis, Carlton NEP CB",NFC,2.26,2025-09-03 13:44
+S Player,"Dugger, Kyle NEP S",NFC,5.2,2025-09-03 13:44
+Rank,30,"LOVE, JORDAN GBP QB",,2025-09-03 13:44
+RB Player,"Pollard, Tony TEN RB",AFC,8.89,2025-09-03 13:44
+WR Player,"Higgins, Tee CIN WR",NFC,17.35,2025-09-03 13:44
+TE Player,"Okonkwo, Chigoziem TEN TE",AFC,4.5,2025-09-03 13:44
+PK/PN Player,"Sanders, Jason MIA PK",NFC,1.1,2025-09-03 13:44
+PK Player,"Butker, Harrison KCC PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Gillan, Jamie NYG PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Payne, Da'Ron WAS DT",NFC,7.26,2025-09-03 13:44
+DE Player,"Mack, Khalil LAC DE",AFC,7.2,2025-09-03 13:44
+LB Player,"Pratt, Germaine LVR LB",AFC,5.6,2025-09-03 13:44
+CB Player,"Jones, Marcus NEP CB",NFC,2.1,2025-09-03 13:44
+S Player,"James, Derwin LAC S",NFC,5.15,2025-09-03 13:44
+Rank,31,"WILSON, RUSSELL NYG QB",,2025-09-03 13:44
+RB Player,"Hubbard, Chuba CAR RB",NFC,8.68,2025-09-03 13:44
+WR Player,"Hopkins, DeAndre BAL WR",NFC,16.72,2025-09-03 13:44
+TE Player,"Kincaid, Dalton BUF TE",NFC,4.47,2025-09-03 13:44
+PK/PN Player,"Bates, Jake DET PK",NFC,1.1,2025-09-03 13:44
+PK Player,"Koo, Younghoe ATL PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Hekker, Johnny TEN PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Campbell, Calais ARI DT",NFC,7.0,2025-09-03 13:44
+DE Player,"Landry, Harold NEP DE",AFC,7.2,2025-09-03 13:44
+LB Player,"Williams, Quincy NYJ LB",AFC,5.58,2025-09-03 13:44
+CB Player,"Lenoir, Deommodore SFO CB",AFC,2.07,2025-09-03 13:44
+S Player,"Hooker, Amani TEN S",AFC,4.94,2025-09-03 13:44
+Rank,32,"RODGERS, AARON PIT QB",,2025-09-03 13:44
+RB Player,"Kamara, Alvin NOS RB",AFC,8.49,2025-09-03 13:44
+WR Player,"Evans, Mike TBB WR",AFC,16.34,2025-09-03 13:44
+TE Player,"Freiermuth, Pat PIT TE",NFC,4.12,2025-09-03 13:44
+PK/PN Player,"Carlson, Daniel LVR PK",NFC,1.1,2025-09-03 13:44
+PK Player,"Folk, Nick FA PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Martin, Sam CAR PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Oliver, Ed BUF DT",AFC,6.91,2025-09-03 13:44
+DE Player,"Rousseau, Gregory BUF DE",AFC,6.7,2025-09-03 13:44
+LB Player,"Greenlaw, Dre DEN LB",NFC,5.51,2025-09-03 13:44
+CB Player,"Davis, Carlton NEP CB",AFC,2.02,2025-09-03 13:44
+S Player,"Williams, Evan GBP S",NFC,4.59,2025-09-03 13:44
+Rank,33,"RICHARDSON, ANTHONY IND QB",,2025-09-03 13:44
+RB Player,"Walker III, Kenneth SEA RB",NFC,8.42,2025-09-03 13:44
+WR Player,"Kupp, Cooper SEA WR",NFC,15.84,2025-09-03 13:44
+TE Player,"Bowers, Brock LVR TE",NFC,4.02,2025-09-03 13:44
+PK/PN Player,"Moody, Jake SFO PK",NFC,1.1,2025-09-03 13:44
+PK Player,"Gonzalez, Zane FA PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Johnston, Cam PIT PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Madubuike, Nnamdi BAL DT",AFC,6.72,2025-09-03 13:44
+DE Player,"Sweat, Josh ARI DE",AFC,6.53,2025-09-03 13:44
+LB Player,"Wilson, Logan CIN LB",AFC,5.42,2025-09-03 13:44
+CB Player,"Diggs, Trevon DAL CB",AFC,2.0,2025-09-03 13:44
+S Player,"Pinnock, Jason SFO S",AFC,4.5,2025-09-03 13:44
+Rank,34,"FIELDS, JUSTIN NYJ QB",,2025-09-03 13:44
+RB Player,"Walker III, Kenneth SEA RB",AFC,8.42,2025-09-03 13:44
+WR Player,"Moore, D.J. CHI WR",AFC,15.39,2025-09-03 13:44
+TE Player,"Gesicki, Mike CIN TE",NFC,4.0,2025-09-03 13:44
+PK/PN Player,"Sanders, Jason MIA PK",AFC,1.1,2025-09-03 13:44
+PK Player,"Prater, Matt FA PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Rehkow, Ryan CIN PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Ford, Poona LAR DT",NFC,6.5,2025-09-03 13:44
+DE Player,"Highsmith, Alex PIT DE",NFC,6.37,2025-09-03 13:44
+LB Player,"Edwards, T.J. CHI LB",NFC,5.38,2025-09-03 13:44
+CB Player,"Lewis, Jourdan JAC CB",NFC,1.9,2025-09-03 13:44
+S Player,"McKinney, Xavier GBP S",NFC,4.31,2025-09-03 13:44
+Rank,35,"STAFFORD, MATTHEW LAR QB",,2025-09-03 13:44
+RB Player,"Robinson, Bijan ATL RB",NFC,8.38,2025-09-03 13:44
+WR Player,"Lockett, Tyler TEN WR",AFC,15.16,2025-09-03 13:44
+TE Player,"Waller, Darren MIA TE",NFC,4.0,2025-09-03 13:44
+PK/PN Player,"Bates, Jake DET PK",AFC,1.1,2025-09-03 13:44
+PK Player,"Romo, John Parker NEP PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Sanchez, Rigoberto IND PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Oliver, Ed BUF DT",NFC,6.48,2025-09-03 13:44
+DE Player,"Hendrickson, Trey CIN DE",NFC,5.45,2025-09-03 13:44
+LB Player,"David, Lavonte TBB LB",NFC,5.38,2025-09-03 13:44
+CB Player,"Diggs, Trevon DAL CB",NFC,1.9,2025-09-03 13:44
+S Player,"Fuller, Jordan ATL S",NFC,4.2,2025-09-03 13:44
+Rank,36,"MAYFIELD, BAKER TBB QB",,2025-09-03 13:44
+RB Player,"Hubbard, Chuba CAR RB",AFC,8.29,2025-09-03 13:44
+WR Player,"Waddle, Jaylen MIA WR",NFC,14.87,2025-09-03 13:44
+TE Player,"Loveland, Colston CHI TE",NFC,3.93,2025-09-03 13:44
+PK/PN Player,"Lutz, Wil DEN PK",AFC,1.1,2025-09-03 13:44
+PK Player,"Grupe, Blake NOS PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Fox, Jack DET PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Jarrett, Grady CHI DT",NFC,5.5,2025-09-03 13:44
+DE Player,"Reddick, Haason TBB DE",NFC,5.45,2025-09-03 13:44
+LB Player,"Dodson, Tyrel MIA LB",AFC,5.38,2025-09-03 13:44
+CB Player,"Amadi, Ugo NOS CB",AFC,1.9,2025-09-03 13:44
+S Player,"Bell, Vonn FA S",AFC,4.03,2025-09-03 13:44
+Rank,37,"WILLIAMS, CALEB CHI QB",,2025-09-03 13:44
+RB Player,"Hampton, Omarion LAC RB",NFC,8.23,2025-09-03 13:44
+WR Player,"Samuel, Deebo WAS WR",AFC,14.52,2025-09-03 13:44
+TE Player,"Loveland, Colston CHI TE",AFC,3.93,2025-09-03 13:44
+PK/PN Player,"Bojorquez, Corey CLE PN",NFC,1.09,2025-09-03 13:44
+PK Player,"Myers, Jason SEA PK",NFC,1.0,2025-09-03 13:44
+PN Player,"Gillikin, Blake ARI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Butler, Adam LVR DT",NFC,5.4,2025-09-03 13:44
+DE Player,"Bosa, Joey BUF DE",NFC,5.43,2025-09-03 13:44
+LB Player,"Dean, Nakobe PHI LB",NFC,5.35,2025-09-03 13:44
+CB Player,"Slay, Darius PIT CB",AFC,1.9,2025-09-03 13:44
+S Player,"Lake, Quentin LAR S",AFC,3.99,2025-09-03 13:44
+Rank,38,"RICHARDSON, ANTHONY IND QB",,2025-09-03 13:44
+RB Player,"Mason, Jordan MIN RB",NFC,7.6,2025-09-03 13:44
+WR Player,"Ridley, Calvin TEN WR",NFC,14.11,2025-09-03 13:44
+TE Player,"Likely, Isaiah BAL TE",NFC,3.87,2025-09-03 13:44
+PK/PN Player,"Stout, Jordan BAL PN",AFC,1.09,2025-09-03 13:44
+PK Player,"Ryland, Chad ARI PK",AFC,1.0,2025-09-03 13:44
+PN Player,"Rehkow, Ryan CIN PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Turner, Kobie LAR DT",AFC,5.38,2025-09-03 13:44
+DE Player,"Van Noy, Kyle BAL DE",NFC,5.4,2025-09-03 13:44
+LB Player,"Sherwood, Jamien NYJ LB",AFC,5.35,2025-09-03 13:44
+CB Player,"Surtain II, Patrick DEN CB",AFC,1.9,2025-09-03 13:44
+S Player,"Byard, Kevin CHI S",NFC,3.8,2025-09-03 13:44
+Rank,39,"FIELDS, JUSTIN NYJ QB",,2025-09-03 13:44
+RB Player,"Williams, Kyren LAR RB",NFC,7.46,2025-09-03 13:44
+WR Player,"Samuel, Deebo WAS WR",NFC,14.08,2025-09-03 13:44
+TE Player,"Likely, Isaiah BAL TE",AFC,3.87,2025-09-03 13:44
+PK/PN Player,"Moody, Jake SFO PK",AFC,1.09,2025-09-03 13:44
+PK Player,"Gonzalez, Zane FA PK",AFC,1.0,2025-09-03 13:44
+PN Player,"Anger, Bryan DAL PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Stewart, Grover IND DT",NFC,5.35,2025-09-03 13:44
+DE Player,"Bonitto, Nik DEN DE",NFC,5.39,2025-09-03 13:44
+LB Player,"Dean, Nakobe PHI LB",AFC,5.35,2025-09-03 13:44
+CB Player,"Terrell, A.J. ATL CB",AFC,1.9,2025-09-03 13:44
+S Player,"Lake, Quentin LAR S",NFC,3.5,2025-09-03 13:44
+Rank,40,"SMITH, GENO LVR QB",,2025-09-03 13:44
+RB Player,"Pollard, Tony TEN RB",NFC,7.41,2025-09-03 13:44
+WR Player,"Higgins, Tee CIN WR",AFC,14.03,2025-09-03 13:44
+TE Player,"Schoonmaker, Luke DAL TE",NFC,3.73,2025-09-03 13:44
+PK/PN Player,"Baringer, Bryce NEP PN",AFC,1.06,2025-09-03 13:44
+PK Player,"McManus, Brandon GBP PK",AFC,1.0,2025-09-03 13:44
+PN Player,"Johnston, Cam PIT PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Hargrave, Javon MIN DT",NFC,5.3,2025-09-03 13:44
+DE Player,"Cooper, Jonathon DEN DE",NFC,5.38,2025-09-03 13:44
+LB Player,"Elliss, Kaden ATL LB",AFC,5.32,2025-09-03 13:44
+CB Player,"Ward, Charvarius IND CB",AFC,1.9,2025-09-03 13:44
+S Player,"Hamlin, Damar BUF S",AFC,3.49,2025-09-03 13:44
+Rank,41,"WILLIAMS, CALEB CHI QB",,2025-09-03 13:44
+RB Player,"Gibbs, Jahmyr DET RB",NFC,7.21,2025-09-03 13:44
+WR Player,"Mooney, Darnell ATL WR",AFC,13.41,2025-09-03 13:44
+TE Player,"Kincaid, Dalton BUF TE",AFC,3.73,2025-09-03 13:44
+PK/PN Player,"Baringer, Bryce NEP PN",NFC,1.04,2025-09-03 13:44
+PK Player,"Grupe, Blake NOS PK",AFC,1.0,2025-09-03 13:44
+PN Player,"Wright, Ryan MIN PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Hill, B.J. CIN DT",NFC,5.2,2025-09-03 13:44
+DE Player,"Van Ginkel, Andrew MIN DE",AFC,5.38,2025-09-03 13:44
+LB Player,"Wagner, Bobby WAS LB",AFC,5.3,2025-09-03 13:44
+CB Player,"Jones, Jack FA CB",NFC,1.87,2025-09-03 13:44
+S Player,"Hamilton, Kyle BAL S",AFC,3.45,2025-09-03 13:44
+Rank,42,"YOUNG, BRYCE CAR QB",,2025-09-03 13:44
+RB Player,"Dobbins, J.K. DEN RB",NFC,6.77,2025-09-03 13:44
+WR Player,"Pittman, Michael IND WR",AFC,13.24,2025-09-03 13:44
+TE Player,"Otton, Cade TBB TE",NFC,3.45,2025-09-03 13:44
+PK/PN Player,"Evans, Ethan LAR PN",AFC,1.04,2025-09-03 13:44
+PK Player,"Bass, Tyler BUF PK",AFC,1.0,2025-09-03 13:44
+PN Player,"Araiza, Matt KCC PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Payne, Da'Ron WAS DT",AFC,5.2,2025-09-03 13:44
+DE Player,"Granderson, Carl NOS DE",AFC,5.38,2025-09-03 13:44
+LB Player,"McFadden, Micah NYG LB",AFC,5.29,2025-09-03 13:44
+CB Player,"Woolen, Tariq SEA CB",AFC,1.87,2025-09-03 13:44
+S Player,"Brisker, Jaquan CHI S",NFC,3.41,2025-09-03 13:44
+Rank,43,"PICKETT, KENNY CLE QB",,2025-09-03 13:44
+RB Player,"Etienne, Travis JAC RB",NFC,6.65,2025-09-03 13:44
+WR Player,"Thielen, Adam CAR WR",NFC,13.0,2025-09-03 13:44
+TE Player,"Warren, Tyler IND TE",NFC,3.33,2025-09-03 13:44
+PK/PN Player,"Taylor, Tory CHI PN",NFC,1.03,2025-09-03 13:44
+PK Player,"Karty, Joshua LAR PK",NFC,0.98,2025-09-03 13:44
+PN Player,"Gillan, Jamie NYG PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Rankins, Sheldon HOU DT",NFC,5.15,2025-09-03 13:44
+DE Player,"Walker, Travon JAC DE",NFC,5.35,2025-09-03 13:44
+LB Player,"Milano, Matt BUF LB",NFC,5.23,2025-09-03 13:44
+CB Player,"McCollum, Zyon TBB CB",NFC,1.81,2025-09-03 13:44
+S Player,"Pitre, Jalen HOU S",NFC,3.41,2025-09-03 13:44
+Rank,44,"RODGERS, AARON PIT QB",,2025-09-03 13:44
+RB Player,"Gibbs, Jahmyr DET RB",AFC,6.27,2025-09-03 13:44
+WR Player,"Metcalf, DK PIT WR",AFC,12.72,2025-09-03 13:44
+TE Player,"Henry, Hunter NEP TE",AFC,3.1,2025-09-03 13:44
+PK/PN Player,"Mann, Braden PHI PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Karty, Joshua LAR PK",AFC,0.98,2025-09-03 13:44
+PN Player,"Martin, Sam CAR PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Jones, Chris KCC DT",NFC,5.13,2025-09-03 13:44
+DE Player,"Jennings, Anfernee NEP DE",AFC,5.28,2025-09-03 13:44
+LB Player,"Williams, Quincy NYJ LB",NFC,5.23,2025-09-03 13:44
+CB Player,"Murphy, Byron MIN CB",AFC,1.81,2025-09-03 13:44
+S Player,"Blankenship, Reed PHI S",AFC,3.41,2025-09-03 13:44
+Rank,45,"STROUD, C.J. HOU QB",,2025-09-03 13:44
+RB Player,"Swift, D'Andre CHI RB",AFC,5.96,2025-09-03 13:44
+WR Player,"Brown, Marquise KCC WR",AFC,12.22,2025-09-03 13:44
+TE Player,"Warren, Tyler IND TE",AFC,3.1,2025-09-03 13:44
+PK/PN Player,"Wright, Ryan MIN PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Loop, Tyler BAL PK",AFC,0.96,2025-09-03 13:44
+PN Player,"Taylor, Tory CHI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Campbell, Calais ARI DT",AFC,5.1,2025-09-03 13:44
+DE Player,"Hendrickson, Trey CIN DE",AFC,5.15,2025-09-03 13:44
+LB Player,"Barton, Cody TEN LB",AFC,5.23,2025-09-03 13:44
+CB Player,"Slay, Darius PIT CB",NFC,1.8,2025-09-03 13:44
+S Player,"Brisker, Jaquan CHI S",AFC,3.41,2025-09-03 13:44
+Rank,46,"WARD, CAM TEN QB",,2025-09-03 13:44
+RB Player,"Warren, Jaylen PIT RB",NFC,5.71,2025-09-03 13:44
+WR Player,"Metcalf, DK PIT WR",NFC,12.11,2025-09-03 13:44
+TE Player,"LaPorta, Sam DET TE",NFC,2.82,2025-09-03 13:44
+PK/PN Player,"Morstead, Thomas SFO PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Little, Cam JAC PK",NFC,0.94,2025-09-03 13:44
+PN Player,"Mann, Braden PHI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Hamilton, Davon JAC DT",NFC,4.9,2025-09-03 13:44
+DE Player,"Ossai, Joseph CIN DE",AFC,5.1,2025-09-03 13:44
+LB Player,"Luvu, Frankie WAS LB",NFC,5.13,2025-09-03 13:44
+CB Player,"Jones, Jaylon IND CB",NFC,1.8,2025-09-03 13:44
+S Player,"Pitre, Jalen HOU S",AFC,3.41,2025-09-03 13:44
+Rank,47,"JONES, DANIEL IND QB",,2025-09-03 13:44
+RB Player,"Williams, Javonte DAL RB",NFC,5.5,2025-09-03 13:44
+WR Player,"Ridley, Calvin TEN WR",AFC,12.1,2025-09-03 13:44
+TE Player,"Waller, Darren MIA TE",AFC,2.6,2025-09-03 13:44
+PK/PN Player,"Fox, Jack DET PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Reichard, Will MIN PK",NFC,0.94,2025-09-03 13:44
+PN Player,"Evans, Ethan LAR PN",NFC,0.98,2025-09-03 13:44
+DT Player,"Clark, Kenny GBP DT",NFC,4.75,2025-09-03 13:44
+DE Player,"Sweat, Josh ARI DE",NFC,4.69,2025-09-03 13:44
+LB Player,"Jewell, Josey CAR LB",NFC,5.0,2025-09-03 13:44
+CB Player,"Dean, Jamel TBB CB",NFC,1.8,2025-09-03 13:44
+S Player,"Rapp, Taylor BUF S",NFC,3.38,2025-09-03 13:44
+Rank,48,"JONES, DANIEL IND QB",,2025-09-03 13:44
+RB Player,"Mitchell, Keaton BAL RB",NFC,5.5,2025-09-03 13:44
+WR Player,"Brown, Marquise KCC WR",NFC,11.98,2025-09-03 13:44
+TE Player,"Mayer, Michael LVR TE",NFC,2.53,2025-09-03 13:44
+PK/PN Player,"Dixon, Riley TBB PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Reichard, Will MIN PK",AFC,0.94,2025-09-03 13:44
+PN Player,"Crawshaw, Jeremy DEN PN",AFC,0.96,2025-09-03 13:44
+DT Player,"Williams, Milton NEP DT",NFC,4.55,2025-09-03 13:44
+DE Player,"Thibodeaux, Kayvon NYG DE",AFC,4.31,2025-09-03 13:44
+LB Player,"Jewell, Josey CAR LB",AFC,5.0,2025-09-03 13:44
+CB Player,"Emerson, Martin CLE CB",NFC,1.8,2025-09-03 13:44
+S Player,"Chinn, Jeremy LVR S",AFC,3.31,2025-09-03 13:44
+Rank,49,"YOUNG, BRYCE CAR QB",,2025-09-03 13:44
+RB Player,"Hampton, Omarion LAC RB",AFC,5.38,2025-09-03 13:44
+WR Player,"Johnson, Diontae CLE WR",NFC,11.78,2025-09-03 13:44
+TE Player,"LaPorta, Sam DET TE",AFC,2.21,2025-09-03 13:44
+PK/PN Player,"Hayball, Matthew NOS PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Little, Cam JAC PK",AFC,0.94,2025-09-03 13:44
+PN Player,"Crawshaw, Jeremy DEN PN",NFC,0.9,2025-09-03 13:44
+DT Player,"Odighizuwa, Osa DAL DT",AFC,4.1,2025-09-03 13:44
+DE Player,"Floyd, Leonard ATL DE",AFC,4.2,2025-09-03 13:44
+LB Player,"Greenlaw, Dre DEN LB",AFC,4.97,2025-09-03 13:44
+CB Player,"Woolen, Tariq SEA CB",NFC,1.8,2025-09-03 13:44
+S Player,"Jones, Brandon DEN S",NFC,3.25,2025-09-03 13:44
+Rank,50,"WARD, CAM TEN QB",,2025-09-03 13:44
+RB Player,"Pacheco, Isiah KCC RB",NFC,5.35,2025-09-03 13:44
+WR Player,"Kirk, Christian HOU WR",AFC,10.45,2025-09-03 13:44
+TE Player,"Mayer, Michael LVR TE",AFC,2.13,2025-09-03 13:44
+PK/PN Player,"Anger, Bryan DAL PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Loop, Tyler BAL PK",NFC,0.9,2025-09-03 13:44
+DT Player,"Jones, Justin ARI DT",AFC,3.51,2025-09-03 13:44
+DE Player,"Anderson, Will HOU DE",AFC,4.07,2025-09-03 13:44
+LB Player,"Owusu-Koramoah, Jeremiah CLE LB",AFC,4.94,2025-09-03 13:44
+CB Player,"Amadi, Ugo NOS CB",NFC,1.8,2025-09-03 13:44
+S Player,"Hamlin, Damar BUF S",NFC,3.1,2025-09-03 13:44
+Rank,51,"WILSON, RUSSELL NYG QB",,2025-09-03 13:44
+RB Player,"Robinson, Brian WAS RB",NFC,5.35,2025-09-03 13:44
+WR Player,"Wilson, Garrett NYJ WR",NFC,9.82,2025-09-03 13:44
+TE Player,"Fant, Noah SEA TE",NFC,2.0,2025-09-03 13:44
+PK/PN Player,"Townsend, Tommy HOU PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Borregales, Andres NEP PK",NFC,0.9,2025-09-03 13:44
+DT Player,"Phillips, Harrison MIN DT",AFC,3.5,2025-09-03 13:44
+DE Player,"Hutchinson, Aidan DET DE",AFC,3.98,2025-09-03 13:44
+LB Player,"Baker, Jerome CLE LB",NFC,4.71,2025-09-03 13:44
+CB Player,"Surtain II, Patrick DEN CB",NFC,1.8,2025-09-03 13:44
+S Player,"Reid, Justin NOS S",NFC,3.0,2025-09-03 13:44
+Rank,52,"MCCARTHY, J.J. MIN QB",,2025-09-03 13:44
+RB Player,"Williams, Jamaal FA RB",NFC,5.2,2025-09-03 13:44
+WR Player,"London, Drake ATL WR",AFC,9.82,2025-09-03 13:44
+TE Player,"Bellinger, Daniel NYG TE",AFC,1.87,2025-09-03 13:44
+PK/PN Player,"Araiza, Matt KCC PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Borregales, Andres NEP PK",AFC,0.9,2025-09-03 13:44
+DT Player,"Carter, Jalen PHI DT",AFC,3.45,2025-09-03 13:44
+DE Player,"Nwosu, Uchenna SEA DE",NFC,3.76,2025-09-03 13:44
+LB Player,"McFadden, Micah NYG LB",NFC,4.7,2025-09-03 13:44
+CB Player,"Bishop, Beanie PIT CB",NFC,1.8,2025-09-03 13:44
+S Player,"Peppers, Jabrill NEP S",NFC,3.0,2025-09-03 13:44
+Rank,53,"DANIELS, JAYDEN WAS QB",,2025-09-03 13:44
+RB Player,"Mason, Jordan MIN RB",AFC,5.1,2025-09-03 13:44
+WR Player,"Meyers, Jakobi LVR WR",AFC,9.41,2025-09-03 13:44
+TE Player,"Gray, Noah KCC TE",AFC,1.86,2025-09-03 13:44
+PK/PN Player,"Gillan, Jamie NYG PN",NFC,1.0,2025-09-03 13:44
+PK Player,"Krieg, Lenny ATL PK",AFC,0.9,2025-09-03 13:44
+DT Player,"Hand, Da'Shawn LAC DT",AFC,3.3,2025-09-03 13:44
+DE Player,"Collins, Zaven ARI DE",AFC,3.73,2025-09-03 13:44
+LB Player,"Overshown, DeMarvion DAL LB",NFC,4.7,2025-09-03 13:44
+CB Player,"Ward, Denzel CLE CB",NFC,1.8,2025-09-03 13:44
+S Player,"Baker, Budda ARI S",NFC,2.97,2025-09-03 13:44
+Rank,54,"MCCARTHY, J.J. MIN QB",,2025-09-03 13:44
+RB Player,"Henderson, TreVeyon NEP RB",NFC,4.8,2025-09-03 13:44
+WR Player,"McLaurin, Terry WAS WR",AFC,9.35,2025-09-03 13:44
+TE Player,"Hill, Taysom NOS TE",NFC,1.8,2025-09-03 13:44
+PK/PN Player,"Hekker, Johnny TEN PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Jarrett, Grady CHI DT",AFC,3.25,2025-09-03 13:44
+DE Player,"Mack, Khalil LAC DE",NFC,3.71,2025-09-03 13:44
+LB Player,"Bernard, Terrel BUF LB",AFC,4.68,2025-09-03 13:44
+CB Player,"Wiggins, Nate BAL CB",NFC,1.8,2025-09-03 13:44
+S Player,"Owens, Jonathan CHI S",AFC,2.83,2025-09-03 13:44
+Rank,55,"MAYE, DRAKE NEP QB",,2025-09-03 13:44
+RB Player,"Judkins, Quinshon CLE RB",AFC,4.8,2025-09-03 13:44
+WR Player,"Meyers, Jakobi LVR WR",NFC,9.12,2025-09-03 13:44
+TE Player,"Johnson, Juwan NOS TE",NFC,1.8,2025-09-03 13:44
+PK/PN Player,"Martin, Sam CAR PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Phillips, Harrison MIN DT",NFC,3.19,2025-09-03 13:44
+DE Player,"Paye, Kwity IND DE",NFC,3.71,2025-09-03 13:44
+LB Player,"Barton, Cody TEN LB",NFC,4.5,2025-09-03 13:44
+CB Player,"Campbell, Tyson JAC CB",NFC,1.8,2025-09-03 13:44
+S Player,"Hamilton, Kyle BAL S",NFC,2.76,2025-09-03 13:44
+Rank,56,"DANIELS, JAYDEN WAS QB",,2025-09-03 13:44
+RB Player,"Judkins, Quinshon CLE RB",NFC,4.32,2025-09-03 13:44
+WR Player,"Jeudy, Jerry CLE WR",NFC,8.8,2025-09-03 13:44
+TE Player,"Washington, Darnell PIT TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Johnston, Cam PIT PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Carter, Jalen PHI DT",NFC,3.0,2025-09-03 13:44
+DE Player,"Van Noy, Kyle BAL DE",AFC,3.7,2025-09-03 13:44
+LB Player,"Wagner, Bobby WAS LB",NFC,4.37,2025-09-03 13:44
+CB Player,"Ramsey, Jalen PIT CB",AFC,1.8,2025-09-03 13:44
+S Player,"Thompson, Jalen ARI S",NFC,2.73,2025-09-03 13:44
+Rank,57,"STROUD, C.J. HOU QB",,2025-09-03 13:44
+RB Player,"Henderson, TreVeyon NEP RB",AFC,4.32,2025-09-03 13:44
+WR Player,"Harrison Jr., Marvin ARI WR",NFC,8.79,2025-09-03 13:44
+TE Player,"Fant, Noah SEA TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Rehkow, Ryan CIN PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Vea, Vita TBB DT",AFC,3.0,2025-09-03 13:44
+DE Player,"Hutchinson, Aidan DET DE",NFC,3.69,2025-09-03 13:44
+LB Player,"Mosley, C.J. FA LB",NFC,4.25,2025-09-03 13:44
+CB Player,"Johnson, Jaylon CHI CB",AFC,1.8,2025-09-03 13:44
+S Player,"Delpit, Grant CLE S",NFC,2.71,2025-09-03 13:44
+Rank,58,"MAYE, DRAKE NEP QB",,2025-09-03 13:44
+RB Player,"Dobbins, J.K. DEN RB",AFC,4.2,2025-09-03 13:44
+WR Player,"Johnson, Diontae CLE WR",AFC,8.36,2025-09-03 13:44
+TE Player,"Hill, Taysom NOS TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Sanchez, Rigoberto IND PN",NFC,1.0,2025-09-03 13:44
+DT Player,"Allen, Jonathan MIN DT",AFC,3.0,2025-09-03 13:44
+DE Player,"Carter, Abdul NYG DE",NFC,3.61,2025-09-03 13:44
+LB Player,"Al-Shaair, Azeez HOU LB",AFC,4.04,2025-09-03 13:44
+CB Player,"Williams, Darious LAR CB",AFC,1.8,2025-09-03 13:44
+S Player,"Curl, Kamren LAR S",NFC,2.62,2025-09-03 13:44
+Rank,59,"LEVIS, WILL TEN QB",,2025-09-03 13:44
+RB Player,"Stevenson, Rhamondre NEP RB",AFC,4.16,2025-09-03 13:44
+WR Player,"Mooney, Darnell ATL WR",NFC,8.25,2025-09-03 13:44
+TE Player,"Conklin, Tyler LAC TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Fox, Jack DET PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Vea, Vita TBB DT",NFC,2.97,2025-09-03 13:44
+DE Player,"Carter, Abdul NYG DE",AFC,3.61,2025-09-03 13:44
+LB Player,"Rozeboom, Christian CAR LB",AFC,3.7,2025-09-03 13:44
+CB Player,"Ward, Denzel CLE CB",AFC,1.8,2025-09-03 13:44
+S Player,"Simmons, Justin FA S",NFC,2.57,2025-09-03 13:44
+Rank,60,"PENIX JR., MICHAEL ATL QB",,2025-09-03 13:44
+RB Player,"Pacheco, Isiah KCC RB",AFC,3.98,2025-09-03 13:44
+WR Player,"Hunter, Travis JAC WR",AFC,8.23,2025-09-03 13:44
+TE Player,"Schultz, Dalton HOU TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Gillikin, Blake ARI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Hill, B.J. CIN DT",AFC,2.95,2025-09-03 13:44
+DE Player,"Paye, Kwity IND DE",AFC,3.6,2025-09-03 13:44
+LB Player,"Anzalone, Alex DET LB",AFC,3.6,2025-09-03 13:44
+CB Player,"Jobe, Josh SEA CB",AFC,1.8,2025-09-03 13:44
+S Player,"Holland, Jevon NYG S",AFC,2.43,2025-09-03 13:44
+Rank,61,"FLACCO, JOE CLE QB",,2025-09-03 13:44
+RB Player,"Gibson, Antonio NEP RB",AFC,3.93,2025-09-03 13:44
+WR Player,"Pittman, Michael IND WR",NFC,7.62,2025-09-03 13:44
+TE Player,"Johnson, Juwan NOS TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Rehkow, Ryan CIN PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Clark, Kenny GBP DT",AFC,2.9,2025-09-03 13:44
+DE Player,"Wonnum, D.J. CAR DE",NFC,3.56,2025-09-03 13:44
+LB Player,"White, Kyzir FA LB",NFC,3.59,2025-09-03 13:44
+CB Player,"Hobbs, Nate GBP CB",AFC,1.8,2025-09-03 13:44
+S Player,"Adams, Tony NYJ S",AFC,2.2,2025-09-03 13:44
+Rank,62,"PICKETT, KENNY CLE QB",,2025-09-03 13:44
+RB Player,"Harris, Najee LAC RB",AFC,3.78,2025-09-03 13:44
+WR Player,"Nabers, Malik NYG WR",AFC,7.41,2025-09-03 13:44
+TE Player,"Hill, Julian MIA TE",AFC,1.8,2025-09-03 13:44
+PK/PN Player,"Anger, Bryan DAL PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Graham, Mason CLE DT",AFC,2.72,2025-09-03 13:44
+DE Player,"Epenesa, A.J. BUF DE",NFC,3.43,2025-09-03 13:44
+LB Player,"Jones, Ernest SEA LB",NFC,3.41,2025-09-03 13:44
+CB Player,"Reed, D.J. DET CB",AFC,1.8,2025-09-03 13:44
+S Player,"Chinn, Jeremy LVR S",NFC,2.09,2025-09-03 13:44
+Rank,63,"WILLIS, MALIK GBP QB",,2025-09-03 13:44
+RB Player,"Warren, Jaylen PIT RB",AFC,3.74,2025-09-03 13:44
+WR Player,"London, Drake ATL WR",NFC,7.33,2025-09-03 13:44
+TE Player,"Taylor, Mason NYJ TE",AFC,1.74,2025-09-03 13:44
+PK/PN Player,"Johnston, Cam PIT PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Graham, Mason CLE DT",NFC,2.33,2025-09-03 13:44
+DE Player,"Wonnum, D.J. CAR DE",AFC,3.41,2025-09-03 13:44
+LB Player,"Anzalone, Alex DET LB",NFC,3.41,2025-09-03 13:44
+CB Player,"Alexander, Jaire BAL CB",AFC,1.8,2025-09-03 13:44
+S Player,"Stone, Geno CIN S",AFC,2.0,2025-09-03 13:44
+Rank,64,"DART, JAXSON NYG QB",,2025-09-03 13:44
+RB Player,"Moss, Zack CIN RB",NFC,3.43,2025-09-03 13:44
+WR Player,"Burks, Treylon TEN WR",AFC,7.33,2025-09-03 13:44
+TE Player,"Musgrave, Luke GBP TE",NFC,1.71,2025-09-03 13:44
+PK/PN Player,"Wright, Ryan MIN PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Bresee, Bryan NOS DT",AFC,2.05,2025-09-03 13:44
+DE Player,"Chubb, Bradley MIA DE",AFC,3.41,2025-09-03 13:44
+LB Player,"Walker, Quay GBP LB",NFC,3.41,2025-09-03 13:44
+CB Player,"Conner, Chamarri KCC CB",AFC,1.8,2025-09-03 13:44
+S Player,"Scott, Nick CAR S",AFC,1.9,2025-09-03 13:44
+Rank,65,"DART, JAXSON NYG QB",,2025-09-03 13:44
+RB Player,"White, Rachaad TBB RB",NFC,3.41,2025-09-03 13:44
+WR Player,"Hunter, Travis JAC WR",NFC,7.03,2025-09-03 13:44
+TE Player,"Musgrave, Luke GBP TE",AFC,1.64,2025-09-03 13:44
+PK/PN Player,"Araiza, Matt KCC PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Odighizuwa, Osa DAL DT",NFC,2.0,2025-09-03 13:44
+DE Player,"Jones, Dre'Mont TEN DE",NFC,3.38,2025-09-03 13:44
+LB Player,"Walker, Quay GBP LB",AFC,3.41,2025-09-03 13:44
+CB Player,"Green, Renardo SFO CB",NFC,1.7,2025-09-03 13:44
+S Player,"Delpit, Grant CLE S",AFC,1.9,2025-09-03 13:44
+Rank,66,"SHOUGH, TYLER NOS QB",,2025-09-03 13:44
+RB Player,"Cook, James BUF RB",NFC,3.41,2025-09-03 13:44
+WR Player,"McMillan, Tetairoa CAR WR",AFC,7.03,2025-09-03 13:44
+TE Player,"Sinnott, Ben WAS TE",NFC,1.62,2025-09-03 13:44
+PK/PN Player,"Gillan, Jamie NYG PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Wyatt, Devonte GBP DT",AFC,1.97,2025-09-03 13:44
+DE Player,"Jones, Dre'Mont TEN DE",AFC,3.37,2025-09-03 13:44
+LB Player,"Murray, Kenneth DAL LB",NFC,3.14,2025-09-03 13:44
+CB Player,"Hill, Daxton CIN CB",AFC,1.41,2025-09-03 13:44
+S Player,"Peppers, Jabrill NEP S",AFC,1.9,2025-09-03 13:44
+Rank,67,"LEVIS, WILL TEN QB",,2025-09-03 13:44
+RB Player,"Robinson, Brian WAS RB",AFC,3.41,2025-09-03 13:44
+WR Player,"Allen, Keenan FA WR",NFC,7.0,2025-09-03 13:44
+TE Player,"Ferguson, Terrance LAR TE",NFC,1.6,2025-09-03 13:44
+PK/PN Player,"Martin, Sam CAR PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Jones, Justin ARI DT",NFC,1.9,2025-09-03 13:44
+DE Player,"Oweh, Odafe BAL DE",AFC,3.27,2025-09-03 13:44
+LB Player,"Edmunds, Tremaine CHI LB",NFC,3.09,2025-09-03 13:44
+CB Player,"Witherspoon, Devon SEA CB",AFC,1.32,2025-09-03 13:44
+S Player,"Cisco, Andre NYJ S",NFC,1.87,2025-09-03 13:44
+Rank,68,"DALTON, ANDY CAR QB",,2025-09-03 13:44
+RB Player,"Williams, Kyren LAR RB",AFC,3.41,2025-09-03 13:44
+WR Player,"Cooper, Amari FA WR",NFC,7.0,2025-09-03 13:44
+TE Player,"Taylor, Mason NYJ TE",NFC,1.52,2025-09-03 13:44
+PK/PN Player,"Taylor, Tory CHI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Taylor, Leonard NYJ DT",NFC,1.9,2025-09-03 13:44
+DE Player,"Johnson, Jermaine NYJ DE",AFC,3.23,2025-09-03 13:44
+LB Player,"Elliss, Kaden ATL LB",NFC,3.08,2025-09-03 13:44
+CB Player,"Hill, Daxton CIN CB",NFC,1.25,2025-09-03 13:44
+S Player,"Melifonwu, Ifeatu MIA S",NFC,1.87,2025-09-03 13:44
+Rank,69,"WILLIS, MALIK GBP QB",,2025-09-03 13:44
+RB Player,"White, Rachaad TBB RB",AFC,3.41,2025-09-03 13:44
+WR Player,"Williams, Jameson DET WR",AFC,6.45,2025-09-03 13:44
+TE Player,"Sinnott, Ben WAS TE",AFC,1.51,2025-09-03 13:44
+PK/PN Player,"Mann, Braden PHI PN",AFC,1.0,2025-09-03 13:44
+DT Player,"Reed, Jarran SEA DT",AFC,1.9,2025-09-03 13:44
+DE Player,"Anderson, Will HOU DE",NFC,3.21,2025-09-03 13:44
+LB Player,"Davis, Demario NOS LB",NFC,3.07,2025-09-03 13:44
+CB Player,"Elam, Kaiir DAL CB",AFC,1.17,2025-09-03 13:44
+S Player,"Fuller, Jordan ATL S",AFC,1.87,2025-09-03 13:44
+Rank,70,"HOOKER, HENDON DET QB",,2025-09-03 13:44
+RB Player,"Cook, James BUF RB",AFC,3.41,2025-09-03 13:44
+WR Player,"Nabers, Malik NYG WR",NFC,6.38,2025-09-03 13:44
+TE Player,"Fannin, Harold CLE TE",NFC,1.37,2025-09-03 13:44
+PK/PN Player,"Ryland, Chad ARI PK",NFC,1.0,2025-09-03 13:44
+DT Player,"McNeill, Alim DET DT",NFC,1.87,2025-09-03 13:44
+DE Player,"Herbig, Nick PIT DE",NFC,3.2,2025-09-03 13:44
+LB Player,"Lloyd, Devin JAC LB",NFC,3.05,2025-09-03 13:44
+CB Player,"DeJean, Cooper PHI CB",AFC,1.14,2025-09-03 13:44
+S Player,"Locke, P.J. DEN S",AFC,1.87,2025-09-03 13:44
+Rank,71,"RUSH, COOPER BAL QB",,2025-09-03 13:44
+RB Player,"Dowdle, Rico CAR RB",AFC,3.25,2025-09-03 13:44
+WR Player,"Sutton, Courtland DEN WR",AFC,6.27,2025-09-03 13:44
+TE Player,"Arroyo, Elijah SEA TE",NFC,1.25,2025-09-03 13:44
+PK/PN Player,"Santos, Cairo CHI PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Godchaux, Davon NOS DT",AFC,1.87,2025-09-03 13:44
+DE Player,"Robinson, Dominique CHI DE",AFC,3.06,2025-09-03 13:44
+LB Player,"Lloyd, Devin JAC LB",AFC,3.05,2025-09-03 13:44
+CB Player,"Gonzalez, Christian NEP CB",AFC,1.14,2025-09-03 13:44
+S Player,"Melifonwu, Ifeatu MIA S",AFC,1.87,2025-09-03 13:44
+Rank,72,"COUSINS, KIRK ATL QB",,2025-09-03 13:44
+RB Player,"Johnson, Kaleb PIT RB",NFC,3.1,2025-09-03 13:44
+WR Player,"Shaheed, Rashid NOS WR",AFC,6.27,2025-09-03 13:44
+TE Player,"Arroyo, Elijah SEA TE",AFC,1.23,2025-09-03 13:44
+PK/PN Player,"McPherson, Evan CIN PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Saunders, Khalen NOS DT",AFC,1.87,2025-09-03 13:44
+DE Player,"Lawrence, Demarcus SEA DE",AFC,3.04,2025-09-03 13:44
+LB Player,"Miller, Ventrell JAC LB",NFC,2.99,2025-09-03 13:44
+CB Player,"Forbes, Emmanuel LAR CB",AFC,1.14,2025-09-03 13:44
+S Player,"Izien, Christian TBB S",AFC,1.86,2025-09-03 13:44
+Rank,73,"HOWELL, SAM MIN QB",,2025-09-03 13:44
+RB Player,"Ekeler, Austin WAS RB",AFC,3.1,2025-09-03 13:44
+WR Player,"Thielen, Adam CAR WR",AFC,6.2,2025-09-03 13:44
+TE Player,"Dulcich, Greg NYG TE",AFC,1.23,2025-09-03 13:44
+PK/PN Player,"Elliott, Jake PHI PK",NFC,1.0,2025-09-03 13:44
+DT Player,"McNeill, Alim DET DT",AFC,1.87,2025-09-03 13:44
+DE Player,"Gary, Rashan GBP DE",NFC,3.0,2025-09-03 13:44
+LB Player,"Landman, Nate LAR LB",AFC,2.97,2025-09-03 13:44
+CB Player,"DeJean, Cooper PHI CB",NFC,1.13,2025-09-03 13:44
+S Player,"Bynum, Camryn IND S",AFC,1.81,2025-09-03 13:44
+Rank,74,"NIX, BO DEN QB",,2025-09-03 13:44
+RB Player,"Chubb, Nick HOU RB",NFC,2.7,2025-09-03 13:44
+WR Player,"McMillan, Tetairoa CAR WR",NFC,6.11,2025-09-03 13:44
+TE Player,"Sanders, Ja'Tavion CAR TE",NFC,1.22,2025-09-03 13:44
+PK/PN Player,"Gay, Matt WAS PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Davis, Jordan PHI DT",AFC,1.86,2025-09-03 13:44
+DE Player,"Oweh, Odafe BAL DE",NFC,2.98,2025-09-03 13:44
+LB Player,"Campbell, Jack DET LB",AFC,2.82,2025-09-03 13:44
+CB Player,"Witherspoon, Devon SEA CB",NFC,1.13,2025-09-03 13:44
+S Player,"Hooker, Malik DAL S",NFC,1.8,2025-09-03 13:44
+Rank,75,"NIX, BO DEN QB",,2025-09-03 13:44
+RB Player,"Brooks, Jonathon CAR RB",AFC,2.6,2025-09-03 13:44
+WR Player,"Williams, Jameson DET WR",NFC,5.75,2025-09-03 13:44
+TE Player,"Washington, Darnell PIT TE",NFC,1.22,2025-09-03 13:44
+PK/PN Player,"Gano, Graham NYG PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Stills, Dante ARI DT",NFC,1.85,2025-09-03 13:44
+DE Player,"Ojulari, Azeez PHI DE",AFC,2.9,2025-09-03 13:44
+LB Player,"Edmunds, Tremaine CHI LB",AFC,2.79,2025-09-03 13:44
+CB Player,"Porter Jr., Joey PIT CB",AFC,1.11,2025-09-03 13:44
+S Player,"Stone, Geno CIN S",NFC,1.8,2025-09-03 13:44
+Rank,76,"PENIX JR., MICHAEL ATL QB",,2025-09-03 13:44
+RB Player,"Brooks, Jonathon CAR RB",NFC,2.46,2025-09-03 13:44
+WR Player,"Olave, Chris NOS WR",AFC,5.75,2025-09-03 13:44
+TE Player,"Schoonmaker, Luke DAL TE",AFC,1.22,2025-09-03 13:44
+PK/PN Player,"Butker, Harrison KCC PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Fox, Morgan ATL DT",AFC,1.81,2025-09-03 13:44
+DE Player,"Thibodeaux, Kayvon NYG DE",NFC,2.89,2025-09-03 13:44
+LB Player,"Carlies, Jaylon IND LB",AFC,2.72,2025-09-03 13:44
+CB Player,"Moss, Riley DEN CB",NFC,1.1,2025-09-03 13:44
+S Player,"Molden, Elijah LAC S",NFC,1.8,2025-09-03 13:44
+Rank,77,"SHOUGH, TYLER NOS QB",,2025-09-03 13:44
+RB Player,"Harvey, RJ DEN RB",NFC,2.45,2025-09-03 13:44
+WR Player,"Odunze, Rome CHI WR",NFC,5.58,2025-09-03 13:44
+TE Player,"Fannin, Harold CLE TE",AFC,1.21,2025-09-03 13:44
+PK/PN Player,"Koo, Younghoe ATL PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Joseph-Day, Sebastian TEN DT",NFC,1.8,2025-09-03 13:44
+DE Player,"Karlaftis, George KCC DE",AFC,2.89,2025-09-03 13:44
+LB Player,"Campbell, Jack DET LB",NFC,2.66,2025-09-03 13:44
+CB Player,"Porter Jr., Joey PIT CB",NFC,1.1,2025-09-03 13:44
+S Player,"Blackmon, Julian FA S",NFC,1.8,2025-09-03 13:44
+Rank,78,"HOWELL, SAM MIN QB",,2025-09-03 13:44
+RB Player,"Charbonnet, Zach SEA RB",AFC,2.41,2025-09-03 13:44
+WR Player,"Harrison Jr., Marvin ARI WR",AFC,5.58,2025-09-03 13:44
+TE Player,"Brown, Pharaoh MIA TE",NFC,1.2,2025-09-03 13:44
+PK/PN Player,"Folk, Nick FA PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Armstead, Arik JAC DT",NFC,1.8,2025-09-03 13:44
+DE Player,"Walker, Travon JAC DE",AFC,2.76,2025-09-03 13:44
+LB Player,"Elliss, Christian NEP LB",NFC,2.6,2025-09-03 13:44
+CB Player,"Robertson, Amik DET CB",NFC,1.1,2025-09-03 13:44
+S Player,"Davis, Ashtyn MIA S",NFC,1.8,2025-09-03 13:44
+Rank,79,"MILROE, JALEN SEA QB",,2025-09-03 13:44
+RB Player,"Harvey, RJ DEN RB",AFC,2.33,2025-09-03 13:44
+WR Player,"Smith-Njigba, Jaxon SEA WR",AFC,5.54,2025-09-03 13:44
+TE Player,"Johnson, Theo NYG TE",NFC,1.17,2025-09-03 13:44
+PK/PN Player,"Gonzalez, Zane FA PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Robertson-Harris, Roy NYG DT",NFC,1.8,2025-09-03 13:44
+DE Player,"Clowney, Jadeveon FA DE",NFC,2.72,2025-09-03 13:44
+LB Player,"Speed, E.J. HOU LB",NFC,2.5,2025-09-03 13:44
+CB Player,"Mitchell, Quinyon PHI CB",NFC,1.1,2025-09-03 13:44
+S Player,"Gilman, Alohi LAC S",NFC,1.8,2025-09-03 13:44
+Rank,80,"SANDERS, SHEDEUR CLE QB",,2025-09-03 13:44
+RB Player,"Charbonnet, Zach SEA RB",NFC,2.31,2025-09-03 13:44
+WR Player,"Diggs, Stefon NEP WR",AFC,5.53,2025-09-03 13:44
+TE Player,"Kraft, Tucker GBP TE",NFC,1.17,2025-09-03 13:44
+PK/PN Player,"Prater, Matt FA PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Murphy, Byron SEA DT",NFC,1.8,2025-09-03 13:44
+DE Player,"Collins, Zaven ARI DE",NFC,2.64,2025-09-03 13:44
+LB Player,"Tavai, Jahlani NEP LB",AFC,2.41,2025-09-03 13:44
+CB Player,"Gonzalez, Christian NEP CB",NFC,1.1,2025-09-03 13:44
+S Player,"Smith, Harrison MIN S",AFC,1.8,2025-09-03 13:44
+Rank,81,"MILROE, JALEN SEA QB",,2025-09-03 13:44
+RB Player,"Benson, Trey ARI RB",NFC,2.24,2025-09-03 13:44
+WR Player,"Palmer, Joshua BUF WR",NFC,5.5,2025-09-03 13:44
+TE Player,"Ferguson, Terrance LAR TE",AFC,1.14,2025-09-03 13:44
+PK/PN Player,"Romo, John Parker NEP PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Hand, Da'Shawn LAC DT",NFC,1.8,2025-09-03 13:44
+DE Player,"Hunt, Jalyx PHI DE",NFC,2.55,2025-09-03 13:44
+LB Player,"Kendricks, Eric FA LB",AFC,2.2,2025-09-03 13:44
+CB Player,"Nixon, Keisean GBP CB",NFC,1.1,2025-09-03 13:44
+S Player,"Cisco, Andre NYJ S",AFC,1.8,2025-09-03 13:44
+Rank,82,"WINSTON, JAMEIS NYG QB",,2025-09-03 13:44
+RB Player,"Johnson, Kaleb PIT RB",AFC,2.23,2025-09-03 13:44
+WR Player,"Palmer, Joshua BUF WR",AFC,5.47,2025-09-03 13:44
+TE Player,"Sanders, Ja'Tavion CAR TE",AFC,1.13,2025-09-03 13:44
+PK/PN Player,"Grupe, Blake NOS PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Jones, Travis BAL DT",AFC,1.8,2025-09-03 13:44
+DE Player,"Odeyingbo, Dayo CHI DE",AFC,2.54,2025-09-03 13:44
+LB Player,"Deablo, Divine ATL LB",NFC,2.05,2025-09-03 13:44
+CB Player,"Gordon, Kyler CHI CB",NFC,1.1,2025-09-03 13:44
+S Player,"Gilman, Alohi LAC S",AFC,1.8,2025-09-03 13:44
+Rank,83,"BRISSETT, JACOBY ARI QB",,2025-09-03 13:44
+RB Player,"Achane, De'Von MIA RB",NFC,2.21,2025-09-03 13:44
+WR Player,"Shaheed, Rashid NOS WR",NFC,5.42,2025-09-03 13:44
+TE Player,"Woods, Jelani IND TE",AFC,1.11,2025-09-03 13:44
+PK/PN Player,"Myers, Jason SEA PK",NFC,1.0,2025-09-03 13:44
+DT Player,"Joseph-Day, Sebastian TEN DT",AFC,1.8,2025-09-03 13:44
+DE Player,"Bonitto, Nik DEN DE",AFC,2.54,2025-09-03 13:44
+LB Player,"Campbell, Jihaad PHI LB",NFC,1.91,2025-09-03 13:44
+CB Player,"Benford, Christian BUF CB",NFC,1.1,2025-09-03 13:44
+S Player,"Thompson, Jalen ARI S",AFC,1.8,2025-09-03 13:44
+Rank,84,"DARNOLD, SAM SEA QB",,2025-09-03 13:44
+RB Player,"Pierce, Dameon HOU RB",NFC,2.16,2025-09-03 13:44
+WR Player,"Jennings, Jauan SFO WR",AFC,5.35,2025-09-03 13:44
+TE Player,"Dissly, Will LAC TE",NFC,1.1,2025-09-03 13:44
+PK/PN Player,"Ryland, Chad ARI PK",AFC,1.0,2025-09-03 13:44
+DT Player,"Kinlaw, Javon WAS DT",AFC,1.8,2025-09-03 13:44
+DE Player,"Wilson, Tyree LVR DE",AFC,2.53,2025-09-03 13:44
+LB Player,"Kendricks, Eric FA LB",NFC,1.9,2025-09-03 13:44
+CB Player,"Jones, Marcus NEP CB",AFC,1.1,2025-09-03 13:44
+S Player,"Wilson, Donovan DAL S",AFC,1.8,2025-09-03 13:44
+Rank,85,"DARNOLD, SAM SEA QB",,2025-09-03 13:44
+RB Player,"Miller, Kendre NOS RB",NFC,2.13,2025-09-03 13:44
+WR Player,"Burks, Treylon TEN WR",NFC,5.18,2025-09-03 13:44
+TE Player,"Strange, Brenton JAC TE",NFC,1.1,2025-09-03 13:44
+PK/PN Player,"Gonzalez, Zane FA PK",AFC,1.0,2025-09-03 13:44
+DT Player,"Onyemata, David ATL DT",AFC,1.8,2025-09-03 13:44
+DE Player,"Koonce, Malcolm LVR DE",AFC,2.51,2025-09-03 13:44
+LB Player,"Davis-Gaither, Akeem ARI LB",AFC,1.9,2025-09-03 13:44
+CB Player,"McCollum, Zyon TBB CB",AFC,1.1,2025-09-03 13:44
+S Player,"Mathieu, Tyrann NOS S",AFC,1.8,2025-09-03 13:44
+Rank,86,"O'CONNELL, AIDAN LVR QB",,2025-09-03 13:44
+RB Player,"Williams, Javonte DAL RB",AFC,2.0,2025-09-03 13:44
+WR Player,"Wilson, Garrett NYJ WR",AFC,5.18,2025-09-03 13:44
+TE Player,"Gray, Noah KCC TE",NFC,1.1,2025-09-03 13:44
+PK/PN Player,"McManus, Brandon GBP PK",AFC,1.0,2025-09-03 13:44
+DT Player,"Hargrave, Javon MIN DT",AFC,1.8,2025-09-03 13:44
+DE Player,"Cox, Brenton GBP DE",AFC,2.31,2025-09-03 13:44
+LB Player,"Holcomb, Cole PIT LB",AFC,1.9,2025-09-03 13:44
+CB Player,"Brown, Montaric JAC CB",AFC,1.1,2025-09-03 13:44
+S Player,"Reid, Justin NOS S",AFC,1.8,2025-09-03 13:44
+Rank,87,"SANDERS, SHEDEUR CLE QB",,2025-09-03 13:44
+RB Player,"Miller, Kendre NOS RB",AFC,1.91,2025-09-03 13:44
+WR Player,"Lockett, Tyler TEN WR",NFC,5.0,2025-09-03 13:44
+TE Player,"Ertz, Zach WAS TE",NFC,1.1,2025-09-03 13:44
+PK/PN Player,"Grupe, Blake NOS PK",AFC,1.0,2025-09-03 13:44
+DT Player,"Wyatt, Devonte GBP DT",NFC,1.78,2025-09-03 13:44
+DE Player,"Johnson, Jermaine NYJ DE",NFC,2.24,2025-09-03 13:44
+LB Player,"Long Jr., David FA LB",AFC,1.9,2025-09-03 13:44
+CB Player,"McCreary, Roger TEN CB",AFC,1.1,2025-09-03 13:44
+S Player,"Woods, Xavier TEN S",AFC,1.8,2025-09-03 13:44
+Rank,88,"EWERS, QUINN MIA QB",,2025-09-03 13:44
+RB Player,"Tucker, Sean TBB RB",AFC,1.9,2025-09-03 13:44
+WR Player,"Kirk, Christian HOU WR",NFC,5.0,2025-09-03 13:44
+TE Player,"Kraft, Tucker GBP TE",AFC,1.1,2025-09-03 13:44
+PK/PN Player,"Bass, Tyler BUF PK",AFC,1.0,2025-09-03 13:44
+DT Player,"Kancey, Calijah TBB DT",NFC,1.75,2025-09-03 13:44
+DE Player,"Verse, Jared LAR DE",AFC,2.24,2025-09-03 13:44
+LB Player,"Davis, Demario NOS LB",AFC,1.9,2025-09-03 13:44
+CB Player,"Still, Tarheeb LAC CB",AFC,1.1,2025-09-03 13:44
+S Player,"Mapu, Marte NEP S",AFC,1.8,2025-09-03 13:44
+Rank,89,"RATTLER, SPENCER NOS QB",,2025-09-03 13:44
+RB Player,"Gibson, Antonio NEP RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Smith-Njigba, Jaxon SEA WR",NFC,4.95,2025-09-03 13:44
+TE Player,"Ertz, Zach WAS TE",AFC,1.1,2025-09-03 13:44
+PK/PN Player,"Evans, Ethan LAR PN",NFC,0.98,2025-09-03 13:44
+DT Player,"Kancey, Calijah TBB DT",AFC,1.75,2025-09-03 13:44
+DE Player,"Ojulari, Azeez PHI DE",NFC,2.2,2025-09-03 13:44
+LB Player,"Simmons, Isaiah GBP LB",AFC,1.9,2025-09-03 13:44
+CB Player,"McDuffie, Trent KCC CB",AFC,1.1,2025-09-03 13:44
+S Player,"Curl, Kamren LAR S",AFC,1.8,2025-09-03 13:44
+Rank,90,"ALLEN, KYLE DET QB",,2025-09-03 13:44
+RB Player,"Herbert, Khalil IND RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Addison, Jordan MIN WR",AFC,4.95,2025-09-03 13:44
+TE Player,"Gesicki, Mike CIN TE",AFC,1.1,2025-09-03 13:44
+PK/PN Player,"Karty, Joshua LAR PK",NFC,0.98,2025-09-03 13:44
+DT Player,"Harmon, Derrick PIT DT",NFC,1.74,2025-09-03 13:44
+DE Player,"Koonce, Malcolm LVR DE",NFC,2.2,2025-09-03 13:44
+LB Player,"Speights, Omar LAR LB",NFC,1.87,2025-09-03 13:44
+CB Player,"Moss, Riley DEN CB",AFC,1.1,2025-09-03 13:44
+S Player,"Branch, Brian DET S",AFC,1.71,2025-09-03 13:44
+Rank,91,"BAGENT, TYSON CHI QB",,2025-09-03 13:44
+RB Player,"Hill, Justice BAL RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Worthy, Xavier KCC WR",NFC,4.94,2025-09-03 13:44
+TE Player,"Ferguson, Jake DAL TE",NFC,1.09,2025-09-03 13:44
+PK/PN Player,"Karty, Joshua LAR PK",AFC,0.98,2025-09-03 13:44
+DT Player,"Davis, Jordan PHI DT",NFC,1.71,2025-09-03 13:44
+DE Player,"Ebukam, Samson IND DE",AFC,2.2,2025-09-03 13:44
+LB Player,"Cashman, Blake MIN LB",AFC,1.87,2025-09-03 13:44
+CB Player,"McMillian, Ja'Quan DEN CB",AFC,1.1,2025-09-03 13:44
+S Player,"Hicks, Jaden KCC S",AFC,1.7,2025-09-03 13:44
+Rank,92,"TAYLOR, TYROD NYJ QB",,2025-09-03 13:44
+RB Player,"Mostert, Raheem LVR RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Odunze, Rome CHI WR",AFC,4.94,2025-09-03 13:44
+TE Player,"Smith, Jonnu PIT TE",NFC,1.09,2025-09-03 13:44
+PK/PN Player,"Crawshaw, Jeremy DEN PN",AFC,0.96,2025-09-03 13:44
+DT Player,"Murphy, Byron SEA DT",AFC,1.57,2025-09-03 13:44
+DE Player,"Latu, Laiatu IND DE",NFC,2.15,2025-09-03 13:44
+LB Player,"Murray, Kenneth DAL LB",AFC,1.87,2025-09-03 13:44
+CB Player,"Benford, Christian BUF CB",AFC,1.1,2025-09-03 13:44
+S Player,"Martin, Quan WAS S",NFC,1.67,2025-09-03 13:44
+Rank,93,"TRUBISKY, MITCHELL BUF QB",,2025-09-03 13:44
+RB Player,"Ekeler, Austin WAS RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Doubs, Romeo GBP WR",NFC,4.82,2025-09-03 13:44
+TE Player,"Ferguson, Jake DAL TE",AFC,1.09,2025-09-03 13:44
+PK/PN Player,"Loop, Tyler BAL PK",AFC,0.96,2025-09-03 13:44
+DT Player,"Smith, Mazi DAL DT",AFC,1.54,2025-09-03 13:44
+DE Player,"Latu, Laiatu IND DE",AFC,2.15,2025-09-03 13:44
+LB Player,"Colson, Junior LAC LB",AFC,1.86,2025-09-03 13:44
+CB Player,"Taylor-Britt, Cam CIN CB",NFC,1.09,2025-09-03 13:44
+S Player,"Molden, Elijah LAC S",AFC,1.65,2025-09-03 13:44
+Rank,94,"GAROPPOLO, JIMMY LAR QB",,2025-09-03 13:44
+RB Player,"Johnson, Ty BUF RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Olave, Chris NOS WR",NFC,4.71,2025-09-03 13:44
+TE Player,"Ruckert, Jeremy NYJ TE",AFC,1.09,2025-09-03 13:44
+PK/PN Player,"Little, Cam JAC PK",NFC,0.94,2025-09-03 13:44
+DT Player,"Harmon, Derrick PIT DT",AFC,1.49,2025-09-03 13:44
+DE Player,"Karlaftis, George KCC DE",NFC,2.09,2025-09-03 13:44
+LB Player,"Werner, Pete NOS LB",AFC,1.86,2025-09-03 13:44
+CB Player,"Adebo, Paulson NYG CB",NFC,1.09,2025-09-03 13:44
+S Player,"Starks, Malaki BAL S",AFC,1.56,2025-09-03 13:44
+Rank,95,"HEINICKE, TAYLOR LAC QB",,2025-09-03 13:44
+RB Player,"Dowdle, Rico CAR RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Watson, Christian GBP WR",AFC,4.71,2025-09-03 13:44
+TE Player,"Johnson, Theo NYG TE",AFC,1.01,2025-09-03 13:44
+PK/PN Player,"Reichard, Will MIN PK",NFC,0.94,2025-09-03 13:44
+DT Player,"Bresee, Bryan NOS DT",NFC,1.47,2025-09-03 13:44
+DE Player,"Bosa, Joey BUF DE",AFC,2.0,2025-09-03 13:44
+LB Player,"Schwesinger, Carson CLE LB",NFC,1.85,2025-09-03 13:44
+CB Player,"Sainristil, Mike WAS CB",AFC,1.09,2025-09-03 13:44
+S Player,"Nubin, Tyler NYG S",AFC,1.54,2025-09-03 13:44
+Rank,96,"BROWNING, JAKE CIN QB",,2025-09-03 13:44
+RB Player,"Akers, Cam NOS RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Coker, Jalen CAR WR",NFC,4.64,2025-09-03 13:44
+TE Player,"Barner, AJ SEA TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Reichard, Will MIN PK",AFC,0.94,2025-09-03 13:44
+DT Player,"Fiske, Braden LAR DT",AFC,1.44,2025-09-03 13:44
+DE Player,"Verse, Jared LAR DE",NFC,1.99,2025-09-03 13:44
+LB Player,"Campbell, Jihaad PHI LB",AFC,1.85,2025-09-03 13:44
+CB Player,"Barron, Jahdae DEN CB",AFC,1.08,2025-09-03 13:44
+S Player,"Emmanwori, Nick SEA S",NFC,1.46,2025-09-03 13:44
+Rank,97,"DALTON, ANDY CAR QB",,2025-09-03 13:44
+RB Player,"Tucker, Sean TBB RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Bateman, Rashod BAL WR",NFC,4.55,2025-09-03 13:44
+TE Player,"Hudson, Tanner CIN TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Little, Cam JAC PK",AFC,0.94,2025-09-03 13:44
+DT Player,"Robinson, Darius ARI DT",AFC,1.42,2025-09-03 13:44
+DE Player,"Clowney, Jadeveon FA DE",AFC,1.98,2025-09-03 13:44
+LB Player,"White, Devin LVR LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Barron, Jahdae DEN CB",NFC,1.07,2025-09-03 13:44
+S Player,"Emmanwori, Nick SEA S",AFC,1.43,2025-09-03 13:44
+Rank,98,"JONES, MAC SFO QB",,2025-09-03 13:44
+RB Player,"McLaughlin, Jaleel DEN RB",NFC,1.8,2025-09-03 13:44
+WR Player,"Johnston, Quentin LAC WR",AFC,4.47,2025-09-03 13:44
+TE Player,"Knox, Dawson BUF TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Crawshaw, Jeremy DEN PN",NFC,0.9,2025-09-03 13:44
+DT Player,"Newton, Jer'Zhan WAS DT",NFC,1.4,2025-09-03 13:44
+DE Player,"Wilson, Tyree LVR DE",NFC,1.91,2025-09-03 13:44
+LB Player,"Tranquill, Drue KCC LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Arnold, Terrion DET CB",AFC,1.07,2025-09-03 13:44
+S Player,"Martin, Quan WAS S",AFC,1.41,2025-09-03 13:44
+Rank,99,"MARIOTA, MARCUS WAS QB",,2025-09-03 13:44
+RB Player,"Hill, Justice BAL RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Tillman, Cedric CLE WR",AFC,4.41,2025-09-03 13:44
+TE Player,"Conklin, Tyler LAC TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Loop, Tyler BAL PK",NFC,0.9,2025-09-03 13:44
+DT Player,"Nolen, Walter ARI DT",NFC,1.4,2025-09-03 13:44
+DE Player,"Turner, Dallas MIN DE",AFC,1.91,2025-09-03 13:44
+LB Player,"To'oTo'o, Henry HOU LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Sainristil, Mike WAS CB",NFC,1.06,2025-09-03 13:44
+S Player,"Brown, Sydney PHI S",AFC,1.34,2025-09-03 13:44
+Rank,100,"MILLS, DAVIS HOU QB",,2025-09-03 13:44
+RB Player,"McLaughlin, Jaleel DEN RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Samuel, Curtis BUF WR",AFC,4.39,2025-09-03 13:44
+TE Player,"Calcaterra, Grant PHI TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Borregales, Andres NEP PK",NFC,0.9,2025-09-03 13:44
+DT Player,"Newton, Jer'Zhan WAS DT",AFC,1.35,2025-09-03 13:44
+DE Player,"Fowler, Dante DAL DE",AFC,1.9,2025-09-03 13:44
+LB Player,"Rozeboom, Christian CAR LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Banks, Deonte NYG CB",NFC,1.06,2025-09-03 13:44
+S Player,"Brown, Sydney PHI S",NFC,1.32,2025-09-03 13:44
+Rank,101,"MINSHEW, GARDNER KCC QB",,2025-09-03 13:44
+RB Player,"Mattison, Alexander MIA RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Addison, Jordan MIN WR",NFC,4.07,2025-09-03 13:44
+TE Player,"Ruckert, Jeremy NYJ TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Borregales, Andres NEP PK",AFC,0.9,2025-09-03 13:44
+DT Player,"Fiske, Braden LAR DT",NFC,1.33,2025-09-03 13:44
+DE Player,"Key, Arden TEN DE",AFC,1.9,2025-09-03 13:44
+LB Player,"Werner, Pete NOS LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Banks, Deonte NYG CB",AFC,1.06,2025-09-03 13:44
+S Player,"Bullard, Javon GBP S",AFC,1.31,2025-09-03 13:44
+Rank,102,"RIDDER, DESMOND FA QB",,2025-09-03 13:44
+RB Player,"Hunt, Kareem KCC RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Bateman, Rashod BAL WR",AFC,4.05,2025-09-03 13:44
+TE Player,"Tremble, Tommy CAR TE",NFC,1.0,2025-09-03 13:44
+PK/PN Player,"Krieg, Lenny ATL PK",AFC,0.9,2025-09-03 13:44
+DT Player,"Nolen, Walter ARI DT",AFC,1.33,2025-09-03 13:44
+DE Player,"Young, Chase NOS DE",AFC,1.9,2025-09-03 13:44
+LB Player,"Hicks, Jordan CLE LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Mitchell, Quinyon PHI CB",AFC,1.06,2025-09-03 13:44
+S Player,"Battle, Jordan CIN S",AFC,1.29,2025-09-03 13:44
+Rank,103,"FLACCO, JOE CLE QB",,2025-09-03 13:44
+RB Player,"Singletary, Devin NYG RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Watson, Christian GBP WR",NFC,3.98,2025-09-03 13:44
+TE Player,"Durham, Payne TBB TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Grant, Kenneth MIA DT",AFC,1.3,2025-09-03 13:44
+DE Player,"Jennings, Anfernee NEP DE",NFC,1.87,2025-09-03 13:44
+LB Player,"Reeder, Troy LAR LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Turner, DJ CIN CB",AFC,1.04,2025-09-03 13:44
+S Player,"Starks, Malaki BAL S",NFC,1.28,2025-09-03 13:44
+Rank,104,"LANCE, TREY LAC QB",,2025-09-03 13:44
+RB Player,"Benson, Trey ARI RB",AFC,1.8,2025-09-03 13:44
+WR Player,"Kupp, Cooper SEA WR",AFC,3.8,2025-09-03 13:44
+TE Player,"Allen, Davis LAR TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Hall, Logan TBB DT",AFC,1.3,2025-09-03 13:44
+DE Player,"Young, Chase NOS DE",NFC,1.87,2025-09-03 13:44
+LB Player,"Gibbens, Jack NEP LB",NFC,1.8,2025-09-03 13:44
+CB Player,"Brents, Julius IND CB",AFC,1.04,2025-09-03 13:44
+S Player,"Nubin, Tyler NYG S",NFC,1.25,2025-09-03 13:44
+Rank,105,"MCKEE, TANNER PHI QB",,2025-09-03 13:44
+RB Player,"Skattebo, Cam NYG RB",NFC,1.69,2025-09-03 13:44
+WR Player,"Johnston, Quentin LAC WR",NFC,3.73,2025-09-03 13:44
+TE Player,"Hooper, Austin NEP TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Armstead, Arik JAC DT",AFC,1.3,2025-09-03 13:44
+DE Player,"Turner, Dallas MIN DE",NFC,1.86,2025-09-03 13:44
+LB Player,"Chenal, Leo KCC LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Williams, Garrett ARI CB",AFC,1.04,2025-09-03 13:44
+S Player,"Battle, Jordan CIN S",NFC,1.24,2025-09-03 13:44
+Rank,106,"RUDOLPH, MASON PIT QB",,2025-09-03 13:44
+RB Player,"Tuten, Bhayshul JAC RB",NFC,1.64,2025-09-03 13:44
+WR Player,"Moore, Skyy KCC WR",AFC,3.69,2025-09-03 13:44
+TE Player,"Conyers, Jalin MIA TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Robinson, Darius ARI DT",NFC,1.21,2025-09-03 13:44
+DE Player,"Jones, Patrick CAR DE",NFC,1.86,2025-09-03 13:44
+LB Player,"Bush, Devin CLE LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Hairston, Maxwell BUF CB",NFC,1.03,2025-09-03 13:44
+S Player,"Bishop, Cole BUF S",NFC,1.2,2025-09-03 13:44
+Rank,107,"LOCK, DREW SEA QB",,2025-09-03 13:44
+RB Player,"Achane, De'Von MIA RB",AFC,1.59,2025-09-03 13:44
+WR Player,"Worthy, Xavier KCC WR",AFC,3.67,2025-09-03 13:44
+TE Player,"Lohner, Caleb DEN TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Orhorhoro, Ruke ATL DT",NFC,1.16,2025-09-03 13:44
+DE Player,"Greenard, Jonathan MIN DE",NFC,1.81,2025-09-03 13:44
+LB Player,"Speed, E.J. HOU LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Arnold, Terrion DET CB",NFC,1.03,2025-09-03 13:44
+S Player,"Branch, Brian DET S",NFC,1.18,2025-09-03 13:44
+Rank,108,"DOBBS, JOSHUA NEP QB",,2025-09-03 13:44
+RB Player,"Wright, Jaylen MIA RB",NFC,1.57,2025-09-03 13:44
+WR Player,"Boutte, Kayshon NEP WR",NFC,3.5,2025-09-03 13:44
+TE Player,"Kolar, Charlie BAL TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Hall Jr., Michael CLE DT",AFC,1.16,2025-09-03 13:44
+DE Player,"Judon, Matt FA DE",NFC,1.8,2025-09-03 13:44
+LB Player,"Deablo, Divine ATL LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Wiggins, Nate BAL CB",AFC,1.03,2025-09-03 13:44
+S Player,"Bullard, Javon GBP S",NFC,1.18,2025-09-03 13:44
+Rank,109,"MULLENS, NICK JAC QB",,2025-09-03 13:44
+RB Player,"Johnson, Roschon CHI RB",NFC,1.56,2025-09-03 13:44
+WR Player,"Flowers, Zay BAL WR",NFC,3.45,2025-09-03 13:44
+TE Player,"Moreau, Foster NOS TE",NFC,1.0,2025-09-03 13:44
+DT Player,"Grant, Kenneth MIA DT",NFC,1.15,2025-09-03 13:44
+DE Player,"Autry, Denico HOU DE",NFC,1.8,2025-09-03 13:44
+LB Player,"Elliss, Christian NEP LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Smith, Tykee TBB CB",NFC,1.02,2025-09-03 13:44
+S Player,"Cook, Bryan KCC S",NFC,1.18,2025-09-03 13:44
+Rank,110,"TRASK, KYLE TBB QB",,2025-09-03 13:44
+RB Player,"Skattebo, Cam NYG RB",AFC,1.52,2025-09-03 13:44
+WR Player,"Dotson, Jahan PHI WR",NFC,3.45,2025-09-03 13:44
+TE Player,"Calcaterra, Grant PHI TE",AFC,1.0,2025-09-03 13:44
+DT Player,"Smith, Mazi DAL DT",NFC,1.13,2025-09-03 13:44
+DE Player,"Armstrong, Dorance WAS DE",NFC,1.8,2025-09-03 13:44
+LB Player,"Perryman, Denzel LAC LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Johnson, Will ARI CB",AFC,1.02,2025-09-03 13:44
+S Player,"Brown, Ji'Ayir SFO S",AFC,1.18,2025-09-03 13:44
+Rank,111,"WILSON, ZACH MIA QB",,2025-09-03 13:44
+RB Player,"Sampson, Dylan CLE RB",AFC,1.46,2025-09-03 13:44
+WR Player,"Shakir, Khalil BUF WR",NFC,3.41,2025-09-03 13:44
+TE Player,"Dissly, Will LAC TE",AFC,1.0,2025-09-03 13:44
+DT Player,"Sweat, T'Vondre TEN DT",NFC,1.12,2025-09-03 13:44
+DE Player,"Danna, Michael KCC DE",NFC,1.8,2025-09-03 13:44
+LB Player,"Hicks, Jordan CLE LB",AFC,1.8,2025-09-03 13:44
+CB Player,"Hairston, Maxwell BUF CB",AFC,1.01,2025-09-03 13:44
+S Player,"Watts, Xavier ATL S",NFC,1.17,2025-09-03 13:44
+Rank,112,"LOCK, DREW SEA QB",,2025-09-03 13:44
+RB Player,"Allgeier, Tyler ATL RB",NFC,1.44,2025-09-03 13:44
+WR Player,"Atwell, Tutu LAR WR",NFC,3.41,2025-09-03 13:44
+TE Player,"Tremble, Tommy CAR TE",AFC,1.0,2025-09-03 13:44
+DT Player,"Sweat, T'Vondre TEN DT",AFC,1.12,2025-09-03 13:44
+DE Player,"Odeyingbo, Dayo CHI DE",NFC,1.8,2025-09-03 13:44
+LB Player,"Colson, Junior LAC LB",NFC,1.75,2025-09-03 13:44
+CB Player,"Jackson, Donte LAC CB",NFC,1.0,2025-09-03 13:44
+S Player,"Watts, Xavier ATL S",AFC,1.15,2025-09-03 13:44
+Rank,113,"MARIOTA, MARCUS WAS QB",,2025-09-03 13:44
+RB Player,"Brown, Chase CIN RB",AFC,1.39,2025-09-03 13:44
+WR Player,"Shakir, Khalil BUF WR",AFC,3.41,2025-09-03 13:44
+TE Player,"Strange, Brenton JAC TE",AFC,1.0,2025-09-03 13:44
+DT Player,"Ogunjobi, Larry BUF DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Robinson, Tavius BAL DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Cooper, Edgerrin GBP LB",AFC,1.69,2025-09-03 13:44
+CB Player,"McMillian, Ja'Quan DEN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Cook, Bryan KCC S",AFC,1.13,2025-09-03 13:44
+Rank,114,"JONES, MAC SFO QB",,2025-09-03 13:44
+RB Player,"Tuten, Bhayshul JAC RB",AFC,1.37,2025-09-03 13:44
+WR Player,"Pickens, George DAL WR",AFC,3.41,2025-09-03 13:44
+TE Player,"Wiley, Jared KCC TE",NFC,0.99,2025-09-03 13:44
+DT Player,"Tuttle, Shy CAR DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Nwosu, Uchenna SEA DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Sanders, Drew DEN LB",AFC,1.67,2025-09-03 13:44
+CB Player,"Watson, Jaylen KCC CB",NFC,1.0,2025-09-03 13:44
+S Player,"Bishop, Cole BUF S",AFC,1.13,2025-09-03 13:44
+Rank,115,"MILTON, JOE DAL QB",,2025-09-03 13:44
+RB Player,"Bigsby, Tank JAC RB",NFC,1.36,2025-09-03 13:44
+WR Player,"Wicks, Dontayvion GBP WR",NFC,3.4,2025-09-03 13:44
+TE Player,"Stover, Cade HOU TE",AFC,0.99,2025-09-03 13:44
+DT Player,"Tomlinson, Dalvin ARI DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Reddick, Haason TBB DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Schwesinger, Carson CLE LB",AFC,1.64,2025-09-03 13:44
+CB Player,"Witherspoon, Ahkello LAR CB",NFC,1.0,2025-09-03 13:44
+S Player,"Fitzpatrick, Minkah MIA S",NFC,1.1,2025-09-03 13:44
+Rank,116,"GAROPPOLO, JIMMY LAR QB",,2025-09-03 13:44
+RB Player,"Corum, Blake LAR RB",NFC,1.35,2025-09-03 13:44
+WR Player,"Thomas Jr., Brian JAC WR",AFC,3.38,2025-09-03 13:44
+TE Player,"All, Erick CIN TE",NFC,0.98,2025-09-03 13:44
+DT Player,"Shepherd, Nathan NOS DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Danna, Michael KCC DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Andersen, Troy ATL LB",NFC,1.57,2025-09-03 13:44
+CB Player,"McCreary, Roger TEN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Wilson, Donovan DAL S",NFC,1.1,2025-09-03 13:44
+Rank,117,"BROWNING, JAKE CIN QB",,2025-09-03 13:44
+RB Player,"Blue, Jaydon DAL RB",NFC,1.35,2025-09-03 13:44
+WR Player,"Golden, Matthew GBP WR",AFC,3.33,2025-09-03 13:44
+TE Player,"Stover, Cade HOU TE",NFC,0.98,2025-09-03 13:44
+DT Player,"Kinlaw, Javon WAS DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Golston, Chauncey NYG DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Andersen, Troy ATL LB",AFC,1.57,2025-09-03 13:44
+CB Player,"Stephens, Brandon NYJ CB",NFC,1.0,2025-09-03 13:44
+S Player,"Harris, Will WAS S",NFC,1.1,2025-09-03 13:44
+Rank,118,"MINSHEW, GARDNER KCC QB",,2025-09-03 13:44
+RB Player,"Spears, Tyjae TEN RB",NFC,1.34,2025-09-03 13:44
+WR Player,"Pickens, George DAL WR",NFC,3.23,2025-09-03 13:44
+TE Player,"Higgins, Elijah ARI TE",AFC,0.98,2025-09-03 13:44
+DT Player,"Brooks, Karl GBP DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Epenesa, A.J. BUF DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Henley, Daiyan LAC LB",AFC,1.56,2025-09-03 13:44
+CB Player,"Fulton, Kristian KCC CB",NFC,1.0,2025-09-03 13:44
+S Player,"Bryant, Coby SEA S",NFC,1.1,2025-09-03 13:44
+Rank,119,"HOOKER, HENDON DET QB",,2025-09-03 13:44
+RB Player,"Spears, Tyjae TEN RB",AFC,1.33,2025-09-03 13:44
+WR Player,"Flowers, Zay BAL WR",AFC,3.21,2025-09-03 13:44
+TE Player,"Gadsden, Oronde LAC TE",NFC,0.95,2025-09-03 13:44
+DT Player,"Wharton, Tershawn CAR DT",NFC,1.1,2025-09-03 13:44
+DE Player,"Judon, Matt FA DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Harris, Christian HOU LB",NFC,1.52,2025-09-03 13:44
+CB Player,"Rodgers, Isaiah MIN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Pola-Mao, Isaiah LVR S",NFC,1.1,2025-09-03 13:44
+Rank,120,"MCKEE, TANNER PHI QB",,2025-09-03 13:44
+RB Player,"Allgeier, Tyler ATL RB",AFC,1.33,2025-09-03 13:44
+WR Player,"Thomas Jr., Brian JAC WR",NFC,3.14,2025-09-03 13:44
+TE Player,"Helm, Gunnar TEN TE",AFC,0.95,2025-09-03 13:44
+DT Player,"Ford, Poona LAR DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Smith, Za'Darius FA DE",AFC,1.8,2025-09-03 13:44
+LB Player,"Simpson, Trenton BAL LB",AFC,1.45,2025-09-03 13:44
+CB Player,"Turner, DJ CIN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Smith, Harrison MIN S",NFC,1.1,2025-09-03 13:44
+Rank,121,"RUDOLPH, MASON PIT QB",,2025-09-03 13:44
+RB Player,"Lloyd, MarShawn GBP RB",NFC,1.29,2025-09-03 13:44
+WR Player,"McConkey, Ladd LAC WR",AFC,3.14,2025-09-03 13:44
+TE Player,"Culp, Devin TBB TE",NFC,0.94,2025-09-03 13:44
+DT Player,"Roach, Malcolm DEN DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Williams, Mykel SFO DE",AFC,1.79,2025-09-03 13:44
+LB Player,"Cooper, Edgerrin GBP LB",NFC,1.44,2025-09-03 13:44
+CB Player,"Alford, Dee ATL CB",NFC,1.0,2025-09-03 13:44
+S Player,"Adams, Tony NYJ S",NFC,1.1,2025-09-03 13:44
+Rank,122,"WINSTON, JAMEIS NYG QB",,2025-09-03 13:44
+RB Player,"Wright, Jaylen MIA RB",AFC,1.29,2025-09-03 13:44
+WR Player,"Coleman, Keon BUF WR",NFC,2.93,2025-09-03 13:44
+TE Player,"Reiman, Tip ARI TE",NFC,0.94,2025-09-03 13:44
+DT Player,"Pierce, Michael FA DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Ebiketie, Arnold ATL DE",AFC,1.74,2025-09-03 13:44
+LB Player,"Sanders, Drew DEN LB",NFC,1.39,2025-09-03 13:44
+CB Player,"Alexander, Jaire BAL CB",NFC,1.0,2025-09-03 13:44
+S Player,"Taylor-Demerson, Dadrion ARI S",NFC,1.1,2025-09-03 13:44
+Rank,123,"BAGENT, TYSON CHI QB",,2025-09-03 13:44
+RB Player,"Corum, Blake LAR RB",AFC,1.26,2025-09-03 13:44
+WR Player,"Higgins, Jayden HOU WR",NFC,2.9,2025-09-03 13:44
+TE Player,"Reiman, Tip ARI TE",AFC,0.94,2025-09-03 13:44
+DT Player,"Shepherd, Nathan NOS DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Pearce, James ATL DE",AFC,1.69,2025-09-03 13:44
+LB Player,"Harris, Christian HOU LB",AFC,1.36,2025-09-03 13:44
+CB Player,"Brownlee, Jarvis TEN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Cross, Nick IND S",NFC,1.1,2025-09-03 13:44
+Rank,124,"RUSH, COOPER BAL QB",,2025-09-03 13:44
+RB Player,"Lloyd, MarShawn GBP RB",AFC,1.25,2025-09-03 13:44
+WR Player,"Egbuka, Emeka TBB WR",AFC,2.9,2025-09-03 13:44
+TE Player,"Wiley, Jared KCC TE",AFC,0.94,2025-09-03 13:44
+DT Player,"Stills, Dante ARI DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Robinson, Chop MIA DE",AFC,1.62,2025-09-03 13:44
+LB Player,"Simpson, Trenton BAL LB",NFC,1.28,2025-09-03 13:44
+CB Player,"Conner, Chamarri KCC CB",NFC,1.0,2025-09-03 13:44
+S Player,"Woods, Xavier TEN S",NFC,1.1,2025-09-03 13:44
+Rank,125,"O'CONNELL, AIDAN LVR QB",,2025-09-03 13:44
+RB Player,"Bigsby, Tank JAC RB",AFC,1.24,2025-09-03 13:44
+WR Player,"McConkey, Ladd LAC WR",NFC,2.75,2025-09-03 13:44
+TE Player,"All, Erick CIN TE",AFC,0.94,2025-09-03 13:44
+DT Player,"Franklin-Myers, John DEN DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Walker, Jalon ATL DE",AFC,1.6,2025-09-03 13:44
+LB Player,"Henley, Daiyan LAC LB",NFC,1.25,2025-09-03 13:44
+CB Player,"Ramsey, Jalen PIT CB",NFC,1.0,2025-09-03 13:44
+S Player,"Washington, Ar'Darius BAL S",NFC,1.1,2025-09-03 13:44
+Rank,126,"HOWARD, WILL PIT QB",,2025-09-03 13:44
+RB Player,"Johnson, Roschon CHI RB",AFC,1.23,2025-09-03 13:44
+WR Player,"Coleman, Keon BUF WR",AFC,2.75,2025-09-03 13:44
+TE Player,"Barner, AJ SEA TE",AFC,0.94,2025-09-03 13:44
+DT Player,"Onwuzurike, Levi DET DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Walker, Jalon ATL DE",NFC,1.56,2025-09-03 13:44
+LB Player,"Chenal, Leo KCC LB",NFC,1.24,2025-09-03 13:44
+CB Player,"Reed, D.J. DET CB",NFC,1.0,2025-09-03 13:44
+S Player,"Murray, Eric JAC S",AFC,1.1,2025-09-03 13:44
+Rank,127,"RATTLER, SPENCER NOS QB",,2025-09-03 13:44
+RB Player,"Brown, Chase CIN RB",NFC,1.21,2025-09-03 13:44
+WR Player,"Golden, Matthew GBP WR",NFC,2.72,2025-09-03 13:44
+TE Player,"Evans, Mitchell CAR TE",NFC,0.9,2025-09-03 13:44
+DT Player,"Butler, Adam LVR DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Ebiketie, Arnold ATL DE",NFC,1.55,2025-09-03 13:44
+LB Player,"Stutsman, Danny NOS LB",NFC,1.2,2025-09-03 13:44
+CB Player,"Gilmore, Stephon FA CB",NFC,1.0,2025-09-03 13:44
+S Player,"Mustapha, Malik SFO S",AFC,1.1,2025-09-03 13:44
+Rank,128,"GABRIEL, DILLON CLE QB",,2025-09-03 13:44
+RB Player,"Allen, Braelon NYJ RB",AFC,1.21,2025-09-03 13:44
+WR Player,"Pierce, Alec IND WR",NFC,2.63,2025-09-03 13:44
+TE Player,"Bartholomew, Gavin MIN TE",NFC,0.9,2025-09-03 13:44
+DT Player,"Brown, Bobby CAR DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Williams, Mykel SFO DE",NFC,1.49,2025-09-03 13:44
+LB Player,"Knight, Demetrius CIN LB",AFC,1.2,2025-09-03 13:44
+CB Player,"Hughes, Mike ATL CB",NFC,1.0,2025-09-03 13:44
+S Player,"Cross, Nick IND S",AFC,1.1,2025-09-03 13:44
+Rank,129,"HOWARD, WILL PIT QB",,2025-09-03 13:44
+RB Player,"Davis, Ray BUF RB",AFC,1.2,2025-09-03 13:44
+WR Player,"Egbuka, Emeka TBB WR",NFC,2.58,2025-09-03 13:44
+TE Player,"Lachey, Luke HOU TE",NFC,0.9,2025-09-03 13:44
+DT Player,"Hamilton, Davon JAC DT",AFC,1.1,2025-09-03 13:44
+DE Player,"Murphy, Myles CIN DE",AFC,1.47,2025-09-03 13:44
+LB Player,"Knight, Demetrius CIN LB",NFC,1.18,2025-09-03 13:44
+CB Player,"Sneed, L'Jarius TEN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Elliott, DeShon PIT S",AFC,1.1,2025-09-03 13:44
+Rank,130,"GABRIEL, DILLON CLE QB",,2025-09-03 13:44
+RB Player,"Ford, Jerome CLE RB",NFC,1.19,2025-09-03 13:44
+WR Player,"Higgins, Jayden HOU WR",AFC,2.58,2025-09-03 13:44
+TE Player,"Fidone, Thomas NYG TE",NFC,0.9,2025-09-03 13:44
+DT Player,"Jones, Travis BAL DT",NFC,1.09,2025-09-03 13:44
+DE Player,"Van Ness, Lukas GBP DE",NFC,1.45,2025-09-03 13:44
+LB Player,"Stutsman, Danny NOS LB",AFC,1.18,2025-09-03 13:44
+CB Player,"Blackmon, Mekhi MIN CB",NFC,1.0,2025-09-03 13:44
+S Player,"Rapp, Taylor BUF S",AFC,1.1,2025-09-03 13:44
+Rank,131,"EWERS, QUINN MIA QB",,2025-09-03 13:44
+RB Player,"Abanikanda, Israel SFO RB",AFC,1.19,2025-09-03 13:44
+WR Player,"Pearsall, Ricky SFO WR",AFC,2.46,2025-09-03 13:44
+TE Player,"Helm, Gunnar TEN TE",NFC,0.9,2025-09-03 13:44
+DT Player,"Benton, Keeanu PIT DT",AFC,1.08,2025-09-03 13:44
+DE Player,"Green, Mike BAL DE",NFC,1.43,2025-09-03 13:44
+LB Player,"Wilson, Payton PIT LB",AFC,1.17,2025-09-03 13:44
+CB Player,"Gardner, Sauce NYJ CB",NFC,1.0,2025-09-03 13:44
+S Player,"Bryant, Coby SEA S",AFC,1.1,2025-09-03 13:44
+Rank,132,"LEARY, DEVIN BAL QB",,2025-09-03 13:44
+RB Player,"Ford, Jerome CLE RB",AFC,1.18,2025-09-03 13:44
+WR Player,"Burden, Luther CHI WR",AFC,2.45,2025-09-03 13:44
+TE Player,"Gadsden, Oronde LAC TE",AFC,0.9,2025-09-03 13:44
+DT Player,"Dexter, Gervon CHI DT",NFC,1.07,2025-09-03 13:44
+DE Player,"Anudike-Uzomah, Felix KCC DE",NFC,1.43,2025-09-03 13:44
+LB Player,"Wilson, Payton PIT LB",NFC,1.13,2025-09-03 13:44
+CB Player,"Johnson, Jaylon CHI CB",NFC,1.0,2025-09-03 13:44
+S Player,"Blankenship, Reed PHI S",NFC,1.09,2025-09-03 13:44
+Rank,133,"MILTON, JOE DAL QB",,2025-09-03 13:44
+RB Player,"Abanikanda, Israel SFO RB",NFC,1.14,2025-09-03 13:44
+WR Player,"Mingo, Jonathan DAL WR",NFC,2.41,2025-09-03 13:44
+TE Player,"Evans, Mitchell CAR TE",AFC,0.9,2025-09-03 13:44
+DT Player,"Turner, Shemar CHI DT",AFC,1.07,2025-09-03 13:44
+DE Player,"Robinson, Chop MIA DE",NFC,1.42,2025-09-03 13:44
+LB Player,"Baun, Zack PHI LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Lattimore, Marshon WAS CB",NFC,1.0,2025-09-03 13:44
+S Player,"Brown, Ji'Ayir SFO S",NFC,1.06,2025-09-03 13:44
+Rank,134,"LEONARD, RILEY IND QB",,2025-09-03 13:44
+RB Player,"Allen, Braelon NYJ RB",NFC,1.14,2025-09-03 13:44
+WR Player,"Austin III, Calvin PIT WR",NFC,2.38,2025-09-03 13:44
+TE Player,"Briningstool, Jake KCC TE",AFC,0.9,2025-09-03 13:44
+DT Player,"Benton, Keeanu PIT DT",NFC,1.06,2025-09-03 13:44
+DE Player,"Smith, Nolan PHI DE",NFC,1.41,2025-09-03 13:44
+LB Player,"Tavai, Jahlani NEP LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Valentine, Carrington GBP CB",NFC,1.0,2025-09-03 13:44
+S Player,"Mapu, Marte NEP S",NFC,1.04,2025-09-03 13:44
+Rank,135,"MCCORD, KYLE PHI QB",,2025-09-03 13:44
+RB Player,"Sampson, Dylan CLE RB",NFC,1.11,2025-09-03 13:44
+WR Player,"Pearsall, Ricky SFO WR",NFC,2.34,2025-09-03 13:44
+TE Player,"Lachey, Luke HOU TE",AFC,0.9,2025-09-03 13:44
+DT Player,"Dexter, Gervon CHI DT",AFC,1.06,2025-09-03 13:44
+DE Player,"Stewart, Shemar CIN DE",AFC,1.4,2025-09-03 13:44
+LB Player,"Dodson, Tyrel MIA LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Douglas, Rasul FA CB",NFC,1.0,2025-09-03 13:44
+S Player,"Mukuba, Andrew PHI S",AFC,1.04,2025-09-03 13:44
+Rank,136,"MILLER, CAM LVR QB",,2025-09-03 13:44
+RB Player,"Blue, Jaydon DAL RB",AFC,1.11,2025-09-03 13:44
+WR Player,"Legette, Xavier CAR WR",AFC,2.34,2025-09-03 13:44
+DT Player,"Collins, Alfred SFO DT",AFC,1.05,2025-09-03 13:44
+DE Player,"Trice, Bralen ATL DE",AFC,1.4,2025-09-03 13:44
+LB Player,"Andreessen, Joe BUF LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Williams, Darious LAR CB",NFC,1.0,2025-09-03 13:44
+S Player,"Mukuba, Andrew PHI S",NFC,1.01,2025-09-03 13:44
+Rank,137,"MCCORD, KYLE PHI QB",,2025-09-03 13:44
+RB Player,"Wilson, Emanuel GBP RB",NFC,1.1,2025-09-03 13:44
+WR Player,"Dotson, Jahan PHI WR",AFC,2.24,2025-09-03 13:44
+DT Player,"Collins, Alfred SFO DT",NFC,1.04,2025-09-03 13:44
+DE Player,"Pearce, James ATL DE",NFC,1.3,2025-09-03 13:44
+LB Player,"Sherwood, Jamien NYJ LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Jackson, Michael CAR CB",NFC,1.0,2025-09-03 13:44
+S Player,"Kinchens, Kamren LAR S",NFC,1.01,2025-09-03 13:44
+Rank,138,"LEONARD, RILEY IND QB",,2025-09-03 13:44
+RB Player,"McNichols, Jeremy WAS RB",AFC,1.1,2025-09-03 13:44
+WR Player,"Burden, Luther CHI WR",NFC,2.23,2025-09-03 13:44
+DT Player,"Adebawore, Adetomiwa IND DT",AFC,1.04,2025-09-03 13:44
+DE Player,"Van Ness, Lukas GBP DE",AFC,1.3,2025-09-03 13:44
+LB Player,"Davis-Gaither, Akeem ARI LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Jobe, Josh SEA CB",NFC,1.0,2025-09-03 13:44
+S Player,"Jenkins, Rayshawn CLE S",NFC,1.0,2025-09-03 13:44
+Rank,139,"ROURKE, KURTIS SFO QB",,2025-09-03 13:44
+RB Player,"Davis, Isaiah NYJ RB",AFC,1.1,2025-09-03 13:44
+WR Player,"Legette, Xavier CAR WR",NFC,2.07,2025-09-03 13:44
+DT Player,"Hall Jr., Michael CLE DT",NFC,1.02,2025-09-03 13:44
+DE Player,"Murphy, Myles CIN DE",NFC,1.29,2025-09-03 13:44
+LB Player,"Winters, Dee SFO LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Kohou, Kader MIA CB",NFC,1.0,2025-09-03 13:44
+S Player,"Locke, P.J. DEN S",NFC,1.0,2025-09-03 13:44
+Rank,140,,,2025-09-03 13:44
+RB Player,"Wilson, Emanuel GBP RB",AFC,1.1,2025-09-03 13:44
+WR Player,"Mitchell, Adonai IND WR",AFC,2.07,2025-09-03 13:44
+DT Player,"Jenkins, Kris CIN DT",NFC,1.02,2025-09-03 13:44
+DE Player,"Green, Mike BAL DE",AFC,1.28,2025-09-03 13:44
+LB Player,"Barnes, Derrick DET LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Hilton, Mike FA CB",NFC,1.0,2025-09-03 13:44
+S Player,"Izien, Christian TBB S",NFC,1.0,2025-09-03 13:44
+Rank,141,,,2025-09-03 13:44
+RB Player,"Marks, Woody HOU RB",NFC,1.09,2025-09-03 13:44
+WR Player,"Harris, Tre LAC WR",NFC,2.05,2025-09-03 13:44
+DT Player,"Jenkins, Kris CIN DT",AFC,1.02,2025-09-03 13:44
+DE Player,"Young, Byron LAR DE",AFC,1.28,2025-09-03 13:44
+LB Player,"Carlies, Jaylon IND LB",NFC,1.1,2025-09-03 13:44
+CB Player,"Terrell, A.J. ATL CB",NFC,1.0,2025-09-03 13:44
+S Player,"Murray, Eric JAC S",NFC,1.0,2025-09-03 13:44
+Rank,142,,,2025-09-03 13:44
+RB Player,"Davis, Ray BUF RB",NFC,1.07,2025-09-03 13:44
+WR Player,"Rice, Rashee KCC WR",NFC,2.05,2025-09-03 13:44
+DT Player,"Orhorhoro, Ruke ATL DT",AFC,1.01,2025-09-03 13:44
+DE Player,"Ezeiruaku, Donovan DAL DE",NFC,1.26,2025-09-03 13:44
+LB Player,"McDuffie, Isaiah GBP LB",AFC,1.1,2025-09-03 13:44
+CB Player,"Ringo, Kelee PHI CB",NFC,1.0,2025-09-03 13:44
+S Player,"Richardson, Demani CAR S",NFC,1.0,2025-09-03 13:44
+Rank,143,,,2025-09-03 13:44
+RB Player,"Irving, Bucky TBB RB",NFC,1.06,2025-09-03 13:44
+WR Player,"Moore, Elijah BUF WR",NFC,2.0,2025-09-03 13:44
+DT Player,"Godchaux, Davon NOS DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Ezeiruaku, Donovan DAL DE",AFC,1.26,2025-09-03 13:44
+LB Player,"Overshown, DeMarvion DAL LB",AFC,1.1,2025-09-03 13:44
+CB Player,"Williams, Garrett ARI CB",NFC,1.0,2025-09-03 13:44
+S Player,"Johnson, Antonio JAC S",NFC,1.0,2025-09-03 13:44
+Rank,144,,,2025-09-03 13:44
+RB Player,"James, Jordan SFO RB",NFC,1.04,2025-09-03 13:44
+WR Player,"Polk, Ja'Lynn NEP WR",AFC,1.99,2025-09-03 13:44
+DT Player,"Reader, D.J. DET DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Mafe, Boye SEA DE",AFC,1.25,2025-09-03 13:44
+LB Player,"Thompson, Shaq BUF LB",AFC,1.1,2025-09-03 13:44
+CB Player,"Jackson, Donte LAC CB",AFC,1.0,2025-09-03 13:44
+S Player,"Thomas, Juanyeh DAL S",NFC,1.0,2025-09-03 13:44
+Rank,145,,,2025-09-03 13:44
+RB Player,"Vidal, Kimani LAC RB",NFC,1.04,2025-09-03 13:44
+WR Player,"Bech, Jack LVR WR",NFC,1.98,2025-09-03 13:44
+DT Player,"Harris, Shelby CLE DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Kneeland, Marshawn DAL DE",AFC,1.24,2025-09-03 13:44
+LB Player,"Sanborn, Jack DAL LB",AFC,1.1,2025-09-03 13:44
+CB Player,"Dean, Jamel TBB CB",AFC,1.0,2025-09-03 13:44
+S Player,"Whitehead, Jordan FA S",NFC,1.0,2025-09-03 13:44
+Rank,146,,,2025-09-03 13:44
+RB Player,"Guerendo, Isaac SFO RB",NFC,1.04,2025-09-03 13:44
+WR Player,"Harris, Tre LAC WR",AFC,1.98,2025-09-03 13:44
+DT Player,"Eboigbe, Justin LAC DT",NFC,1.0,2025-09-03 13:44
+DE Player,"McDonald, Will NYJ DE",AFC,1.21,2025-09-03 13:44
+LB Player,"White, Kyzir FA LB",AFC,1.1,2025-09-03 13:44
+CB Player,"Sneed, L'Jarius TEN CB",AFC,1.0,2025-09-03 13:44
+S Player,"Hickman, Ronnie CLE S",NFC,1.0,2025-09-03 13:44
+Rank,147,,,2025-09-03 13:44
+RB Player,"Tracy, Tyrone NYG RB",AFC,1.04,2025-09-03 13:44
+WR Player,"Mitchell, Adonai IND WR",NFC,1.91,2025-09-03 13:44
+DT Player,"Franklin-Myers, John DEN DT",NFC,1.0,2025-09-03 13:44
+DE Player,"McDonald, Will NYJ DE",NFC,1.2,2025-09-03 13:44
+LB Player,"Wallace, Trevin CAR LB",NFC,1.09,2025-09-03 13:44
+CB Player,"Jackson, Michael CAR CB",AFC,1.0,2025-09-03 13:44
+S Player,"Jackson, Theo MIN S",NFC,1.0,2025-09-03 13:44
+Rank,148,,,2025-09-03 13:44
+RB Player,"Etienne, Trevor CAR RB",AFC,1.04,2025-09-03 13:44
+WR Player,"Pierce, Alec IND WR",AFC,1.91,2025-09-03 13:44
+DT Player,"Settle, Tim HOU DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Young, Byron LAR DE",NFC,1.2,2025-09-03 13:44
+LB Player,"Bernard, Terrel BUF LB",NFC,1.09,2025-09-03 13:44
+CB Player,"Lewis, Jourdan JAC CB",AFC,1.0,2025-09-03 13:44
+S Player,"Savage, Darnell JAC S",NFC,1.0,2025-09-03 13:44
+Rank,149,,,2025-09-03 13:44
+RB Player,"James, Jordan SFO RB",AFC,1.03,2025-09-03 13:44
+WR Player,"Bech, Jack LVR WR",AFC,1.91,2025-09-03 13:44
+DT Player,"Ekuale, Daniel PIT DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Smith, Nolan PHI DE",AFC,1.2,2025-09-03 13:44
+LB Player,"Al-Shaair, Azeez HOU LB",NFC,1.09,2025-09-03 13:44
+CB Player,"Awuzie, Chidobe BAL CB",AFC,1.0,2025-09-03 13:44
+S Player,"Ward, Jimmie HOU S",NFC,1.0,2025-09-03 13:44
+Rank,150,,,2025-09-03 13:44
+RB Player,"Guerendo, Isaac SFO RB",AFC,1.03,2025-09-03 13:44
+WR Player,"Williams, Mike FA WR",NFC,1.9,2025-09-03 13:44
+DT Player,"Jones, DaQuan BUF DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Anudike-Uzomah, Felix KCC DE",AFC,1.2,2025-09-03 13:44
+LB Player,"Spillane, Robert NEP LB",NFC,1.09,2025-09-03 13:44
+CB Player,"Hilton, Mike FA CB",AFC,1.0,2025-09-03 13:44
+S Player,"Hellams, DeMarcco ATL S",NFC,1.0,2025-09-03 13:44
+Rank,151,,,2025-09-03 13:44
+RB Player,"Neal, Devin NOS RB",NFC,1.02,2025-09-03 13:44
+WR Player,"Hopkins, DeAndre BAL WR",AFC,1.9,2025-09-03 13:44
+DT Player,"Redmond, Jalen MIN DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Mafe, Boye SEA DE",NFC,1.18,2025-09-03 13:44
+LB Player,"Spillane, Robert NEP LB",AFC,1.09,2025-09-03 13:44
+CB Player,"Bennett, Jakorian LVR CB",AFC,1.0,2025-09-03 13:44
+S Player,"Mathieu, Tyrann NOS S",NFC,1.0,2025-09-03 13:44
+Rank,152,,,2025-09-03 13:44
+RB Player,"Vidal, Kimani LAC RB",AFC,1.02,2025-09-03 13:44
+WR Player,"Moore, Elijah BUF WR",AFC,1.9,2025-09-03 13:44
+DT Player,"Jefferson, Jordan JAC DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Tuipulotu, Tuli LAC DE",AFC,1.17,2025-09-03 13:44
+LB Player,"Wallace, Trevin CAR LB",AFC,1.09,2025-09-03 13:44
+CB Player,"Brownlee, Jarvis TEN CB",AFC,1.0,2025-09-03 13:44
+S Player,"Cine, Lewis PHI S",NFC,1.0,2025-09-03 13:44
+Rank,153,,,2025-09-03 13:44
+RB Player,"Tracy, Tyrone NYG RB",NFC,1.01,2025-09-03 13:44
+WR Player,"Brown, Noah WAS WR",AFC,1.87,2025-09-03 13:44
+DT Player,"Onwuzurike, Levi DET DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Stewart, Shemar CIN DE",NFC,1.14,2025-09-03 13:44
+LB Player,"Gray, Cedric TEN LB",NFC,1.08,2025-09-03 13:44
+CB Player,"Melton, Max ARI CB",AFC,1.0,2025-09-03 13:44
+S Player,"Edwards, Mike KCC S",NFC,1.0,2025-09-03 13:44
+Rank,154,,,2025-09-03 13:44
+RB Player,"Irving, Bucky TBB RB",AFC,1.01,2025-09-03 13:44
+WR Player,"Thornton, Dont'e LVR WR",AFC,1.87,2025-09-03 13:44
+DT Player,"Nunez-Roches, Rakeem NYG DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Tuipulotu, Tuli LAC DE",NFC,1.14,2025-09-03 13:44
+LB Player,"Williams, Dorian BUF LB",NFC,1.06,2025-09-03 13:44
+CB Player,"Phillips, Andru NYG CB",AFC,1.0,2025-09-03 13:44
+S Player,"Grant, Richie SFO S",NFC,1.0,2025-09-03 13:44
+Rank,155,,,2025-09-03 13:44
+RB Player,"Demercado, Emari ARI RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Tolbert, Jalen DAL WR",AFC,1.86,2025-09-03 13:44
+DT Player,"Sanders, T.J. BUF DT",NFC,1.0,2025-09-03 13:44
+DE Player,"White, Keion NEP DE",NFC,1.12,2025-09-03 13:44
+LB Player,"Gray, Cedric TEN LB",AFC,1.06,2025-09-03 13:44
+CB Player,"Richardson, Decamerion LVR CB",AFC,1.0,2025-09-03 13:44
+S Player,"Scott, Nick CAR S",NFC,1.0,2025-09-03 13:44
+Rank,156,,,2025-09-03 13:44
+RB Player,"Reynolds, Craig DET RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Reed, Jayden GBP WR",AFC,1.86,2025-09-03 13:44
+DT Player,"Nnadi, Derrick NYJ DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Stewart, Josaiah LAR DE",AFC,1.12,2025-09-03 13:44
+LB Player,"Williams, Dorian BUF LB",AFC,1.06,2025-09-03 13:44
+CB Player,"Watson, Jaylen KCC CB",AFC,1.0,2025-09-03 13:44
+S Player,"McCollough, Jaylen LAR S",NFC,1.0,2025-09-03 13:44
+Rank,157,,,2025-09-03 13:44
+RB Player,"Vaki, Sione DET RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Tucker, Tre LVR WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Fox, Morgan ATL DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Herbig, Nick PIT DE",AFC,1.12,2025-09-03 13:44
+LB Player,"Martin, Nick SFO LB",NFC,1.05,2025-09-03 13:44
+CB Player,"Newsome, Greg CLE CB",AFC,1.0,2025-09-03 13:44
+S Player,"Jackson, Theo MIN S",AFC,1.0,2025-09-03 13:44
+Rank,158,,,2025-09-03 13:44
+RB Player,"Gainwell, Kenneth PIT RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Woods, Robert PIT WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Martin, Brodric DET DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Kneeland, Marshawn DAL DE",NFC,1.11,2025-09-03 13:44
+LB Player,"To'oTo'o, Henry HOU LB",AFC,1.04,2025-09-03 13:44
+CB Player,"Fulton, Kristian KCC CB",AFC,1.0,2025-09-03 13:44
+S Player,"Thornhill, Juan PIT S",AFC,1.0,2025-09-03 13:44
+Rank,159,,,2025-09-03 13:44
+RB Player,"Mitchell, Elijah KCC RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Lazard, Allen NYJ WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Jordan, Cameron NOS DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Ojulari, BJ ARI DE",NFC,1.11,2025-09-03 13:44
+LB Player,"Bertrand, JD ATL LB",AFC,1.03,2025-09-03 13:44
+CB Player,"Valentine, Carrington GBP CB",AFC,1.0,2025-09-03 13:44
+S Player,"Richardson, Demani CAR S",AFC,1.0,2025-09-03 13:44
+Rank,160,,,2025-09-03 13:44
+RB Player,"Rodriguez, Chris WAS RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Cooks, Brandin NOS WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Hall, Logan TBB DT",NFC,1.0,2025-09-03 13:44
+DE Player,"White, Keion NEP DE",AFC,1.11,2025-09-03 13:44
+LB Player,"Barnes, Zaire NYJ LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Robertson, Amik DET CB",AFC,1.0,2025-09-03 13:44
+S Player,"Savage, Darnell JAC S",AFC,1.0,2025-09-03 13:44
+Rank,161,,,2025-09-03 13:44
+RB Player,"Singletary, Devin NYG RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Slayton, Darius NYG WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Loudermilk, Isaiahh PIT DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Omenihu, Charles KCC DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Clark, Damone DAL LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Douglas, Rasul FA CB",AFC,1.0,2025-09-03 13:44
+S Player,"Abram, Johnathan FA S",AFC,1.0,2025-09-03 13:44
+Rank,162,,,2025-09-03 13:44
+RB Player,"Hull, Evan PIT RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Chism, Efton NEP WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Ojomo, Moro PHI DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Fowler, Dante DAL DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Diabate, Mohamoud CLE LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Lattimore, Marshon WAS CB",AFC,1.0,2025-09-03 13:44
+S Player,"Pola-Mao, Isaiah LVR S",AFC,1.0,2025-09-03 13:44
+Rank,163,,,2025-09-03 13:44
+RB Player,"Estime, Audric DEN RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Patrick, Tim DET WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Reed, Jarran SEA DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Ossai, Joseph CIN DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Roberts, Elandon LVR LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Hart, Cam LAC CB",AFC,1.0,2025-09-03 13:44
+S Player,"McCollough, Jaylen LAR S",AFC,1.0,2025-09-03 13:44
+Rank,164,,,2025-09-03 13:44
+RB Player,"Davis, Isaiah NYJ RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Downs, Josh IND WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Jones, D.J. DEN DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Key, Arden TEN DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Reese, Otis TEN LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Witherspoon, Ahkello LAR CB",AFC,1.0,2025-09-03 13:44
+S Player,"Harris, Will WAS S",AFC,1.0,2025-09-03 13:44
+Rank,165,,,2025-09-03 13:44
+RB Player,"Hunt, Kareem KCC RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Washington, Parker JAC WR",NFC,1.8,2025-09-03 13:44
+DT Player,"Brown, Bobby CAR DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Floyd, Leonard ATL DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Trotter Jr., Jeremiah PHI LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Gardner, Sauce NYJ CB",AFC,1.0,2025-09-03 13:44
+S Player,"Hampton, Dominique WAS S",AFC,1.0,2025-09-03 13:44
+Rank,166,,,2025-09-03 13:44
+RB Player,"Perine, Samaje CIN RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Lazard, Allen NYJ WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Saunders, Khalen NOS DT",NFC,1.0,2025-09-03 13:44
+DE Player,"McGuire, Isaiah CLE DE",NFC,1.1,2025-09-03 13:44
+LB Player,"Wilson, Mack ARI LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Alford, Dee ATL CB",AFC,1.0,2025-09-03 13:44
+S Player,"Whitehead, Jordan FA S",AFC,1.0,2025-09-03 13:44
+Rank,167,,,2025-09-03 13:44
+RB Player,"Rivers, Ronnie LAR RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Cooks, Brandin NOS WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Togiai, Tommy HOU DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Robinson, Tavius BAL DE",NFC,1.1,2025-09-03 13:44
+LB Player,"McDuffie, Isaiah GBP LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Lassiter, Kamari HOU CB",NFC,0.99,2025-09-03 13:44
+S Player,"Ward, Jimmie HOU S",AFC,1.0,2025-09-03 13:44
+Rank,168,,,2025-09-03 13:44
+RB Player,"Sanders, Miles DAL RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Cooper, Amari FA WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Collins, Maliek CLE DT",NFC,1.0,2025-09-03 13:44
+DE Player,"Tuimoloau, JT IND DE",AFC,1.1,2025-09-03 13:44
+LB Player,"Perryman, Denzel LAC LB",NFC,1.0,2025-09-03 13:44
+CB Player,"McKinstry, Kool-Aid NOS CB",AFC,0.99,2025-09-03 13:44
+S Player,"McCollum, Tristin PHI S",AFC,1.0,2025-09-03 13:44
+Rank,169,,,2025-09-03 13:44
+RB Player,"McCormick, Sincere LVR RB",NFC,1.0,2025-09-03 13:44
+WR Player,"Douglas, Demario NEP WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Laulu, Jonah LVR DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Braswell, Chris TBB DE",AFC,1.1,2025-09-03 13:44
+LB Player,"Sanborn, Jack DAL LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Melton, Max ARI CB",NFC,0.98,2025-09-03 13:44
+S Player,"McMorris, Patrick MIA S",AFC,1.0,2025-09-03 13:44
+Rank,170,,,2025-09-03 13:44
+RB Player,"Johnson, Ty BUF RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Nailor, Jalen MIN WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Jones, DaQuan BUF DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Gardeck, Dennis JAC DE",AFC,1.1,2025-09-03 13:44
+LB Player,"Walker, Anthony TBB LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Brents, Julius IND CB",NFC,0.98,2025-09-03 13:44
+S Player,"Hellams, DeMarcco ATL S",AFC,1.0,2025-09-03 13:44
+Rank,171,,,2025-09-03 13:44
+RB Player,"Mitchell, Elijah KCC RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Reynolds, Josh NYJ WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Washington, Broderick BAL DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Lewis, Tyquan IND DE",AFC,1.1,2025-09-03 13:44
+LB Player,"Bush, Devin CLE LB",NFC,1.0,2025-09-03 13:44
+CB Player,"McKinstry, Kool-Aid NOS CB",NFC,0.98,2025-09-03 13:44
+S Player,"Hickman, Ronnie CLE S",AFC,1.0,2025-09-03 13:44
+Rank,172,,,2025-09-03 13:44
+RB Player,"Marks, Woody HOU RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Westbrook-Ikhine, Nick MIA WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Roy, Jaquelin NEP DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Braswell, Chris TBB DE",NFC,1.09,2025-09-03 13:44
+LB Player,"Williams, James TEN LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Stevenson, Tyrique CHI CB",NFC,0.98,2025-09-03 13:44
+S Player,"Hooker, Malik DAL S",AFC,1.0,2025-09-03 13:44
+Rank,173,,,2025-09-03 13:44
+RB Player,"Mostert, Raheem LVR RB",AFC,1.0,2025-09-03 13:44
+WR Player,"McCloud, Ray-Ray ATL WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Togiai, Tommy HOU DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Hall, Derick SEA DE",NFC,1.08,2025-09-03 13:44
+LB Player,"Paul, Chris LAR LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Smith, Tykee TBB CB",AFC,0.98,2025-09-03 13:44
+S Player,"Bullock, Calen HOU S",NFC,0.99,2025-09-03 13:44
+Rank,174,,,2025-09-03 13:44
+RB Player,"Ali, Rasheen BAL RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Rice, Rashee KCC WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Edwards, Mario HOU DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Trice, Bralen ATL DE",NFC,1.07,2025-09-03 13:44
+LB Player,"Bentley, Ja'Whaun FA LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Stevenson, Tyrique CHI CB",AFC,0.98,2025-09-03 13:44
+S Player,"Kinchens, Kamren LAR S",AFC,0.99,2025-09-03 13:44
+Rank,175,,,2025-09-03 13:44
+RB Player,"Moss, Zack CIN RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Atwell, Tutu LAR WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Tuttle, Shy CAR DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Hall, Derick SEA DE",AFC,1.07,2025-09-03 13:44
+LB Player,"Landman, Nate LAR LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Johnson, Will ARI CB",NFC,0.96,2025-09-03 13:44
+S Player,"Hicks, Jaden KCC S",NFC,0.98,2025-09-03 13:44
+Rank,176,,,2025-09-03 13:44
+RB Player,"Sanders, Miles DAL RB",AFC,1.0,2025-09-03 13:44
+WR Player,"Boutte, Kayshon NEP WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Collins, Maliek CLE DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Lawrence, Demarcus SEA DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Burks, Oren CIN LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Phillips, Andru NYG CB",NFC,0.94,2025-09-03 13:44
+S Player,"Taylor-Demerson, Dadrion ARI S",AFC,0.98,2025-09-03 13:44
+Rank,177,,,2025-09-03 13:44
+RB Player,"Shipley, Will PHI RB",NFC,0.99,2025-09-03 13:44
+WR Player,"Allen, Keenan FA WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Jordan, Cameron NOS DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Nelson, Anthony TBB DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Pappoe, Owen ARI LB",NFC,1.0,2025-09-03 13:44
+CB Player,"Carson, Caelen DAL CB",NFC,0.94,2025-09-03 13:44
+S Player,"Bullock, Calen HOU S",AFC,0.98,2025-09-03 13:44
+Rank,178,,,2025-09-03 13:44
+RB Player,"Estime, Audric DEN RB",AFC,0.99,2025-09-03 13:44
+WR Player,"Vele, Devaughn DEN WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Loudermilk, Isaiahh PIT DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Paschal, Josh DET DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Gibbens, Jack NEP LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Lassiter, Kamari HOU CB",AFC,0.94,2025-09-03 13:44
+S Player,"Johnson, Antonio JAC S",AFC,0.98,2025-09-03 13:44
+Rank,179,,,2025-09-03 13:44
+RB Player,"Giddens, DJ IND RB",NFC,0.98,2025-09-03 13:44
+WR Player,"Wicks, Dontayvion GBP WR",AFC,1.8,2025-09-03 13:44
+DT Player,"Harrison, Zach ATL DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Golston, Chauncey NYG DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Reese, Otis TEN LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Revel, Shavon DAL CB",AFC,0.94,2025-09-03 13:44
+S Player,"Winston, Kevin TEN S",AFC,0.95,2025-09-03 13:44
+Rank,180,,,2025-09-03 13:44
+RB Player,"Mitchell, Keaton BAL RB",AFC,0.98,2025-09-03 13:44
+WR Player,"Williams, Kyle NEP WR",NFC,1.79,2025-09-03 13:44
+DT Player,"Nunez-Roches, Rakeem NYG DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Dupree, Bud LAC DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Rodriguez, Malcolm DET LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Morrison, Benjamin TBB CB",NFC,0.9,2025-09-03 13:44
+S Player,"Mustapha, Malik SFO S",NFC,0.94,2025-09-03 13:44
+Rank,181,,,2025-09-03 13:44
+RB Player,"Neal, Devin NOS RB",AFC,0.98,2025-09-03 13:44
+WR Player,"Wilson, Roman PIT WR",AFC,1.75,2025-09-03 13:44
+DT Player,"Taylor, Leonard NYJ DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Wise, Deatrich WAS DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Martin, Nick SFO LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Porter, Darien LVR CB",NFC,0.9,2025-09-03 13:44
+S Player,"Winston, Kevin TEN S",NFC,0.94,2025-09-03 13:44
+Rank,182,,,2025-09-03 13:44
+RB Player,"Smith, Brashard KCC RB",AFC,0.98,2025-09-03 13:44
+WR Player,"Polk, Ja'Lynn NEP WR",NFC,1.69,2025-09-03 13:44
+DT Player,"Jones, D.J. DEN DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Clemons, Micheal NYJ DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Liufau, Marist DAL LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Revel, Shavon DAL CB",NFC,0.9,2025-09-03 13:44
+S Player,"Woodson, Craig NEP S",AFC,0.94,2025-09-03 13:44
+Rank,183,,,2025-09-03 13:44
+RB Player,"Mafah, Phil DAL RB",NFC,0.97,2025-09-03 13:44
+WR Player,"Wilson, Roman PIT WR",NFC,1.65,2025-09-03 13:44
+DT Player,"Wharton, Tershawn CAR DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Gross-Matos, Yetur SFO DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Speights, Omar LAR LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Ransaw, Caleb JAC CB",NFC,0.9,2025-09-03 13:44
+S Player,"Williams, Evan GBP S",AFC,0.94,2025-09-03 13:44
+Rank,184,,,2025-09-03 13:44
+RB Player,"Hunter, Jarquez LAR RB",NFC,0.96,2025-09-03 13:44
+WR Player,"Mims, Marvin DEN WR",NFC,1.64,2025-09-03 13:44
+DT Player,"Williams, Milton NEP DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Gardeck, Dennis JAC DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Mosley, C.J. FA LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Smith, Jaylin HOU CB",NFC,0.9,2025-09-03 13:44
+S Player,"Bowman, Billy ATL S",NFC,0.93,2025-09-03 13:44
+Rank,185,,,2025-09-03 13:44
+RB Player,"Etienne, Trevor CAR RB",NFC,0.95,2025-09-03 13:44
+WR Player,"Reed, Jayden GBP WR",NFC,1.59,2025-09-03 13:44
+DT Player,"Settle, Tim HOU DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Booker, Austin CHI DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Williams, James TEN LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Strong, Dorian BUF CB",NFC,0.9,2025-09-03 13:44
+S Player,"Sanker, Jonas NOS S",AFC,0.93,2025-09-03 13:44
+Rank,186,,,2025-09-03 13:44
+RB Player,"Gordon, Ollie MIA RB",NFC,0.95,2025-09-03 13:44
+WR Player,"Tolbert, Jalen DAL WR",NFC,1.59,2025-09-03 13:44
+DT Player,"Fatukasi, Foley HOU DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Williams, Sam DAL DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Barnes, Zaire NYJ LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Thomas, Azareye'h NYJ CB",NFC,0.9,2025-09-03 13:44
+S Player,"Ransom, Lathan CAR S",NFC,0.9,2025-09-03 13:44
+Rank,187,,,2025-09-03 13:44
+RB Player,"Brooks, Tahj CIN RB",NFC,0.94,2025-09-03 13:44
+WR Player,"Corley, Malachi NYJ WR",NFC,1.51,2025-09-03 13:44
+DT Player,"Pharms, Jeremiah NEP DT",AFC,1.0,2025-09-03 13:44
+DE Player,"Davenport, Marcus DET DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Diabate, Mohamoud CLE LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Williams, Nohl KCC CB",NFC,0.9,2025-09-03 13:44
+S Player,"Sanker, Jonas NOS S",NFC,0.9,2025-09-03 13:44
+Rank,188,,,2025-09-03 13:44
+RB Player,"Smith, Brashard KCC RB",NFC,0.94,2025-09-03 13:44
+WR Player,"Hyatt, Jalin NYG WR",NFC,1.5,2025-09-03 13:44
+DT Player,"Williams, Tyleik DET DT",NFC,0.99,2025-09-03 13:44
+DE Player,"Elliss, Jonah DEN DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Miller, Ventrell JAC LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Stout, Upton SFO CB",NFC,0.9,2025-09-03 13:44
+S Player,"Moore, Malachi NYJ S",NFC,0.9,2025-09-03 13:44
+Rank,189,,,2025-09-03 13:44
+RB Player,"Monangai, Kyle CHI RB",AFC,0.94,2025-09-03 13:44
+WR Player,"Hyatt, Jalin NYG WR",AFC,1.5,2025-09-03 13:44
+DT Player,"Smith, Maason JAC DT",NFC,0.99,2025-09-03 13:44
+DE Player,"Ogbah, Emmanuel JAC DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Britt, K.J. MIA LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Amos, Trey WAS CB",NFC,0.9,2025-09-03 13:44
+S Player,"Jackson, Dan DET S",NFC,0.9,2025-09-03 13:44
+Rank,190,,,2025-09-03 13:44
+RB Player,"Giddens, DJ IND RB",AFC,0.94,2025-09-03 13:44
+WR Player,"Burton, Jermaine CIN WR",NFC,1.47,2025-09-03 13:44
+DT Player,"Turner, Kobie LAR DT",NFC,0.98,2025-09-03 13:44
+DE Player,"Hoecht, Michael BUF DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Campbell, De'Vondre FA LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Parrish, Jacob TBB CB",NFC,0.9,2025-09-03 13:44
+S Player,"Reed, Jaylen HOU S",NFC,0.9,2025-09-03 13:44
+Rank,191,,,2025-09-03 13:44
+RB Player,"Hunter, Jarquez LAR RB",AFC,0.94,2025-09-03 13:44
+WR Player,"Downs, Josh IND WR",AFC,1.43,2025-09-03 13:44
+DT Player,"Carter, DeWayne BUF DT",AFC,0.98,2025-09-03 13:44
+DE Player,"Browning, Baron ARI DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Walker, Anthony TBB LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Morrison, Benjamin TBB CB",AFC,0.9,2025-09-03 13:44
+S Player,"Trader, Dante MIA S",NFC,0.9,2025-09-03 13:44
+Rank,192,,,2025-09-03 13:44
+RB Player,"Shipley, Will PHI RB",AFC,0.94,2025-09-03 13:44
+WR Player,"Franklin, Troy DEN WR",NFC,1.38,2025-09-03 13:44
+DT Player,"Ojomo, Moro PHI DT",AFC,0.98,2025-09-03 13:44
+DE Player,"Tryon, Joe CLE DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Roberts, Elandon LVR LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Porter, Darien LVR CB",AFC,0.9,2025-09-03 13:44
+S Player,"Woodson, Craig NEP S",NFC,0.9,2025-09-03 13:44
+Rank,193,,,2025-09-03 13:44
+RB Player,"Martinez, Damien SEA RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Franklin, Troy DEN WR",AFC,1.38,2025-09-03 13:44
+DT Player,"Smith, Maason JAC DT",AFC,0.98,2025-09-03 13:44
+DE Player,"Isaac, Adisa BAL DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Tranquill, Drue KCC LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Williams, Nohl KCC CB",AFC,0.9,2025-09-03 13:44
+S Player,"Mickens, R.J. LAC S",NFC,0.9,2025-09-03 13:44
+Rank,194,,,2025-09-03 13:44
+RB Player,"Larison, Lan NEP RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Robinson, Wan'Dale NYG WR",AFC,1.38,2025-09-03 13:44
+DT Player,"Turner, Shemar CHI DT",NFC,0.97,2025-09-03 13:44
+DE Player,"Kamara, Mohamed MIA DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Reeder, Troy LAR LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Stout, Upton SFO CB",AFC,0.9,2025-09-03 13:44
+S Player,"Jackson, Dan DET S",AFC,0.9,2025-09-03 13:44
+Rank,195,,,2025-09-03 13:44
+RB Player,"Allen, LeQuint JAC RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Dell, Tank HOU WR",AFC,1.36,2025-09-03 13:44
+DT Player,"Williams, Tyleik DET DT",AFC,0.97,2025-09-03 13:44
+DE Player,"Wright, Alex CLE DE",NFC,1.0,2025-09-03 13:44
+LB Player,"Barnes, Derrick DET LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Amos, Trey WAS CB",AFC,0.9,2025-09-03 13:44
+S Player,"Moore, Malachi NYJ S",AFC,0.9,2025-09-03 13:44
+Rank,196,,,2025-09-03 13:44
+RB Player,"Monangai, Kyle CHI RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Williams, Kyle NEP WR",AFC,1.35,2025-09-03 13:44
+DT Player,"Pegues, JJ LVR DT",NFC,0.94,2025-09-03 13:44
+DE Player,"Elliss, Jonah DEN DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Dennis, SirVocea TBB LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Parrish, Jacob TBB CB",AFC,0.9,2025-09-03 13:44
+S Player,"Reed, Jaylen HOU S",AFC,0.9,2025-09-03 13:44
+Rank,197,,,2025-09-03 13:44
+RB Player,"Croskey-Merritt, Jacory WAS RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Noel, Jaylin HOU WR",NFC,1.33,2025-09-03 13:44
+DT Player,"Alexander, Darius NYG DT",NFC,0.94,2025-09-03 13:44
+DE Player,"Armstrong, Dorance WAS DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Wilson, Mack ARI LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Ransaw, Caleb JAC CB",AFC,0.9,2025-09-03 13:44
+S Player,"Bowman, Billy ATL S",AFC,0.9,2025-09-03 13:44
+Rank,198,,,2025-09-03 13:44
+RB Player,"Mullings, Kalel TEN RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Tillman, Cedric CLE WR",NFC,1.33,2025-09-03 13:44
+DT Player,"Sanders, T.J. BUF DT",AFC,0.94,2025-09-03 13:44
+DE Player,"Ogbah, Emmanuel JAC DE",AFC,1.0,2025-09-03 13:44
+LB Player,"King, Kobe MIN LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Burke, Denzel ARI CB",AFC,0.9,2025-09-03 13:44
+S Player,"* Castro, Sebastian PIT S",AFC,0.9,2025-09-03 13:44
+Rank,199,,,2025-09-03 13:44
+RB Player,"Sanders, Raheim LAC RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Corley, Malachi NYJ WR",AFC,1.33,2025-09-03 13:44
+DT Player,"Norman-Lott, Omarr KCC DT",AFC,0.94,2025-09-03 13:44
+DE Player,"Williams, Sam DAL DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Winters, Dee SFO LB",AFC,1.0,2025-09-03 13:44
+CB Player,"Thomas, Azareye'h NYJ CB",AFC,0.9,2025-09-03 13:44
+S Player,"Trader, Dante MIA S",AFC,0.9,2025-09-03 13:44
+Rank,200,,,2025-09-03 13:44
+RB Player,"Edwards, Donovan NYJ RB",NFC,0.9,2025-09-03 13:44
+WR Player,"McCaffrey, Luke WAS WR",NFC,1.31,2025-09-03 13:44
+DT Player,"Alexander, Darius NYG DT",AFC,0.94,2025-09-03 13:44
+DE Player,"Booker, Austin CHI DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Eichenberg, Tommy LVR LB",AFC,0.99,2025-09-03 13:44
+S Player,"Ransom, Lathan CAR S",AFC,0.9,2025-09-03 13:44
+Rank,201,,,2025-09-03 13:44
+RB Player,"Yarns, Marcus NOS RB",NFC,0.9,2025-09-03 13:44
+WR Player,"Robinson, Wan'Dale NYG WR",NFC,1.3,2025-09-03 13:44
+DT Player,"Wingo, Mekhi DET DT",AFC,0.94,2025-09-03 13:44
+DE Player,"McGuire, Isaiah CLE DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Pace, Ivan MIN LB",NFC,0.98,2025-09-03 13:44
+Rank,202,,,2025-09-03 13:44
+RB Player,"Martinez, Damien SEA RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Nacua, Puka LAR WR",NFC,1.3,2025-09-03 13:44
+DT Player,"Dorlus, Brandon ATL DT",AFC,0.94,2025-09-03 13:44
+DE Player,"Johnson, DJ CAR DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Dennis, SirVocea TBB LB",NFC,0.98,2025-09-03 13:44
+Rank,203,,,2025-09-03 13:44
+RB Player,"Mafah, Phil DAL RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Chism, Efton NEP WR",AFC,1.3,2025-09-03 13:44
+DT Player,"Black, Yahya PIT DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Paschal, Josh DET DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Pace, Ivan MIN LB",AFC,0.98,2025-09-03 13:44
+Rank,204,,,2025-09-03 13:44
+RB Player,"Croskey-Merritt, Jacory WAS RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Baker, Javon NEP WR",NFC,1.26,2025-09-03 13:44
+DT Player,"Broughton, Vernon NOS DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Gross-Matos, Yetur SFO DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Trotter Jr., Jeremiah PHI LB",AFC,0.98,2025-09-03 13:44
+Rank,205,,,2025-09-03 13:44
+RB Player,"Gordon, Ollie MIA RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Noel, Jaylin HOU WR",AFC,1.25,2025-09-03 13:44
+DT Player,"Hamilton, Ty LAR DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Ojulari, BJ ARI DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Paul, Chris LAR LB",AFC,0.97,2025-09-03 13:44
+Rank,206,,,2025-09-03 13:44
+RB Player,"Brooks, Tahj CIN RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Mims, Marvin DEN WR",AFC,1.25,2025-09-03 13:44
+DT Player,"Jackson, Cam CAR DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Okoronkwo, Ogbonnia FA DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Simon, Cody ARI LB",AFC,0.95,2025-09-03 13:44
+Rank,207,,,2025-09-03 13:44
+RB Player,"Edwards, Donovan NYJ RB",AFC,0.9,2025-09-03 13:44
+WR Player,"McMillan, Jalen TBB WR",NFC,1.24,2025-09-03 13:44
+DT Player,"Jones, Sai'vion DEN DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Hunt, Jalyx PHI DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Knight, Tyrice SEA LB",NFC,0.94,2025-09-03 13:44
+Rank,208,,,2025-09-03 13:44
+RB Player,"Mullings, Kalel TEN RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Dell, Tank HOU WR",NFC,1.23,2025-09-03 13:44
+DT Player,"Walker, Deone BUF DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Jones, Patrick CAR DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Liufau, Marist DAL LB",NFC,0.94,2025-09-03 13:44
+Rank,209,,,2025-09-03 13:44
+RB Player,"Allen, LeQuint JAC RB",AFC,0.9,2025-09-03 13:44
+WR Player,"Burton, Jermaine CIN WR",AFC,1.22,2025-09-03 13:44
+DT Player,"Farmer, Joshua NEP DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Browning, Baron ARI DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Eichenberg, Tommy LVR LB",NFC,0.94,2025-09-03 13:44
+Rank,210,,,2025-09-03 13:44
+RB Player,"Larison, Lan NEP RB",AFC,0.9,2025-09-03 13:44
+WR Player,"TeSlaa, Isaac DET WR",NFC,1.21,2025-09-03 13:44
+DT Player,"Robinson, Ty PHI DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Davenport, Marcus DET DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Buchanan, Teddye BAL LB",AFC,0.94,2025-09-03 13:44
+Rank,211,,,2025-09-03 13:44
+WR Player,"Baker, Javon NEP WR",AFC,1.18,2025-09-03 13:44
+DT Player,"Norman-Lott, Omarr KCC DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Hoecht, Michael BUF DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Carter, Barrett CIN LB",AFC,0.94,2025-09-03 13:44
+Rank,212,,,2025-09-03 13:44
+WR Player,"Thornton, Tyquan KCC WR",AFC,1.14,2025-09-03 13:44
+DT Player,"Ingram-Dawkins, Tyrion MIN DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Miller, Von WAS DE",AFC,1.0,2025-09-03 13:44
+LB Player,"Knight, Tyrice SEA LB",AFC,0.94,2025-09-03 13:44
+Rank,213,,,2025-09-03 13:44
+WR Player,"Doubs, Romeo GBP WR",AFC,1.14,2025-09-03 13:44
+DT Player,"Caldwell, Jamaree LAC DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Scourton, Nic CAR DE",NFC,0.99,2025-09-03 13:44
+LB Player,"Bassa, Jeffrey KCC LB",NFC,0.9,2025-09-03 13:44
+Rank,214,,,2025-09-03 13:44
+WR Player,"Royals, Jalen KCC WR",NFC,1.13,2025-09-03 13:44
+DT Player,"Mills, Rylie SEA DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Scourton, Nic CAR DE",AFC,0.99,2025-09-03 13:44
+LB Player,"Simon, Cody ARI LB",NFC,0.9,2025-09-03 13:44
+Rank,215,,,2025-09-03 13:44
+WR Player,"Cowing, Jacob SFO WR",AFC,1.11,2025-09-03 13:44
+DT Player,"West, CJ SFO DT",NFC,0.9,2025-09-03 13:44
+DE Player,"Tuimoloau, JT IND DE",NFC,0.98,2025-09-03 13:44
+LB Player,"Buchanan, Teddye BAL LB",NFC,0.9,2025-09-03 13:44
+Rank,216,,,2025-09-03 13:44
+WR Player,"Jennings, Jauan SFO WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Ingram-Dawkins, Tyrion MIN DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Diaby, YaYa TBB DE",NFC,0.98,2025-09-03 13:44
+LB Player,"Dolac, Shaun LAR LB",NFC,0.9,2025-09-03 13:44
+Rank,217,,,2025-09-03 13:44
+WR Player,"Wilson, Michael ARI WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Broughton, Vernon NOS DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Isaac, Adisa BAL DE",AFC,0.98,2025-09-03 13:44
+LB Player,"Bruener, Carson PIT LB",NFC,0.9,2025-09-03 13:44
+Rank,218,,,2025-09-03 13:44
+WR Player,"Valdes-Scantling, Marquez SEA WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Hamilton, Ty LAR DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Diaby, YaYa TBB DE",AFC,0.98,2025-09-03 13:44
+LB Player,"Wohler, Hunter IND LB",NFC,0.9,2025-09-03 13:44
+Rank,219,,,2025-09-03 13:44
+WR Player,"Reynolds, Josh NYJ WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Hemingway, Tonka LVR DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Jackson, Landon BUF DE",AFC,0.97,2025-09-03 13:44
+LB Player,"Carter, Barrett CIN LB",NFC,0.9,2025-09-03 13:44
+Rank,220,,,2025-09-03 13:44
+WR Player,"Jefferson, Van TEN WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Caldwell, Jamaree LAC DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Hassanein, Ahmed DET DE",NFC,0.95,2025-09-03 13:44
+LB Player,"Kiser, Jack JAC LB",NFC,0.9,2025-09-03 13:44
+Rank,221,,,2025-09-03 13:44
+WR Player,"McCloud, Ray-Ray ATL WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Phillips, Jordan MIA DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Oladejo, Oluwafemi TEN DE",AFC,0.95,2025-09-03 13:44
+LB Player,"James, Shemar DAL LB",NFC,0.9,2025-09-03 13:44
+Rank,222,,,2025-09-03 13:44
+WR Player,"Smith-Schuster, JuJu KCC WR",NFC,1.1,2025-09-03 13:44
+DT Player,"West, CJ SFO DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Umanmielen, Princely CAR DE",NFC,0.94,2025-09-03 13:44
+LB Player,"King, Kobe MIN LB",NFC,0.9,2025-09-03 13:44
+Rank,223,,,2025-09-03 13:44
+WR Player,"Ayomanor, Elic TEN WR",NFC,1.1,2025-09-03 13:44
+DT Player,"Walker, Deone BUF DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Gillotte, Ashton KCC DE",NFC,0.94,2025-09-03 13:44
+LB Player,"Lindenberg, Cody LVR LB",NFC,0.9,2025-09-03 13:44
+Rank,224,,,2025-09-03 13:44
+WR Player,"Tucker, Tre LVR WR",AFC,1.1,2025-09-03 13:44
+DT Player,"Mills, Rylie SEA DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Oladejo, Oluwafemi TEN DE",NFC,0.94,2025-09-03 13:44
+LB Player,"Medrano, Kain WAS LB",NFC,0.9,2025-09-03 13:44
+Rank,225,,,2025-09-03 13:44
+WR Player,"Austin III, Calvin PIT WR",AFC,1.1,2025-09-03 13:44
+DT Player,"Jones, Sai'vion DEN DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Sorrell, Barryn GBP DE",AFC,0.94,2025-09-03 13:44
+LB Player,"Mondon, Smael PHI LB",NFC,0.9,2025-09-03 13:44
+Rank,226,,,2025-09-03 13:44
+WR Player,"Coker, Jalen CAR WR",AFC,1.1,2025-09-03 13:44
+DT Player,"Peebles, Aeneas BAL DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Swinson, Bradyn NEP DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Hyppolite, Ruben CHI LB",NFC,0.9,2025-09-03 13:44
+Rank,227,,,2025-09-03 13:44
+WR Player,"Patrick, Tim DET WR",AFC,1.1,2025-09-03 13:44
+DT Player,"Robinson, Ty PHI DT",AFC,0.9,2025-09-03 13:44
+DE Player,"Diggs, Fadil NOS DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Bassa, Jeffrey KCC LB",AFC,0.9,2025-09-03 13:44
+Rank,228,,,2025-09-03 13:44
+WR Player,"Melton, Bo GBP WR",AFC,1.1,2025-09-03 13:44
+DE Player,"Oliver, Collin GBP DE",NFC,0.9,2025-09-03 13:44
+LB Player,"James, Shemar DAL LB",AFC,0.9,2025-09-03 13:44
+Rank,229,,,2025-09-03 13:44
+WR Player,"Valdes-Scantling, Marquez SEA WR",AFC,1.1,2025-09-03 13:44
+DE Player,"Roberts, Elijah TBB DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Kiser, Jack JAC LB",AFC,0.9,2025-09-03 13:44
+Rank,230,,,2025-09-03 13:44
+WR Player,"Royals, Jalen KCC WR",AFC,1.09,2025-09-03 13:44
+DE Player,"Stewart, Josaiah LAR DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Mondon, Smael PHI LB",AFC,0.9,2025-09-03 13:44
+Rank,231,,,2025-09-03 13:44
+WR Player,"Bryant, Pat DEN WR",NFC,1.08,2025-09-03 13:44
+DE Player,"Burch, Jordan ARI DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Medrano, Kain WAS LB",AFC,0.9,2025-09-03 13:44
+Rank,232,,,2025-09-03 13:44
+WR Player,"Nacua, Puka LAR WR",AFC,1.08,2025-09-03 13:44
+DE Player,"Sawyer, Jack PIT DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Hyppolite, Ruben CHI LB",AFC,0.9,2025-09-03 13:44
+Rank,233,,,2025-09-03 13:44
+WR Player,"McMillan, Jalen TBB WR",AFC,1.08,2025-09-03 13:44
+DE Player,"Jackson, Landon BUF DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Lindenberg, Cody LVR LB",AFC,0.9,2025-09-03 13:44
+Rank,234,,,2025-09-03 13:44
+WR Player,"Iosivas, Andrei CIN WR",AFC,1.06,2025-09-03 13:44
+DE Player,"Walker, David TBB DE",NFC,0.9,2025-09-03 13:44
+LB Player,"Dolac, Shaun LAR LB",AFC,0.9,2025-09-03 13:44
+Rank,235,,,2025-09-03 13:44
+WR Player,"Ayomanor, Elic TEN WR",AFC,1.06,2025-09-03 13:44
+DE Player,"Sorrell, Barryn GBP DE",NFC,0.9,2025-09-03 13:44
+Rank,236,,,2025-09-03 13:44
+WR Player,"Wilson, Michael ARI WR",AFC,1.04,2025-09-03 13:44
+DE Player,"Kennard, Kyle LAC DE",NFC,0.9,2025-09-03 13:44
+Rank,237,,,2025-09-03 13:44
+WR Player,"McCaffrey, Luke WAS WR",AFC,1.04,2025-09-03 13:44
+DE Player,"Powell-Ryland, Antwaun PHI DE",AFC,0.9,2025-09-03 13:44
+Rank,238,,,2025-09-03 13:44
+WR Player,"Horton, Tory SEA WR",AFC,1.02,2025-09-03 13:44
+DE Player,"Swinson, Bradyn NEP DE",AFC,0.9,2025-09-03 13:44
+Rank,239,,,2025-09-03 13:44
+WR Player,"Horton, Tory SEA WR",NFC,1.01,2025-09-03 13:44
+DE Player,"Sawyer, Jack PIT DE",AFC,0.9,2025-09-03 13:44
+Rank,240,,,2025-09-03 13:44
+WR Player,"TeSlaa, Isaac DET WR",AFC,1.01,2025-09-03 13:44
+DE Player,"Kennard, Kyle LAC DE",AFC,0.9,2025-09-03 13:44
+Rank,241,,,2025-09-03 13:44
+WR Player,"Hollins, Mack NEP WR",NFC,1.0,2025-09-03 13:44
+DE Player,"Roberts, Elijah TBB DE",AFC,0.9,2025-09-03 13:44
+Rank,242,,,2025-09-03 13:44
+WR Player,"Johnson, Tyler NYJ WR",NFC,1.0,2025-09-03 13:44
+DE Player,"Umanmielen, Princely CAR DE",AFC,0.9,2025-09-03 13:44
+Rank,243,,,2025-09-03 13:44
+WR Player,"Reagor, Jalen LAC WR",NFC,1.0,2025-09-03 13:44
+DE Player,"Gillotte, Ashton KCC DE",AFC,0.9,2025-09-03 13:44
+Rank,244,,,2025-09-03 13:44
+WR Player,"Samuel, Curtis BUF WR",NFC,1.0,2025-09-03 13:44
+DE Player,"Burch, Jordan ARI DE",AFC,0.9,2025-09-03 13:44
+Rank,245,,,2025-09-03 13:44
+WR Player,"Neyor, Isaiah SFO WR",NFC,1.0,2025-09-03 13:44
+DE Player,"Hassanein, Ahmed DET DE",AFC,0.9,2025-09-03 13:44
+Rank,246,,,2025-09-03 13:44
+WR Player,"Brown, Dyami JAC WR",NFC,1.0,2025-09-03 13:44
+Rank,247,,,2025-09-03 13:44
+WR Player,"Westbrook-Ikhine, Nick MIA WR",NFC,1.0,2025-09-03 13:44
+Rank,248,,,2025-09-03 13:44
+WR Player,"Robinson, Demarcus SFO WR",NFC,1.0,2025-09-03 13:44
+Rank,249,,,2025-09-03 13:44
+WR Player,"Shepard, Sterling TBB WR",NFC,1.0,2025-09-03 13:44
+Rank,250,,,2025-09-03 13:44
+WR Player,"Dortch, Greg ARI WR",NFC,1.0,2025-09-03 13:44
+Rank,251,,,2025-09-03 13:44
+WR Player,"Brown, Noah WAS WR",NFC,1.0,2025-09-03 13:44
+Rank,252,,,2025-09-03 13:44
+WR Player,"Zaccheaus, Olamide CHI WR",NFC,1.0,2025-09-03 13:44
+Rank,253,,,2025-09-03 13:44
+WR Player,"Turpin, KaVontae DAL WR",NFC,1.0,2025-09-03 13:44
+Rank,254,,,2025-09-03 13:44
+WR Player,"Bourne, Kendrick NEP WR",NFC,1.0,2025-09-03 13:44
+Rank,255,,,2025-09-03 13:44
+WR Player,"Means, Bub NOS WR",NFC,1.0,2025-09-03 13:44
+Rank,256,,,2025-09-03 13:44
+WR Player,"Nailor, Jalen MIN WR",NFC,1.0,2025-09-03 13:44
+Rank,257,,,2025-09-03 13:44
+WR Player,"Metchie, John HOU WR",NFC,1.0,2025-09-03 13:44
+Rank,258,,,2025-09-03 13:44
+WR Player,"Bobo, Jake SEA WR",NFC,1.0,2025-09-03 13:44
+Rank,259,,,2025-09-03 13:44
+WR Player,"Moore, Rondale MIN WR",NFC,1.0,2025-09-03 13:44
+Rank,260,,,2025-09-03 13:44
+WR Player,"Renfrow, Hunter CAR WR",NFC,1.0,2025-09-03 13:44
+Rank,261,,,2025-09-03 13:44
+WR Player,"Walker, Devontez BAL WR",NFC,1.0,2025-09-03 13:44
+Rank,262,,,2025-09-03 13:44
+WR Player,"Woods, Robert PIT WR",AFC,1.0,2025-09-03 13:44
+Rank,263,,,2025-09-03 13:44
+WR Player,"Jefferson, Van TEN WR",AFC,1.0,2025-09-03 13:44
+Rank,264,,,2025-09-03 13:44
+WR Player,"Turpin, KaVontae DAL WR",AFC,1.0,2025-09-03 13:44
+Rank,265,,,2025-09-03 13:44
+WR Player,"Zaccheaus, Olamide CHI WR",AFC,1.0,2025-09-03 13:44
+Rank,266,,,2025-09-03 13:44
+WR Player,"Brown, Dyami JAC WR",AFC,1.0,2025-09-03 13:44
+Rank,267,,,2025-09-03 13:44
+WR Player,"Slayton, Darius NYG WR",AFC,1.0,2025-09-03 13:44
+Rank,268,,,2025-09-03 13:44
+WR Player,"Washington, Malik MIA WR",AFC,1.0,2025-09-03 13:44
+Rank,269,,,2025-09-03 13:44
+WR Player,"Williams, Mike FA WR",AFC,1.0,2025-09-03 13:44
+Rank,270,,,2025-09-03 13:44
+WR Player,"Hollins, Mack NEP WR",AFC,1.0,2025-09-03 13:44
+Rank,271,,,2025-09-03 13:44
+WR Player,"Boyd, Tyler FA WR",AFC,1.0,2025-09-03 13:44
+Rank,272,,,2025-09-03 13:44
+WR Player,"Moore, Rondale MIN WR",AFC,1.0,2025-09-03 13:44
+Rank,273,,,2025-09-03 13:44
+WR Player,"Robinson, Demarcus SFO WR",AFC,1.0,2025-09-03 13:44
+Rank,274,,,2025-09-03 13:44
+WR Player,"Badger, Elijhah KCC WR",AFC,1.0,2025-09-03 13:44
+Rank,275,,,2025-09-03 13:44
+WR Player,"Brooks, Ja'Corey WAS WR",AFC,1.0,2025-09-03 13:44
+Rank,276,,,2025-09-03 13:44
+WR Player,"Neyor, Isaiah SFO WR",AFC,1.0,2025-09-03 13:44
+Rank,277,,,2025-09-03 13:44
+WR Player,"Washington, Malik MIA WR",NFC,0.99,2025-09-03 13:44
+Rank,278,,,2025-09-03 13:44
+WR Player,"Bryant, Pat DEN WR",AFC,0.99,2025-09-03 13:44
+Rank,279,,,2025-09-03 13:44
+WR Player,"Walker, Devontez BAL WR",AFC,0.99,2025-09-03 13:44
+Rank,280,,,2025-09-03 13:44
+WR Player,"Rice, Brenden LAC WR",AFC,0.99,2025-09-03 13:44
+Rank,281,,,2025-09-03 13:44
+WR Player,"Thrash, Jamari CLE WR",NFC,0.98,2025-09-03 13:44
+Rank,282,,,2025-09-03 13:44
+WR Player,"Iosivas, Andrei CIN WR",NFC,0.98,2025-09-03 13:44
+Rank,283,,,2025-09-03 13:44
+WR Player,"Cowing, Jacob SFO WR",NFC,0.98,2025-09-03 13:44
+Rank,284,,,2025-09-03 13:44
+WR Player,"Douglas, Demario NEP WR",NFC,0.98,2025-09-03 13:44
+Rank,285,,,2025-09-03 13:44
+WR Player,"Williams, Savion GBP WR",NFC,0.98,2025-09-03 13:44
+Rank,286,,,2025-09-03 13:44
+WR Player,"Thrash, Jamari CLE WR",AFC,0.98,2025-09-03 13:44
+Rank,287,,,2025-09-03 13:44
+WR Player,"Hutchinson, Xavier HOU WR",AFC,0.98,2025-09-03 13:44
+Rank,288,,,2025-09-03 13:44
+WR Player,"White, Ricky SEA WR",NFC,0.96,2025-09-03 13:44
+Rank,289,,,2025-09-03 13:44
+WR Player,"Dike, Chimere TEN WR",AFC,0.96,2025-09-03 13:44
+Rank,290,,,2025-09-03 13:44
+WR Player,"Felton, Tai MIN WR",NFC,0.95,2025-09-03 13:44
+Rank,291,,,2025-09-03 13:44
+WR Player,"Dike, Chimere TEN WR",NFC,0.94,2025-09-03 13:44
+Rank,292,,,2025-09-03 13:44
+WR Player,"Vele, Devaughn DEN WR",NFC,0.94,2025-09-03 13:44
+Rank,293,,,2025-09-03 13:44
+WR Player,"Whittington, Jordan LAR WR",NFC,0.94,2025-09-03 13:44
+Rank,294,,,2025-09-03 13:44
+WR Player,"Rice, Brenden LAC WR",NFC,0.94,2025-09-03 13:44
+Rank,295,,,2025-09-03 13:44
+WR Player,"Restrepo, Xavier TEN WR",NFC,0.94,2025-09-03 13:44
+Rank,296,,,2025-09-03 13:44
+WR Player,"Thornton, Dont'e LVR WR",NFC,0.94,2025-09-03 13:44
+Rank,297,,,2025-09-03 13:44
+WR Player,"Washington, Tahj MIA WR",AFC,0.94,2025-09-03 13:44
+Rank,298,,,2025-09-03 13:44
+WR Player,"Whittington, Jordan LAR WR",AFC,0.94,2025-09-03 13:44
+Rank,299,,,2025-09-03 13:44
+WR Player,"Williams, Savion GBP WR",AFC,0.94,2025-09-03 13:44
+Rank,300,,,2025-09-03 13:44
+WR Player,"Smith, Ainias PHI WR",AFC,0.94,2025-09-03 13:44
+Rank,301,,,2025-09-03 13:44
+WR Player,"Mellott, Tommy LVR WR",NFC,0.93,2025-09-03 13:44
+Rank,302,,,2025-09-03 13:44
+WR Player,"Bond, Isaiah FA WR",AFC,0.93,2025-09-03 13:44
+Rank,303,,,2025-09-03 13:44
+WR Player,"Lane, Jaylin WAS WR",NFC,0.9,2025-09-03 13:44
+Rank,304,,,2025-09-03 13:44
+WR Player,"Bergen, Junior SFO WR",NFC,0.9,2025-09-03 13:44
+Rank,305,,,2025-09-03 13:44
+WR Player,"Lovett, Dominic DET WR",NFC,0.9,2025-09-03 13:44
+Rank,306,,,2025-09-03 13:44
+WR Player,"* Meeks, Jackson DET WR",NFC,0.9,2025-09-03 13:44
+Rank,307,,,2025-09-03 13:44
+WR Player,"Brooks, Ja'Corey WAS WR",NFC,0.9,2025-09-03 13:44
+Rank,308,,,2025-09-03 13:44
+WR Player,"Horn, Jimmy CAR WR",NFC,0.9,2025-09-03 13:44
+Rank,309,,,2025-09-03 13:44
+WR Player,"Johnson, Tez TBB WR",NFC,0.9,2025-09-03 13:44
+Rank,310,,,2025-09-03 13:44
+WR Player,"Taylor, Roc PIT WR",NFC,0.9,2025-09-03 13:44
+Rank,311,,,2025-09-03 13:44
+WR Player,"Nash, Nick ATL WR",NFC,0.9,2025-09-03 13:44
+Rank,312,,,2025-09-03 13:44
+WR Player,"Mumpfield, Konata LAR WR",NFC,0.9,2025-09-03 13:44
+Rank,313,,,2025-09-03 13:44
+WR Player,"Prather, Kaden BUF WR",NFC,0.9,2025-09-03 13:44
+Rank,314,,,2025-09-03 13:44
+WR Player,"Bond, Isaiah FA WR",NFC,0.9,2025-09-03 13:44
+Rank,315,,,2025-09-03 13:44
+WR Player,"Lambert-Smith, KeAndre LAC WR",NFC,0.9,2025-09-03 13:44
+Rank,316,,,2025-09-03 13:44
+WR Player,"Smith, Arian NYJ WR",NFC,0.9,2025-09-03 13:44
+Rank,317,,,2025-09-03 13:44
+WR Player,"Watkins, Jordan SFO WR",NFC,0.9,2025-09-03 13:44
+Rank,318,,,2025-09-03 13:44
+WR Player,"Horn, Jimmy CAR WR",AFC,0.9,2025-09-03 13:44
+Rank,319,,,2025-09-03 13:44
+WR Player,"Johnson, Tez TBB WR",AFC,0.9,2025-09-03 13:44
+Rank,320,,,2025-09-03 13:44
+WR Player,"Smith, Arian NYJ WR",AFC,0.9,2025-09-03 13:44
+Rank,321,,,2025-09-03 13:44
+WR Player,"Mumpfield, Konata LAR WR",AFC,0.9,2025-09-03 13:44
+Rank,322,,,2025-09-03 13:44
+WR Player,"Restrepo, Xavier TEN WR",AFC,0.9,2025-09-03 13:44
+Rank,323,,,2025-09-03 13:44
+WR Player,"Lovett, Dominic DET WR",AFC,0.9,2025-09-03 13:44
+Rank,324,,,2025-09-03 13:44
+WR Player,"Lane, Jaylin WAS WR",AFC,0.9,2025-09-03 13:44
+Rank,325,,,2025-09-03 13:44
+WR Player,"Taylor, Roc PIT WR",AFC,0.9,2025-09-03 13:44
+Rank,326,,,2025-09-03 13:44
+WR Player,"Felton, Tai MIN WR",AFC,0.9,2025-09-03 13:44
+Rank,327,,,2025-09-03 13:44
+WR Player,"Lambert-Smith, KeAndre LAC WR",AFC,0.9,2025-09-03 13:44
+Rank,328,,,2025-09-03 13:44
+WR Player,"Nash, Nick ATL WR",AFC,0.9,2025-09-03 13:44
+Rank,329,,,2025-09-03 13:44
+WR Player,"Prather, Kaden BUF WR",AFC,0.9,2025-09-03 13:44
+Rank,330,,,2025-09-03 13:44
+Rank,331,,,2025-09-03 13:44
+Rank,332,,,2025-09-03 13:44
+Rank,333,,,2025-09-03 13:44
+Rank,334,,,2025-09-03 13:44
+Rank,335,,,2025-09-03 13:44
+Rank,336,,,2025-09-03 13:44
+Rank,337,,,2025-09-03 13:44
+Rank,338,,,2025-09-03 13:44
+Rank,339,,,2025-09-03 13:44
+Rank,340,,,2025-09-03 13:44
+Rank,341,,,2025-09-03 13:44
+Rank,342,,,2025-09-03 13:44
+Rank,343,,,2025-09-03 13:44
+Rank,344,,,2025-09-03 13:44
+Rank,345,,,2025-09-03 13:44
+Rank,346,,,2025-09-03 13:44
+Rank,347,,,2025-09-03 13:44
+Rank,348,,,2025-09-03 13:44
+Rank,349,,,2025-09-03 13:44
+Rank,350,,,2025-09-03 13:44
+Rank,351,,,2025-09-03 13:44
+Rank,352,,,2025-09-03 13:44
+Rank,353,,,2025-09-03 13:44
+Rank,354,,,2025-09-03 13:44
+Rank,355,,,2025-09-03 13:44
+Rank,356,,,2025-09-03 13:44
+Rank,357,,,2025-09-03 13:44
+Rank,358,,,2025-09-03 13:44
+Rank,359,,,2025-09-03 13:44
+Rank,360,,,2025-09-03 13:44
+Rank,361,,,2025-09-03 13:44
+Rank,362,,,2025-09-03 13:44
+Rank,363,,,2025-09-03 13:44
+Rank,364,,,2025-09-03 13:44
+Rank,365,,,2025-09-03 13:44
+Rank,366,,,2025-09-03 13:44
+Rank,367,,,2025-09-03 13:44
+Rank,368,,,2025-09-03 13:44
+Rank,369,,,2025-09-03 13:44
+Rank,370,,,2025-09-03 13:44
+Rank,371,,,2025-09-03 13:44
+Rank,372,,,2025-09-03 13:44
+Rank,373,,,2025-09-03 13:44
+Rank,374,,,2025-09-03 13:44
+Rank,375,,,2025-09-03 13:44
+Rank,376,,,2025-09-03 13:44
+Rank,377,,,2025-09-03 13:44
+Rank,378,,,2025-09-03 13:44
+Rank,379,,,2025-09-03 13:44
+Rank,380,,,2025-09-03 13:44
+Rank,381,,,2025-09-03 13:44
+Rank,382,,,2025-09-03 13:44
+Rank,383,,,2025-09-03 13:44
+Rank,384,,,2025-09-03 13:44
+Rank,385,,,2025-09-03 13:44
+Rank,386,,,2025-09-03 13:44
+Rank,387,,,2025-09-03 13:44
+Rank,388,,,2025-09-03 13:44
+Rank,389,,,2025-09-03 13:44
+Rank,390,,,2025-09-03 13:44
+Rank,391,,,2025-09-03 13:44
+Rank,392,,,2025-09-03 13:44
+Rank,393,,,2025-09-03 13:44
+Rank,394,,,2025-09-03 13:44
+Rank,395,,,2025-09-03 13:44
+Rank,396,,,2025-09-03 13:44
+Rank,397,,,2025-09-03 13:44
+Rank,398,,,2025-09-03 13:44
+Rank,399,,,2025-09-03 13:44
+Rank,400,,,2025-09-03 13:44

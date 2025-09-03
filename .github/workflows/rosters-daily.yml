@@ -1,0 +1,64 @@
+name: Daily Rosters Ingest
+
+on:
+  schedule:
+    # Runs once per day at a fixed UTC time; adjust as desired
+    - cron: '23 6 * * *'
+  workflow_dispatch: {}
+
+# Needed to push updated CSVs back to the repo
+permissions:
+  contents: write
+
+concurrency:
+  group: rosters-daily
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests
+
+      - name: Create .ENV from secrets/variables
+        run: |
+          cat > .ENV <<'EOF'
+          mfl_api_key='${{ secrets.MFL_API_KEY }}'
+          mfl_league_id='${{ secrets.MFL_LEAGUE_ID }}'
+          # Prefer a repository variable so you can update this annually without code changes
+          current_season='${{ vars.CURRENT_SEASON }}'
+          EOF
+
+      - name: Run rosters ingest
+        run: python ingest/rosters.py
+
+      - name: Remove ephemeral .ENV
+        run: rm -f .ENV
+
+      - name: Commit and push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Rebase on latest to minimize push conflicts
+          git pull --rebase || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): update rosters on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
+            git push
+          fi

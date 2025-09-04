@@ -1,8 +1,10 @@
 """
-Fetches free agents for the current season and writes a timestamped CSV.
+Fetches free agents for the current season and writes CSVs.
 
 Reads config from .ENV (mfl_api_key, mfl_league_id, current_season).
-Output: data/freeAgents/freeAgents_{mmddyyyy hhmm}.csv
+Outputs:
+- data/freeAgents/freeAgents_{mmddyyyy hhmm}.csv (timestamped "as of" snapshot)
+- data/freeAgents/freeAgents_current.csv (rolling current snapshot, overwritten each run)
 """
 
 from __future__ import annotations
@@ -181,6 +183,9 @@ def save_free_agents_csv(df: pd.DataFrame, when: datetime) -> str:
     ts = when.strftime('%m%d%Y %H%M')
     out_path = os.path.join(out_dir, f'freeAgents_{ts}.csv')
     df.to_csv(out_path, index=False)
+    # Also write/overwrite a rolling current snapshot for convenience
+    current_path = os.path.join(out_dir, 'freeAgents_current.csv')
+    df.to_csv(current_path, index=False)
     return out_path
 
 

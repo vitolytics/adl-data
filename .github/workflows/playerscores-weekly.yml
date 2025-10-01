@@ -1,0 +1,73 @@
+name: Weekly Player Scores Ingest
+
+on:
+  schedule:
+    # Runs every Tuesday at 6:00 AM UTC (adjust as needed)
+    # Cron format: minute hour day-of-month month day-of-week
+    # 0 = Sunday, 1 = Monday, 2 = Tuesday, etc.
+    - cron: '0 6 * * 2'
+  workflow_dispatch: {}
+
+# Needed to push updated CSVs back to the repo
+permissions:
+  contents: write
+
+concurrency:
+  group: playerscores-weekly
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Ensure dependency manifest exists
+        run: |
+          if [ ! -f requirements.txt ]; then
+            echo "pandas" > requirements.txt
+            echo "requests" >> requirements.txt
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create .ENV from secrets/variables
+        run: |
+          cat > .ENV <<'EOF'
+          mfl_api_key='${{ secrets.MFL_API_KEY }}'
+          mfl_league_id='${{ secrets.MFL_LEAGUE_ID }}'
+          current_season='${{ vars.CURRENT_SEASON }}'
+          EOF
+
+      - name: Run player scores ingest (current week auto-detected)
+        run: python ingest/playerScores_current.py
+
+      - name: Remove ephemeral .ENV
+        run: rm -f .ENV
+
+      - name: Commit and push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Rebase on latest to minimize push conflicts
+          git pull --rebase || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): update player scores (current week) on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
+            git push
+          fi

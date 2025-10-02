@@ -55,6 +55,23 @@ This rewards both high scoring AND low variance. Higher is always better.
 | **consistency_score_last_season** | Full previous season | Year-over-year comparison |
 | **consistency_score_2seasons_ago** | Two seasons back | Long-term stability |
 
+### 4. Consistency Index Scores
+
+These indexes normalize consistency scores to easy-to-understand benchmarks:
+
+| Metric | Description | Interpretation |
+|--------|-------------|----------------|
+| **consistency_index_vs_avg** | Indexed to position average | 100 = average for position<br>110 = 10% better than average<br>90 = 10% worse than average |
+| **consistency_index_vs_replacement** | Indexed to replacement level (25th percentile) | 100 = replacement level<br>120 = 20% better than replacement<br>80 = below replacement level |
+
+**Example Use Cases**:
+- **consistency_index_vs_avg = 115**: This player's consistency is 15% better than the average player at their position
+- **consistency_index_vs_replacement = 140**: This player's consistency is 40% better than replacement level - a strong starter
+
+**Why Two Indexes?**
+- **vs_avg**: Helps identify elite consistency relative to all starters
+- **vs_replacement**: Helps identify players worth rostering vs. streaming/waiver options
+
 ## Understanding the Data
 
 ### Game Thresholds
@@ -90,7 +107,29 @@ consistent_rbs = (
 print(consistent_rbs)
 ```
 
-### Example 2: Identify Boom/Bust Players
+### Example 2: Find Above-Replacement Consistency Players
+
+```python
+import polars as pl
+
+df = pl.read_csv('data/performance/consistency_2024.csv')
+
+# Players with elite consistency vs replacement level
+above_replacement = (
+    df.filter(
+        (pl.col('consistency_index_vs_replacement') > 120) &  # 20% better than replacement
+        (pl.col('games_played') >= 8)  # Sufficient sample size
+    )
+    .sort('consistency_index_vs_replacement', descending=True)
+    .select(['player_name', 'position', 'mean_score', 'consistency_score_std', 
+             'consistency_index_vs_avg', 'consistency_index_vs_replacement'])
+    .head(20)
+)
+
+print(above_replacement)
+```
+
+### Example 3: Identify Boom/Bust Players
 
 ```python
 import polars as pl
@@ -109,7 +148,7 @@ boom_bust = (
 print(boom_bust[['player_name', 'position', 'mean_score', 'std_dev']])
 ```
 
-### Example 3: Compare Position Consistency
+### Example 4: Compare Position Consistency
 
 ```python
 import polars as pl

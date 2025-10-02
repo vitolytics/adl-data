@@ -12,9 +12,15 @@ Metrics calculated:
 8. Consistency Score - Last Season (full season)
 9. Consistency Score - 2 Seasons Ago (full season)
 10. Consistency Score - Season to Date (current season)
+11. Consistency Index vs Average (100 = position average)
+12. Consistency Index vs Replacement (100 = replacement level / 25th percentile)
 
 Consistency Score Formula: mean_score / (1 + std_dev)
 - Higher is better (rewards high scoring + low variance)
+
+Consistency Indexes:
+- Index vs Average: Normalized to 100 = position average, >100 = above average
+- Index vs Replacement: Normalized to 100 = replacement level (25th percentile), >100 = above replacement
 
 Output files:
 - data/performance/consistency_{YEAR}.csv (per season)
@@ -24,7 +30,7 @@ Environment (.ENV in repo root):
 - current_season
 
 Usage:
-    python ingest/performance.py
+    python models/consistency.py
 """
 
 from __future__ import annotations
@@ -273,6 +279,57 @@ def add_position_relative_metrics(df: pl.DataFrame) -> pl.DataFrame:
     return df
 
 
+def add_consistency_score_indexes(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Add indexed consistency scores where 100 = position average and 100 = replacement level.
+    
+    Indexes added:
+    - consistency_index_vs_avg: 100 = position average, >100 = better than average
+    - consistency_index_vs_replacement: 100 = replacement level (25th percentile), >100 = above replacement
+    """
+    if len(df) == 0:
+        return df
+    
+    # Filter to players with enough games and valid consistency scores
+    valid_players = df.filter(
+        (pl.col('games_played') >= 4) & 
+        pl.col('consistency_score_std').is_not_null()
+    )
+    
+    if len(valid_players) == 0:
+        # Add empty columns if no valid players
+        return df.with_columns([
+            pl.lit(None).cast(pl.Float64).alias('consistency_index_vs_avg'),
+            pl.lit(None).cast(pl.Float64).alias('consistency_index_vs_replacement')
+        ])
+    
+    # Calculate position-level consistency metrics
+    position_consistency = (
+        valid_players
+        .group_by('position')
+        .agg([
+            pl.col('consistency_score_std').mean().alias('pos_consistency_mean'),
+            pl.col('consistency_score_std').quantile(0.25).alias('pos_consistency_replacement')
+        ])
+    )
+    
+    # Join position stats back
+    df = df.join(position_consistency, on='position', how='left')
+    
+    # Calculate indexes:
+    # Index vs Average: (player_score / position_mean) * 100
+    # Index vs Replacement: (player_score / replacement_level) * 100
+    df = df.with_columns([
+        ((pl.col('consistency_score_std') / pl.col('pos_consistency_mean')) * 100).alias('consistency_index_vs_avg'),
+        ((pl.col('consistency_score_std') / pl.col('pos_consistency_replacement')) * 100).alias('consistency_index_vs_replacement')
+    ])
+    
+    # Drop intermediate columns
+    df = df.drop(['pos_consistency_mean', 'pos_consistency_replacement'])
+    
+    return df
+
+
 def calculate_performance_metrics(current_season: int, min_games_historical: int = 8, min_games_current: int = 4) -> pl.DataFrame:
     """
     Calculate all performance consistency metrics.
@@ -379,7 +436,8 @@ def calculate_performance_metrics(current_season: int, min_games_historical: int
     season_dfs = []
     for (season,), season_df in df.group_by('season'):
         season_with_relative = add_position_relative_metrics(season_df)
-        season_dfs.append(season_with_relative)
+        season_with_indexes = add_consistency_score_indexes(season_with_relative)
+        season_dfs.append(season_with_indexes)
     
     df = pl.concat(season_dfs)
     
@@ -390,7 +448,8 @@ def calculate_performance_metrics(current_season: int, min_games_historical: int
         'std_dev', 'coefficient_variation', 'floor_score', 'ceiling_score',
         'std_dev_vs_position', 'cv_vs_position',
         'value_score',
-        'consistency_score_std', 'consistency_score_trailing_10', 'consistency_score_trailing_5',
+        'consistency_score_std', 'consistency_index_vs_avg', 'consistency_index_vs_replacement',
+        'consistency_score_trailing_10', 'consistency_score_trailing_5',
         'consistency_score_last_season', 'consistency_score_2seasons_ago'
     ]
     
@@ -459,7 +518,8 @@ def main():
     max_season = df['season'].max()
     latest = df.filter(pl.col('season') == max_season).head(10)
     print(latest.select(['player_name', 'position', 'games_played', 'mean_score', 
-                        'std_dev', 'coefficient_variation', 'value_score']))
+                        'consistency_score_std', 'consistency_index_vs_avg', 
+                        'consistency_index_vs_replacement', 'value_score']))
 
 
 if __name__ == '__main__':

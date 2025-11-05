@@ -1,5 +1,4 @@
 # Env
-/.ENV
+.ENV
 *.ENV
 *.env
-.ENV

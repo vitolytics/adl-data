@@ -5,6 +5,7 @@ Outputs (data/rosters):
 - rosters_YYYY.csv                -> One-time per historical year; re-fetched only if league id changes or file missing
 - rosters_YYYY.csv (current year) -> Appended daily with an 'as_of' column (ISO date string)
 - rosters_current.csv             -> Overwritten each run with the latest current-season snapshot
+- rosters_{mmddyyyy hhmm}.csv     -> Timestamped snapshot (stored in snapshots/ subfolder)
 
 Environment (.ENV in repo root):
 - mfl_api_key
@@ -244,6 +245,19 @@ def save_current_snapshot(df: pd.DataFrame, season: int, as_of: str) -> str:
     return out
 
 
+def save_timestamped_snapshot(df: pd.DataFrame, season: int, when: datetime) -> str:
+    """Save a timestamped snapshot in the snapshots/ subfolder."""
+    snapshots_dir = os.path.join(_rosters_dir(), 'snapshots')
+    _ensure_dir(snapshots_dir)
+    ts = when.strftime('%m%d%Y %H%M')
+    out = os.path.join(snapshots_dir, f'rosters_{ts}.csv')
+    df = df.copy()
+    df['season'] = int(season)
+    df['as_of'] = when.date().isoformat()
+    df.to_csv(out, index=False)
+    return out
+
+
 def append_current_year_timeseries(df: pd.DataFrame, season: int, as_of: str) -> str:
     out = os.path.join(_rosters_dir(), f'rosters_{season}.csv')
     df = df.copy()
@@ -325,6 +339,7 @@ def run(league_id: str, api_key: str, current_season: int) -> None:
 
     # Current season: always refresh snapshot and append to time series with as_of
     today = date.today().isoformat()
+    now = datetime.now()
     print(f"Fetching current season {current_season} rosters...")
     try:
         data = fetch_rosters(current_season, league_id, api_key)
@@ -333,8 +348,10 @@ def run(league_id: str, api_key: str, current_season: int) -> None:
             print("  no data returned for current season.")
         else:
             snap = save_current_snapshot(df, current_season, today)
+            timestamped = save_timestamped_snapshot(df, current_season, now)
             roll = append_current_year_timeseries(df, current_season, today)
             print(f"  saved snapshot: {snap}")
+            print(f"  saved timestamped: {timestamped}")
             print(f"  updated timeseries: {roll}")
     except RateLimitError as rle:
         print(f"Rate limit encountered at season {rle.year}. Exiting early.")

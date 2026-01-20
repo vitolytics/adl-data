@@ -19793,7 +19793,7 @@ year,name,draft_team,stats_global_id,position,id,team,draft_year,twitter_usernam
 2025,"Flacco, Joe",BAL,216342,QB,9064,CIN,2008,TeamFlacco,1250697,8795,,,4677,15,5648,Delaware,245,78,18,1,64797df2-efd3-4b27-86ee-1d48f7edb09f,474699600,JoeFlacco,11252
 2025,"O'Connell, Kevin",NEP,227167,Coach,9151,MIN,2008,,1245617,8871,,,4710,8,5655,San Diego State,225,77,31,3,bf321d58-6ad7-45e1-bf8f-4b4719f78f72,485845200,kevino'connell/371,11328
 2025,"Johnson, Josh",TBB,273278,QB,9207,WAS,2008,,1325808,8937,,,4706,14,5653,San Diego,214,75,25,5,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,516517200,joshjohnson/264,11394
-2025,"Harbaugh, John",FA,0,Coach,9298,FA,0,,,450948,,,,,,,,,,,bf49a80f-9733-453e-8dca-7b0146e92cff,,,
+2025,"Harbaugh, John",FA,0,Coach,9298,NYG,0,,,450948,,,,,,,,,,,bf49a80f-9733-453e-8dca-7b0146e92cff,,,
 2025,"Morris, Raheem",FA,0,Coach,9424,FA,0,,,389,,,,,,,,,,,0396a63c-719f-412a-a49b-ac4fa431761c,210574800,,
 2025,"Stafford, Matthew",DET,323205,QB,9431,LAR,2009,Staff_9,1114942,9265,6038,,5132,9,5971,Georgia,214,75,1,1,ade43b1a-0601-4672-83b6-d246bc066a19,571208400,matthewstafford/79860,12483
 2025,"Morstead, Thomas",NOS,286840,PN,9596,SFO,2009,thomasmorstead,520362,9428,,,5382,7,6301,Southern Methodist,225,76,28,5,e5371625-0c83-4f1f-9252-c7e0b6bc616e,510642000,thomasmorstead/71407,12701
@@ -22162,3 +22162,4 @@ year,name,draft_team,stats_global_id,position,id,team,draft_year,twitter_usernam
 2025,"Woodard, Jackson",FA,0,LB,17449,MIA,2025,,,,,R,,,18726,,,,,,,1025582400,,4685637
 2025,"Downs, Ethan",FA,0,DE,17450,KCC,2025,,,,,R,,40,18677,,,,,,,832395600,,4431534
 2025,"Harvey, Jahfari",FA,0,DE,17451,LVR,2025,,,,,R,,91,19113,,,,,,,940395600,,4427408
+2025,"Neal, Elias",FA,0,LB,17456,LAR,2023,,3133475,41529,,,,58,18386,,,,,,,1000184400,,4428098

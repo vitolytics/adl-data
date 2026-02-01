@@ -21180,7 +21180,7 @@ year,name,draft_team,stats_global_id,position,id,team,draft_year,twitter_usernam
 2025,"Boutte, Kayshon",NEP,0,WR,16193,NEP,2023,,3163170,40224,,,,9,16795,LSU,197,71,10,6,9c054866-5e6c-460b-9af3-ebf91e7d0a3e,1020744000,,
 2025,"Rice, Rashee",KCC,0,WR,16194,KCC,2023,,3124978,40084,,,,4,16963,SMU,204,73,24,2,cbd73c09-da07-48b0-a0d6-f248dfa631b6,956379600,,4428331
 2025,"Wicks, Dontayvion",GBP,0,WR,16195,GBP,2023,,3122375,,,,,13,16658,Virginia,206,73,24,5,ea3d1393-8c3b-4e81-a519-f636d28d692e,992667600,,
-2025,"Perry, A.T.",NOS,0,WR,16196,FA,2023,,2965235,40242,,,,87,16802,Wake Forest,205,77,18,6,f6986d22-e3bb-4509-9309-90d92c01437a,940914000,,4362019
+2025,"Perry, A.T.",NOS,0,WR,16196,PIT,2023,,2965235,40242,,,,87,16802,Wake Forest,205,77,18,6,f6986d22-e3bb-4509-9309-90d92c01437a,940914000,,4362019
 2025,"Mingo, Jonathan",CAR,0,WR,16197,DAL,2023,,3126905,40073,,,,81,16937,Ole Miss,220,74,8,2,6cf0c82d-87e4-4cfc-8475-77667ed92796,987742800,,4426485
 2025,"Jarrett, Rakim",FA,0,WR,16198,PIT,2023,,3166901,40671,,,,18,16709,Maryland,192,72,,,39428290-f1b8-11ed-9bf1-7fd77a26dc1f,980312400,,4429006
 2025,"Palmer, Trey",TBB,0,WR,16199,NOS,2023,,3122273,40223,,,,10,16936,Nebraska,190,73,14,6,9a011241-f4b3-403a-af70-c9cdfd177054,986187600,,4426407
@@ -22168,3 +22168,4 @@ year,name,draft_team,stats_global_id,position,id,team,draft_year,twitter_usernam
 2025,"Hafley, Jeff",FA,0,Coach,17457,MIA,0,,,,,,,,,,,,,,,,,
 2025,"Minter, Jesse",FA,0,Coach,17458,BAL,0,,,,,,,,,,,,,,,422168400,,
 2025,"Brady, Joe",FA,0,Coach,17459,BUF,0,,,,,,,,,,,,,,,,,
+2025,"Monken, Todd",FA,0,Coach,17460,CLE,0,,,,,,,,,,,,,,,,,

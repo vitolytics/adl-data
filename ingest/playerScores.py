@@ -4,7 +4,7 @@ Fetches MFL player scores for a range of seasons and weeks and writes one CSV pe
 Rules:
 - Weekly files: data/playerScores/playerScores_{YEAR}_w{WEEK}.csv
 - Yearly file (combined across processed weeks): data/playerScores/playerScores_{YEAR}.csv
-- Weeks processed: 1–18 for all years (skips weeks that return no data)
+- Weeks processed: 1–18 for all years (skips weeks that return no data, or that MFL answers with a different week's scores)
 - Current season and week are detected from MFL (see season.py); the current season is capped at the current week
 - 5-second pause between week requests
 - A yearly CSV is only rewritten when every requested week was fetched successfully
@@ -232,8 +232,11 @@ def process_weeks_for_year(year: int, weeks: Iterable[int], league_id: str, api_
             print(f"Fetching player scores for {year} week {w}...")
             data = fetch_player_scores(year, w, league_id, api_key)
             df = normalize_player_scores(data, fallback_week=w)
-            if df is None or len(df) == 0:
-                print("  no data returned; skipping")
+            if len(df) > 0:
+                # MFL answers a request for a week past the season's last week with that last week's scores.
+                df = df[df['week'] == w]
+            if len(df) == 0:
+                print("  no data returned for this week; skipping")
             else:
                 print(f"  rows: {len(df)}")
                 save_weekly_csv(df, year, w)

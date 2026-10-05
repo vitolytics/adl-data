@@ -4,13 +4,12 @@ Fetches MFL players for a range of seasons and writes one CSV per year plus a co
 Rules:
 - Yearly files: data/players/player_{YEAR}.csv (includes a 'year' column)
 - Combined file: data/players/players_all.csv (includes a 'year' column)
-- Years processed: 2018 through current season (from .ENV)
+- Years processed: 2018 through current season (detected from MFL, see season.py)
 - 2-second pause between year requests
 
 Environment (.ENV in repo root):
 - mfl_api_key
 - mfl_league_id
-- current_season
 
 API host: https://api.myfantasyleague.com/{year}/export?TYPE=players&L=...&DETAILS=1&JSON=1
 """
@@ -23,6 +22,8 @@ from typing import Any, Dict, Iterable, List, Sequence
 
 import pandas as pd
 import requests
+
+from season import detect_current_season
 
 
 # -----------------------------
@@ -228,7 +229,7 @@ if __name__ == '__main__':
     env = _load_env(os.path.join(root, '.ENV'))
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
-    current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '2025').strip())
+    current_season = detect_current_season(league_id, api_key)
 
     years_to_process: Iterable[int] = range(2018, current_season + 1)
 

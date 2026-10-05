@@ -3,14 +3,13 @@ Fetches MFL salaries for a range of seasons and writes CSVs per season.
 
 Rules:
 - Historical years: data/salaries/salaries_{YEAR}_seasonEnd.csv
-- Current year (from .ENV current_season):
+- Current year (detected from MFL, see season.py):
     - Timestamped snapshot: data/salaries/salaries_{YEAR}_asof_{mm dd yyyy hh mm}.csv
     - Stable snapshot (overwritten every run): data/salaries/salaries_{YEAR}.csv
 
 Environment (.ENV in repo root):
 - mfl_api_key
 - mfl_league_id
-- current_season
 
 API host: https://api.myfantasyleague.com/{year}/export?TYPE=salaries&L=...&JSON=1
 """
@@ -24,6 +23,8 @@ from typing import Any, Dict, List, Iterable
 
 import requests
 import pandas as pd
+
+from season import detect_current_season
 
 
 def _repo_root() -> str:
@@ -178,11 +179,11 @@ def normalize_salaries(data: Dict[str, Any]) -> pd.DataFrame:
     return df
 
 
-def _rebuild_combined_salaries(out_dir: str) -> str | None:
+def _rebuild_combined_salaries(out_dir: str, current_season: int) -> str | None:
     """Rebuild data/salaries/salaries_all.csv.
 
     - For seasons before the current season: include exactly one file per season
-      in this preference order: stable (salaries_{YEAR}.csv) > seasonEnd > latest as-of.
+      in this preference order: seasonEnd > stable (salaries_{YEAR}.csv) > latest as-of.
     - For the current season: include all as-of snapshots and de-duplicate rows by
       (season, id, conference, contractYear, salary) after sorting by snapshot time,
       so we keep only the first time each unique combination appears.
@@ -190,13 +191,6 @@ def _rebuild_combined_salaries(out_dir: str) -> str | None:
     import glob
     import re
     from datetime import datetime as _dt
-
-    # Determine current season from .ENV
-    env = _load_env(os.path.join(_repo_root(), '.ENV'))
-    try:
-        current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '').strip())
-    except Exception:
-        current_season = None
 
     # Discover files and group by season
     files = sorted(glob.glob(os.path.join(out_dir, 'salaries_*.csv')))
@@ -247,7 +241,7 @@ def _rebuild_combined_salaries(out_dir: str) -> str | None:
 
     for year in sorted(by_year.keys()):
         info = by_year[year]
-        if current_season is not None and year == current_season:
+        if year == current_season:
             # Include all as-of snapshots for current season
             asofs = info.get('asofs', [])
             # Sort by timestamp ascending
@@ -272,10 +266,10 @@ def _rebuild_combined_salaries(out_dir: str) -> str | None:
         else:
             # Choose one file by preference for non-current seasons
             chosen_fp = None
-            if 'stable' in info:
-                chosen_fp = info['stable']
-            elif 'season_end' in info:
+            if 'season_end' in info:
                 chosen_fp = info['season_end']
+            elif 'stable' in info:
+                chosen_fp = info['stable']
             elif 'asofs' in info and info['asofs']:
                 asofs_sorted = sorted(info['asofs'], key=lambda t: (t[0] is None, t[0]))
                 chosen_fp = asofs_sorted[-1][1]
@@ -305,7 +299,7 @@ def _rebuild_combined_salaries(out_dir: str) -> str | None:
     combined = pd.concat(frames, ignore_index=True, sort=False)
 
     # For current season, de-duplicate rows across snapshots on key fields
-    if current_season is not None and 'season' in combined.columns and 'id' in combined.columns:
+    if 'season' in combined.columns and 'id' in combined.columns:
         key_cols = ['season', 'id']
         if 'conference' in combined.columns:
             key_cols.append('conference')
@@ -326,7 +320,8 @@ def _rebuild_combined_salaries(out_dir: str) -> str | None:
     return out_path
 
 
-def save_salaries_csv(df: pd.DataFrame, year: int, is_current_year: bool, when: datetime | None = None) -> str:
+def save_salaries_csv(df: pd.DataFrame, year: int, current_season: int, when: datetime | None = None) -> str:
+    is_current_year = (int(year) == int(current_season))
     out_dir = os.path.join(_repo_root(), 'data', 'salaries')
     _ensure_dir(out_dir)
 
@@ -352,14 +347,14 @@ def save_salaries_csv(df: pd.DataFrame, year: int, is_current_year: bool, when: 
         print(f"Saved current-year stable snapshot: {stable_path}")
 
         # Update combined after saving
-        _rebuild_combined_salaries(out_dir)
+        _rebuild_combined_salaries(out_dir, current_season)
         return asof_path
     else:
         filename = f"salaries_{year}_seasonEnd.csv"
         out_path = os.path.join(out_dir, filename)
         df.to_csv(out_path, index=False, mode='w')
         # Update combined after saving
-        _rebuild_combined_salaries(out_dir)
+        _rebuild_combined_salaries(out_dir, current_season)
         return out_path
 
 
@@ -368,7 +363,7 @@ def process_season(year: int, league_id: str, api_key: str, current_year: int) -
     data = fetch_salaries(year, league_id, api_key)
     df = normalize_salaries(data)
     print(f"Fetched {len(df)} salary rows for {year}")
-    out_path = save_salaries_csv(df, year, is_current_year=(year == current_year))
+    out_path = save_salaries_csv(df, year, current_year)
     print(f"Saved CSV: {out_path}")
     return df
 
@@ -389,7 +384,7 @@ if __name__ == '__main__':
     env = _load_env(os.path.join(root, '.ENV'))
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
-    current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '2025').strip())
+    current_season = detect_current_season(league_id, api_key)
 
     # Default range mirrors other ingestors: from 2018 through current season inclusive
     years_to_process = range(2018, current_season + 1)

@@ -1,8 +1,8 @@
 """
 Fetches free agents for the current season and writes CSVs.
 
-Reads config from .ENV (mfl_api_key, mfl_league_id, current_season).
-Outputs:
+Reads config from .ENV (mfl_api_key, mfl_league_id); the season is detected from MFL (see season.py).
+Outputs (each row carries a 'season' column):
 - data/freeAgents/freeAgents_{mmddyyyy hhmm}.csv (timestamped "as of" snapshot)
 - data/freeAgents/freeAgents_current.csv (rolling current snapshot, overwritten each run)
 """
@@ -17,6 +17,8 @@ from typing import Any, Dict, List
 
 import requests
 import pandas as pd
+
+from season import detect_current_season
 
 
 def _repo_root() -> str:
@@ -192,13 +194,14 @@ def save_free_agents_csv(df: pd.DataFrame, when: datetime) -> str:
 def main():
     root = _repo_root()
     env = _load_env(os.path.join(root, '.ENV'))
-    year = env.get('current_season') or env.get('CURRENT_SEASON') or '2025'
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
+    year = detect_current_season(league_id, api_key)
 
     print(f"Fetching free agents for season {year}, league {league_id}...")
     data = fetch_free_agents(year, league_id, api_key)
     df = normalize_free_agents(data)
+    df.insert(0, 'season', int(year))
     print(f"Free agents fetched: {len(df)} rows")
 
     out_path = save_free_agents_csv(df, datetime.now())

@@ -4,7 +4,7 @@ Fetches MFL transactions for a range of seasons and writes one CSV per season.
 Defaults:
 - League ID: 60206
 - TRANS_TYPE: * (all transactions)
-- Seasons: 2018–2025 inclusive
+- Seasons: 2018 through the current season (detected from MFL, see season.py)
 
 Output: data/transactions/transactions_{season}.csv
 """
@@ -216,7 +216,29 @@ def process_multiple_years(years: Iterable[int], league_id: str = '60206', api_k
             time.sleep(3)
 
 
+def _load_env(env_path: str) -> Dict[str, str]:
+    """Load simple KEY = 'VAL' lines from .ENV without extra deps."""
+    result: Dict[str, str] = {}
+    if not os.path.exists(env_path):
+        return result
+    with open(env_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#') or '=' not in line:
+                continue
+            k, v = line.split('=', 1)
+            result[k.strip()] = v.strip().strip('"').strip("'")
+    return result
+
+
 if __name__ == '__main__':
-    # Default range to mirror other scripts (2018–2025 inclusive)
-    years_to_process = range(2018, 2026)
-    process_multiple_years(years_to_process)
+    from season import detect_current_season
+
+    env = _load_env(os.path.join(_repo_root(), '.ENV'))
+    league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
+    api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
+    current_season = detect_current_season(league_id, api_key)
+
+    # 2018 through the current season inclusive
+    years_to_process = range(2018, current_season + 1)
+    process_multiple_years(years_to_process, league_id, api_key)

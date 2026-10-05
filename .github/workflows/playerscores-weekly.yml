@@ -49,10 +49,9 @@ jobs:
           cat > .ENV <<'EOF'
           mfl_api_key='${{ secrets.MFL_API_KEY }}'
           mfl_league_id='${{ secrets.MFL_LEAGUE_ID }}'
-          current_season='${{ vars.CURRENT_SEASON }}'
           EOF
 
-      - name: Run player scores ingest (current week auto-detected)
+      - name: Run player scores ingest (all weeks of current season through current week)
         run: python ingest/playerScores_current.py
 
       - name: Remove ephemeral .ENV
@@ -68,6 +67,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore(data): update player scores (current week) on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
+            git commit -m "chore(data): update player scores (current season) on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
             git push
           fi

@@ -5,14 +5,13 @@ Rules:
 - Weekly files: data/playerScores/playerScores_{YEAR}_w{WEEK}.csv
 - Yearly file (combined across processed weeks): data/playerScores/playerScores_{YEAR}.csv
 - Weeks processed: 1–18 for all years (skips weeks that return no data)
-- Current season is capped by .ENV current_week (if provided)
+- Current season and week are detected from MFL (see season.py); the current season is capped at the current week
 - 5-second pause between week requests
+- A yearly CSV is only rewritten when every requested week was fetched successfully
 
 Environment (.ENV in repo root):
 - mfl_api_key
 - mfl_league_id
-- current_season
-- current_week
 
 API host: https://api.myfantasyleague.com/{year}/export?TYPE=playerScores&L=...&W=...&JSON=1
 """
@@ -166,6 +165,9 @@ def normalize_player_scores(data: Dict[str, Any], fallback_week: int | None = No
     for obj in items:
         if not isinstance(obj, dict):
             continue
+        # Unplayed weeks come back as a single placeholder with an empty id
+        if str(obj.get('id') or '').strip() == '':
+            continue
         row: Dict[str, Any] = {
             'id': str(obj.get('id')) if obj.get('id') is not None else None,
             'week': _safe_int(obj.get('week')) or fallback_week,
@@ -222,6 +224,7 @@ def save_yearly_csv(frames: Sequence[pd.DataFrame], year: int) -> str:
 
 
 def process_weeks_for_year(year: int, weeks: Iterable[int], league_id: str, api_key: str) -> List[pd.DataFrame]:
+    """Fetch and save each week. Any failure raises so callers never write a yearly file with missing weeks."""
     weekly_frames: List[pd.DataFrame] = []
     weeks_list = list(weeks)
     for idx, w in enumerate(weeks_list):
@@ -240,14 +243,14 @@ def process_weeks_for_year(year: int, weeks: Iterable[int], league_id: str, api_
             print(f"Rate limit encountered at season {rle.year} week {rle.week}. Exiting early.")
             raise
         except Exception as e:
-            print(f"Error processing {year} week {w}: {e}")
+            raise RuntimeError(f"Error processing {year} week {w}: {e}") from e
         # 5-second pacing between weeks (not after the last one)
         if idx < len(weeks_list) - 1:
             time.sleep(5)
     return weekly_frames
 
 
-def _default_weeks_for_year(year: int, current_year: int, current_week: int | None) -> List[int]:
+def default_weeks_for_year(year: int, current_year: int, current_week: int | None) -> List[int]:
     # Historical: always weeks 1–18
     if year < current_year:
         return list(range(1, 19))
@@ -257,27 +260,35 @@ def _default_weeks_for_year(year: int, current_year: int, current_week: int | No
     return list(range(1, cap + 1))
 
 
+def process_year(year: int, weeks: Iterable[int], league_id: str, api_key: str) -> str | None:
+    """Fetch the given weeks and rewrite the yearly CSV from them."""
+    weekly_frames = process_weeks_for_year(year, weeks, league_id, api_key)
+    if not weekly_frames:
+        print(f"No scores yet for {year}; yearly CSV not written.")
+        return None
+    out_path = save_yearly_csv(weekly_frames, year)
+    print(f"Saved yearly CSV: {out_path}")
+    return out_path
+
+
 if __name__ == '__main__':
+    from season import detect_current_season, detect_current_week
+
     root = _repo_root()
     env = _load_env(os.path.join(root, '.ENV'))
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
-    current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '2025').strip())
-    cw_raw = (env.get('current_week') or env.get('CURRENT_WEEK') or '').strip()
-    try:
-        current_week = int(cw_raw) if cw_raw else None
-    except Exception:
-        current_week = None
+    current_season = detect_current_season(league_id, api_key)
+    current_week = detect_current_week(current_season)
 
     # Years to process: from 2018 through current season inclusive (mirroring other ingesters)
     years_to_process = list(range(2018, current_season + 1))
 
     for y in years_to_process:
         try:
-            weeks = _default_weeks_for_year(y, current_season, current_week)
-            weekly_frames = process_weeks_for_year(y, weeks, league_id, api_key)
-            out_path = save_yearly_csv(weekly_frames, y)
-            print(f"Saved yearly CSV: {out_path}")
+            process_year(y, default_weeks_for_year(y, current_season, current_week), league_id, api_key)
         except RateLimitError as rle:
             print(f"Stopped due to rate limiting at season {rle.year} week {rle.week}. You can resume from this point.")
             break
+        except Exception as e:
+            print(f"{e}; yearly CSV for {y} left unchanged.")

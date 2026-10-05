@@ -2,15 +2,17 @@
 Fetch and persist MFL rosters for all seasons since 2018.
 
 Outputs (data/rosters):
-- rosters_YYYY.csv                -> One-time per historical year; re-fetched only if league id changes or file missing
+- rosters_YYYY.csv                -> One-time per historical year (final rosters); re-fetched only if league id changes or file missing
 - rosters_YYYY.csv (current year) -> Appended daily with an 'as_of' column (ISO date string)
+- rosters_YYYY_daily.csv          -> A completed season's daily time series, moved aside once the next season starts
 - rosters_current.csv             -> Overwritten each run with the latest current-season snapshot
 - rosters_{mmddyyyy hhmm}.csv     -> Timestamped snapshot (stored in snapshots/ subfolder)
 
 Environment (.ENV in repo root):
 - mfl_api_key
 - mfl_league_id
-- current_season
+
+The current season is detected from MFL (see season.py).
 
 API example:
 https://api.myfantasyleague.com/{year}/export?TYPE=rosters&L=...&APIKEY=...&JSON=1
@@ -28,6 +30,8 @@ from typing import Any, Dict, Iterable, List
 
 import pandas as pd
 import requests
+
+from season import detect_current_season
 
 
 # -------------------- utils --------------------
@@ -280,6 +284,24 @@ def append_current_year_timeseries(df: pd.DataFrame, season: int, as_of: str) ->
     return out
 
 
+def _is_daily_timeseries(path: str) -> bool:
+    """A season file written while that season was current carries an 'as_of' column."""
+    if not os.path.exists(path):
+        return False
+    try:
+        return 'as_of' in pd.read_csv(path, nrows=0).columns
+    except Exception:
+        return False
+
+
+def archive_daily_timeseries(season: int) -> str:
+    """Move a completed season's daily time series aside so rosters_{season}.csv can hold the final rosters."""
+    src = os.path.join(_rosters_dir(), f'rosters_{season}.csv')
+    dst = os.path.join(_rosters_dir(), f'rosters_{season}_daily.csv')
+    os.replace(src, dst)
+    return dst
+
+
 # -------------------- orchestration --------------------
 
 def _league_id_cache_path() -> str:
@@ -315,10 +337,13 @@ def run(league_id: str, api_key: str, current_season: int) -> None:
     if lid_changed:
         print(f"League ID changed or not cached (was: {cached_lid}); historical years will be re-fetched.")
 
-    # Historical seasons: fetch if missing or league id changed
+    # Historical seasons: fetch if missing, league id changed, or still holding the daily time series
     for y in _years_to_process(current_season):
         out_path = os.path.join(_rosters_dir(), f'rosters_{y}.csv')
-        if not lid_changed and os.path.exists(out_path):
+        if _is_daily_timeseries(out_path):
+            daily_path = archive_daily_timeseries(y)
+            print(f"Season {y} is complete; moved its daily time series to {daily_path} and fetching final rosters.")
+        elif not lid_changed and os.path.exists(out_path):
             print(f"Historical {y} exists; skipping.")
             continue
         print(f"Fetching rosters for {y}...")
@@ -368,6 +393,6 @@ if __name__ == '__main__':
     env = _load_env(os.path.join(root, '.ENV'))
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
-    current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '2025').strip())
+    current_season = detect_current_season(league_id, api_key)
 
     run(league_id=league_id, api_key=api_key, current_season=current_season)

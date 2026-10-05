@@ -3,12 +3,11 @@ Fetches MFL salary adjustments for a range of seasons and writes one CSV per sea
 
 Rules:
 - Historical years: data/salaryAdjustments/salaryAdjustment_{YEAR}_seasonEnd.csv
-- Current year (from .ENV current_season): data/salaryAdjustments/salaryAdjustment_{YEAR}_asof_{mm dd yyyy hh mm}.csv
+- Current year (detected from MFL, see season.py): data/salaryAdjustments/salaryAdjustment_{YEAR}_asof_{mm dd yyyy hh mm}.csv
 
 Environment (.ENV in repo root):
 - mfl_api_key
 - mfl_league_id
-- current_season
 
 API example: https://www46.myfantasyleague.com/2025/export?TYPE=salaryAdjustments&L=60206&APIKEY=&JSON=1
 """
@@ -22,6 +21,8 @@ from typing import Any, Dict, Iterable, List
 
 import pandas as pd
 import requests
+
+from season import detect_current_season
 
 
 def _repo_root() -> str:
@@ -179,7 +180,7 @@ if __name__ == '__main__':
     env = _load_env(os.path.join(root, '.ENV'))
     league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
     api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
-    current_season = int((env.get('current_season') or env.get('CURRENT_SEASON') or '2025').strip())
+    current_season = detect_current_season(league_id, api_key)
 
     # Default range mirrors other ingestors: from 2018 through current season inclusive
     years_to_process = range(2018, current_season + 1)

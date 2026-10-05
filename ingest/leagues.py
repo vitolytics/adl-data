@@ -451,6 +451,8 @@ if __name__ == "__main__":
     print(f"\nSample franchise data:")
     print(franchises_df[['name', 'owner_name', 'division_name', 'conference_name']].head())
     '''
-    # Multiple years
-    years_to_process = range(2018, 2026)
+    from season import detect_current_season
+
+    # 2018 through the current season inclusive
+    years_to_process = range(2018, detect_current_season("60206") + 1)
     process_multiple_years(years_to_process)

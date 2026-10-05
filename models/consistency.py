@@ -27,7 +27,10 @@ Output files:
 - data/performance/consistency_all.csv (all seasons combined)
 
 Environment (.ENV in repo root):
-- current_season
+- mfl_api_key
+- mfl_league_id
+
+The current season is detected from MFL (see ingest/season.py).
 
 Usage:
     python models/consistency.py
@@ -36,11 +39,14 @@ Usage:
 from __future__ import annotations
 
 import os
-from datetime import datetime
+import sys
 from typing import Dict, List
 
 import polars as pl
 import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, 'ingest'))
+from season import detect_current_season  # noqa: E402
 
 
 def _repo_root() -> str:
@@ -489,8 +495,10 @@ def main():
     # Load environment
     env_path = os.path.join(_repo_root(), '.ENV')
     env = _load_env(env_path)
+    league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
+    api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
     
-    current_season = int(env.get('current_season', datetime.now().year))
+    current_season = detect_current_season(league_id, api_key)
     print(f"Current season: {current_season}")
     
     # Calculate metrics

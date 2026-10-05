@@ -50,7 +50,6 @@ jobs:
           cat > .ENV <<'EOF'
           mfl_api_key='${{ secrets.MFL_API_KEY }}'
           mfl_league_id='${{ secrets.MFL_LEAGUE_ID }}'
-          current_season='${{ vars.CURRENT_SEASON }}'
           EOF
 
       - name: Run consistency metrics calculation

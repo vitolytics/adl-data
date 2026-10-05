@@ -9,6 +9,7 @@ import requests
 import pandas as pd
 import json
 import os
+import re
 import glob
 from typing import Union
 import time
@@ -149,12 +150,13 @@ def create_roster_info_table(league_data: dict) -> pd.DataFrame:
 
     return pd.DataFrame(rows)
 
-def create_franchises_table(league_data):
+def create_franchises_table(league_data, season: int):
     """
     Create franchises table with division/conference info merged in
     
     Args:
         league_data (dict): The JSON response from the API
+        season (int): Season the data belongs to; draft pick counts are for season+1 and season+2
     
     Returns:
         pd.DataFrame: Complete franchises table with division info
@@ -213,18 +215,11 @@ def create_franchises_table(league_data):
             franchise_record['conference_id'] = None
             franchise_record['conference_name'] = None
         
-        # Parse draft picks
-        draft_picks = franchise.get('future_draft_picks', '')
-        if draft_picks:
-            picks_2026 = draft_picks.count('2026')
-            picks_2027 = draft_picks.count('2027')
-            franchise_record['draft_picks_2026_count'] = picks_2026
-            franchise_record['draft_picks_2027_count'] = picks_2027
-            franchise_record['total_future_picks'] = picks_2026 + picks_2027
-        else:
-            franchise_record['draft_picks_2026_count'] = 0
-            franchise_record['draft_picks_2027_count'] = 0
-            franchise_record['total_future_picks'] = 0
+        # Parse draft picks (ids look like FP_<franchise>_<year>_<round>; private, needs the API key)
+        pick_years = [int(y) for y in re.findall(r'FP_\d+_(\d{4})_\d+', str(franchise.get('future_draft_picks') or ''))]
+        franchise_record['draft_picks_next_year_count'] = pick_years.count(season + 1)
+        franchise_record['draft_picks_year_after_count'] = pick_years.count(season + 2)
+        franchise_record['total_future_picks'] = len(pick_years)
         
         # Convert numeric fields
         if franchise_record['salaryCapAmount']:
@@ -381,7 +376,7 @@ def process_single_year(year, league_id="60206", api_key=""):
     data = fetch_league_data(year, league_id, api_key)
     
     # Create tables
-    franchises_df = create_franchises_table(data)
+    franchises_df = create_franchises_table(data, int(year))
     settings_df = create_league_settings_table(data)
     roster_info_df = create_roster_info_table(data)
 
@@ -452,7 +447,12 @@ if __name__ == "__main__":
     print(franchises_df[['name', 'owner_name', 'division_name', 'conference_name']].head())
     '''
     from season import detect_current_season
+    from transactions import _load_env
+
+    env = _load_env(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, '.ENV'))
+    league_id = env.get('mfl_league_id') or env.get('MFL_LEAGUE_ID') or '60206'
+    api_key = env.get('mfl_api_key') or env.get('MFL_API_KEY') or ''
 
     # 2018 through the current season inclusive
-    years_to_process = range(2018, detect_current_season("60206") + 1)
-    process_multiple_years(years_to_process)
+    years_to_process = range(2018, detect_current_season(league_id, api_key) + 1)
+    process_multiple_years(years_to_process, league_id, api_key)

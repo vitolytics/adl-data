@@ -3,7 +3,7 @@ Fetches MFL player scores for a range of seasons and weeks and writes one CSV pe
 
 Rules:
 - Weekly files: data/playerScores/playerScores_{YEAR}_w{WEEK}.csv
-- Yearly file (combined across processed weeks): data/playerScores/playerScores_{YEAR}.csv
+- Yearly file (combined across every saved weekly file for the year): data/playerScores/playerScores_{YEAR}.csv
 - Weeks processed: 1–18 for all years (skips weeks that return no data, or that MFL answers with a different week's scores)
 - Current season and week are detected from MFL (see season.py); the current season is capped at the current week
 - 5-second pause between week requests
@@ -202,6 +202,24 @@ def save_weekly_csv(df: pd.DataFrame, year: int, week: int) -> str:
     return out_path
 
 
+def load_weekly_csvs(year: int) -> List[pd.DataFrame]:
+    """Read every saved weekly CSV for a year, ordered by week."""
+    out_dir = os.path.join(_repo_root(), 'data', 'playerScores')
+    prefix = f'playerScores_{year}_w'
+    weeks: List[int] = []
+    if os.path.isdir(out_dir):
+        for name in os.listdir(out_dir):
+            if name.startswith(prefix) and name.endswith('.csv'):
+                w = _safe_int(name[len(prefix):-len('.csv')])
+                if w is not None:
+                    weeks.append(w)
+    # MFL ids for team units carry leading zeros, so they must stay strings
+    return [
+        pd.read_csv(os.path.join(out_dir, f'{prefix}{w}.csv'), dtype={'id': str})
+        for w in sorted(weeks)
+    ]
+
+
 def save_yearly_csv(frames: Sequence[pd.DataFrame], year: int) -> str:
     out_dir = os.path.join(_repo_root(), 'data', 'playerScores')
     _ensure_dir(out_dir)
@@ -264,8 +282,9 @@ def default_weeks_for_year(year: int, current_year: int, current_week: int | Non
 
 
 def process_year(year: int, weeks: Iterable[int], league_id: str, api_key: str) -> str | None:
-    """Fetch the given weeks and rewrite the yearly CSV from them."""
-    weekly_frames = process_weeks_for_year(year, weeks, league_id, api_key)
+    """Fetch the given weeks, then rewrite the yearly CSV from every saved weekly CSV for the year."""
+    process_weeks_for_year(year, weeks, league_id, api_key)
+    weekly_frames = load_weekly_csvs(year)
     if not weekly_frames:
         print(f"No scores yet for {year}; yearly CSV not written.")
         return None

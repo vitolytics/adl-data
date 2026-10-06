@@ -2,9 +2,8 @@ name: Weekly Consistency Metrics Update
 
 on:
   schedule:
-    # Runs every Wednesday at 7:00 AM UTC (after player scores are updated)
-    # Adjust timing based on when your player scores workflow runs
-    - cron: '0 7 * * 3'
+    # Thursday at 9AM EST (2PM UTC) - one hour after the Thursday final player scores pull
+    - cron: '0 14 * * 4'
   workflow_dispatch: {}
 
 # Needed to push updated CSVs back to the repo

@@ -2,11 +2,18 @@ name: Weekly Player Scores Ingest
 
 on:
   schedule:
-    # Runs every Tuesday at 6:00 AM UTC (adjust as needed)
     # Cron format: minute hour day-of-month month day-of-week
     # 0 = Sunday, 1 = Monday, 2 = Tuesday, etc.
-    - cron: '0 6 * * 2'
-  workflow_dispatch: {}
+    # Monday, Tuesday and Friday at 4AM EST (9AM UTC)
+    - cron: '0 9 * * 1,2,5'
+    # Thursday at 8AM EST (1PM UTC) - after final scores are posted
+    - cron: '0 13 * * 4'
+  workflow_dispatch:
+    inputs:
+      full_refresh:
+        description: 'Re-fetch every week of the season (backfills missed runs and late stat corrections)'
+        type: boolean
+        default: false
 
 # Needed to push updated CSVs back to the repo
 permissions:
@@ -51,8 +58,8 @@ jobs:
           mfl_league_id='${{ secrets.MFL_LEAGUE_ID }}'
           EOF
 
-      - name: Run player scores ingest (all weeks of current season through current week)
-        run: python ingest/playerScores_current.py
+      - name: Run player scores ingest (previous and current week, or every week on full refresh)
+        run: python ingest/playerScores_current.py ${{ inputs.full_refresh && '--all-weeks' || '' }}
 
       - name: Remove ephemeral .ENV
         run: rm -f .ENV

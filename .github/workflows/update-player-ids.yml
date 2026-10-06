@@ -1,0 +1,63 @@
+name: Update Player IDs
+
+on:
+  schedule:
+    # Every other day at 1:30 PM UTC (9:30 AM EDT): Sun, Tue, Thu, Sat.
+    # GitHub cron cannot express a rolling 48-hour interval. These weekdays
+    # are the even spacing. DynastyProcess rebuilds the source on Fridays;
+    # the extra runs no-op when the file has not changed.
+    - cron: '30 13 * * 0,2,4,6'
+  workflow_dispatch: {}
+
+# Needed to push the updated CSV back to the repo
+permissions:
+  contents: write
+
+concurrency:
+  group: player-ids
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Ensure dependency manifest exists
+        run: |
+          if [ ! -f requirements.txt ]; then
+            echo "pandas" > requirements.txt
+            echo "requests" >> requirements.txt
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run player id ingestion
+        run: python ingest/player_ids.py
+
+      - name: Commit and push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Rebase on latest to minimize push conflicts
+          git pull --rebase || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): update player ids on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
+            git push
+          fi

@@ -4,8 +4,8 @@ on:
   schedule:
     # Every other day at 1:30 PM UTC (9:30 AM EDT): Sun, Tue, Thu, Sat.
     # GitHub cron cannot express a rolling 48-hour interval. These weekdays
-    # are the even spacing. DynastyProcess rebuilds the source on Fridays;
-    # the extra runs no-op when the file has not changed.
+    # are the even spacing. DynastyProcess rebuilds the source on Fridays and
+    # nflverse (rookie_season) daily; a run with no upstream change no-ops.
     - cron: '30 13 * * 0,2,4,6'
   workflow_dispatch: {}
 

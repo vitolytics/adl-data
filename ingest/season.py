@@ -5,9 +5,12 @@ season/week value has to be maintained by hand.
 Season rule:
 - The current season is the newest year (this calendar year, else last year) in which
   the league exists on MFL. MFL answers HTTP 404 for a year it has not opened yet and
-  HTTP 200 with an {"error": ...} body when the year is open but the league has not been
-  renewed into it. Any other failure (timeouts, 5xx) raises, so a transient outage can
-  never cause current data to be written into the previous season's files.
+  HTTP 200 with {"error": "Invalid league ID ..."} when the year is open but the league has
+  not been renewed into it. Those two are the only "not this year" answers.
+- MFL API keys are issued per season. A key from another season gets HTTP 200 with
+  {"error": "API Key Validation Failed"}; the league lookup is retried without the key.
+- Any other failure (timeouts, 5xx, other errors) raises, so a transient outage or a bad
+  key can never cause current data to be written into the previous season's files.
 
 Week rule:
 - The current week is the week MFL's nflSchedule export reports for the season.
@@ -58,7 +61,14 @@ def league_exists(year: int, league_id: str, api_key: str = "") -> bool:
     if 'league' in data:
         return True
     if 'error' in data:
-        return False
+        error = data['error']
+        message = str(error.get('$t', error) if isinstance(error, dict) else error)
+        if message.startswith('Invalid league ID'):
+            return False
+        if api_key and 'API Key' in message:
+            print(f"MFL rejected the API key for {year} ({message}); checking the league without it")
+            return league_exists(year, league_id, "")
+        raise SeasonDetectionError(f"MFL league lookup for {year} failed: {message}")
     raise SeasonDetectionError(f"Unexpected MFL league response for {year}: {list(data.keys())}")
 
 

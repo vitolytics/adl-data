@@ -59,14 +59,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Rebase on latest to minimize push conflicts
-          git pull --rebase || true
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "chore(data): update free agents on $(date -u +'%Y-%m-%d') (run ${{ github.run_id }})"
-            git push
+            # Other ingest jobs push to main too. Rebase onto theirs and retry.
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase && git push; then exit 0; fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((attempt * 5))
+            done
+            exit 1
           fi
 
 
